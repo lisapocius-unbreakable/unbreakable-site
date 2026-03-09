@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!--
+   ______                            __
+  / ____/___  ____ ___  ____  __  __/ /____  _____
+ / /   / __ \/ __ `__ \/ __ \/ / / / __/ _ \/ ___/
+/ /___/ /_/ / / / / / / /_/ / /_/ / /_/  __/ /
+\____/\____/_/ /_/ /_/ .___/\__,_/\__/\___/_/
+                    /_/
+        Created with Perplexity Computer
+        https://www.perplexity.ai/computer
+-->
+
+<!-- Perplexity Computer Attribution — SEO Meta Tags -->
+<meta name="generator" content="Perplexity Computer">
+<meta name="author" content="Perplexity Computer">
+<meta property="og:see_also" content="https://www.perplexity.ai/computer">
+<link rel="author" href="https://www.perplexity.ai/computer">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Bone Health Insights from Dr. Lisa Pocius. Articles on nutrition, exercise, medication, and living well with osteoporosis.">
+    <title>Blog | Unbreakable - Bone Health Insights</title>
+    
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Source+Sans+3:wght@300;400;500;600&display=swap" rel="stylesheet">
+    
+    <style>
+        :root {
+            --navy: #1a365d;
+            --navy-light: #2c5282;
+            --sky: #e8f4fc;
+            --sky-accent: #bee3f8;
+            --white: #ffffff;
+            --warm-white: #fafbfc;
+            --text-dark: #2d3748;
+            --text-muted: #4a5568;
+            --green-soft: #c6e4c6;
+            --shadow: 0 4px 20px rgba(26, 54, 93, 0.1);
+            --shadow-lg: 0 10px 40px rgba(26, 54, 93, 0.15);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            font-family: 'Source Sans 3', sans-serif;
+            font-weight: 400;
+            line-height: 1.7;
+            color: var(--text-dark);
+            background: var(--white);
+        }
+
+        h1, h2, h3, h4 {
+            font-family: 'Libre Baskerville', Georgia, serif;
+            font-weight: 700;
+            line-height: 1.3;
+            color: var(--navy);
+        }
+
+        /* Navigation */
+        nav {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            z-index: 1000;
+            padding: 1rem 2rem;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+        }
+
+        nav .nav-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        nav .logo {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 1.3rem;
+            color: var(--navy);
+            text-decoration: none;
+            font-weight: 700;
+        }
+
+        nav ul {
+            display: flex;
+            list-style: none;
+            gap: 2rem;
+        }
+
+        nav a {
+            text-decoration: none;
+            color: var(--text-dark);
+            font-weight: 500;
+            font-size: 0.95rem;
+            transition: color 0.3s ease;
+        }
+
+        nav a:hover {
+            color: var(--navy);
+        }
+
+        /* Page Header */
+        .page-header {
+            padding: 8rem 2rem 3rem;
+            background: linear-gradient(135deg, var(--sky) 0%, var(--white) 50%, var(--sky-accent) 100%);
+            text-align: center;
+        }
+
+        .page-header h1 {
+            font-size: 2.8rem;
+            margin-bottom: 0.75rem;
+        }
+
+        .page-header p {
+            font-size: 1.15rem;
+            color: var(--text-muted);
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        /* Blog Grid */
+        .blog-listing {
+            padding: 4rem 2rem 6rem;
+            background: var(--warm-white);
+        }
+
+        .blog-listing-container {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+
+        .blog-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 2rem;
+        }
+
+        .blog-card {
+            background: var(--white);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: var(--shadow);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            text-decoration: none;
+            color: inherit;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .blog-card:hover {
+            transform: translateY(-4px);
+            box-shadow: var(--shadow-lg);
+        }
+
+        .blog-card-image {
+            height: 180px;
+            overflow: hidden;
+        }
+
+        .blog-card-image img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            display: block;
+            transition: transform 0.3s ease;
+        }
+
+        .blog-card:hover .blog-card-image img {
+            transform: scale(1.03);
+        }
+
+        .blog-card-content {
+            padding: 1.5rem;
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .blog-card-tag {
+            display: inline-block;
+            background: var(--sky);
+            color: var(--navy);
+            font-size: 0.7rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            padding: 0.25rem 0.65rem;
+            border-radius: 20px;
+            margin-bottom: 0.75rem;
+            width: fit-content;
+        }
+
+        .blog-card-date {
+            font-size: 0.8rem;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            margin-bottom: 0.5rem;
+        }
+
+        .blog-card h3 {
+            font-size: 1.1rem;
+            margin-bottom: 0.75rem;
+        }
+
+        .blog-card p {
+            font-size: 0.9rem;
+            color: var(--text-muted);
+            margin-bottom: 1rem;
+            flex: 1;
+        }
+
+        .blog-card .read-more {
+            color: var(--navy);
+            font-weight: 600;
+            font-size: 0.9rem;
+        }
+
+        /* Footer */
+        footer {
+            background: var(--text-dark);
+            color: rgba(255, 255, 255, 0.7);
+            padding: 3rem 2rem;
+            text-align: center;
+        }
+
+        .footer-links {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .footer-links a {
+            color: rgba(255, 255, 255, 0.7);
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        .footer-links a:hover {
+            color: var(--white);
+        }
+
+        footer p {
+            font-size: 0.9rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .footer-disclaimer {
+            font-size: 0.8rem;
+            max-width: 600px;
+            margin: 1rem auto 0;
+            opacity: 0.7;
+        }
+
+        .footer-attribution {
+            margin-top: 1rem;
+            font-size: 0.8rem;
+            opacity: 0.6;
+        }
+
+        .footer-attribution a {
+            color: rgba(255, 255, 255, 0.7);
+            text-decoration: none;
+        }
+
+        .footer-attribution a:hover {
+            color: var(--white);
+        }
+
+        /* Mobile Responsive */
+        @media (max-width: 900px) {
+            nav ul {
+                display: none;
+            }
+
+            .blog-grid {
+                grid-template-columns: 1fr;
+                max-width: 500px;
+                margin: 0 auto;
+            }
+        }
+
+        @media (max-width: 600px) {
+            .page-header h1 {
+                font-size: 2rem;
+            }
+
+            .page-header {
+                padding: 7rem 1.5rem 2.5rem;
+            }
+
+            .blog-listing {
+                padding: 3rem 1.5rem 4rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav>
+        <div class="nav-container">
+            <a href="../index.html" class="logo">Unbreakable</a>
+            <ul>
+                <li><a href="../index.html#about">About</a></li>
+                <li><a href="../index.html#quiz">Risk Quiz</a></li>
+                <li><a href="index.html">Blog</a></li>
+                <li><a href="../index.html#newsletter">Subscribe</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Page Header -->
+    <div class="page-header">
+        <h1>Bone Health Insights</h1>
+        <p>Articles on nutrition, exercise, medication, and living well with osteoporosis</p>
+    </div>
+
+    <!-- Blog Listing -->
+    <section class="blog-listing">
+        <div class="blog-listing-container">
+            <div class="blog-grid">
+                <a href="bisphosphonates-explained.html" class="blog-card">
+                    <div class="blog-card-image">
+                        <img src="../images/blog-medication.png" alt="Bisphosphonates and osteoporosis medication">
+                    </div>
+                    <div class="blog-card-content">
+                        <span class="blog-card-tag">Medication</span>
+                        <div class="blog-card-date">March 23, 2026</div>
+                        <h3>Bisphosphonates Explained: What Your Doctor May Not Have Time to Tell You</h3>
+                        <p>How bisphosphonates work, common fears vs. actual risks, taking them correctly, and understanding drug holidays.</p>
+                        <span class="read-more">Read More →</span>
+                    </div>
+                </a>
+
+                <a href="weight-bearing-vs-resistance.html" class="blog-card">
+                    <div class="blog-card-image">
+                        <img src="../images/blog-exercise.png" alt="Weight-bearing and resistance exercises for bone health">
+                    </div>
+                    <div class="blog-card-content">
+                        <span class="blog-card-tag">Exercise</span>
+                        <div class="blog-card-date">March 16, 2026</div>
+                        <h3>Weight-Bearing vs. Resistance Training: Which One Builds Bone Better?</h3>
+                        <p>Understanding the difference between these two essential exercise types and how to get started safely.</p>
+                        <span class="read-more">Read More →</span>
+                    </div>
+                </a>
+
+                <a href="grocery-guide.html" class="blog-card">
+                    <div class="blog-card-image">
+                        <img src="../images/blog-grocery.png" alt="Bone-healthy foods and groceries">
+                    </div>
+                    <div class="blog-card-content">
+                        <span class="blog-card-tag">Nutrition</span>
+                        <div class="blog-card-date">March 9, 2026</div>
+                        <h3>Your Bone-Health Grocery Run: An Aisle-by-Aisle Guide</h3>
+                        <p>A practical guide to finding calcium, vitamin D, K2, magnesium, and protein at your regular grocery store.</p>
+                        <span class="read-more">Read More →</span>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="footer-links">
+            <a href="../index.html#about">About</a>
+            <a href="../index.html#quiz">Risk Quiz</a>
+            <a href="index.html">Blog</a>
+            <a href="mailto:contact@example.com">Contact</a>
+        </div>
+        <p>&copy; 2026 Lisa Pocius, MD. All rights reserved.</p>
+        <p class="footer-disclaimer">
+            The information on this website is for educational purposes only and is not intended as medical advice. 
+            Always consult with a qualified healthcare provider before making decisions about your health.
+        </p>
+        <p class="footer-attribution">
+            <a href="https://www.perplexity.ai/computer" target="_blank" rel="noopener noreferrer">Created with Perplexity Computer</a>
+        </p>
+    </footer>
+</body>
+</html>
