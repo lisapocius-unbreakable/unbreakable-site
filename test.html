@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deploy Test Page</title>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Source Sans 3', sans-serif; max-width: 600px; margin: 40px auto; padding: 20px; color: #1a365d; }
+        h1 { color: #1a365d; }
+        .test { margin: 20px 0; padding: 15px; border: 1px solid #ccc; border-radius: 8px; }
+        .pass { border-color: #38a169; background: #f0fff4; }
+        .label { font-weight: 600; }
+        img { max-width: 200px; border-radius: 8px; }
+        a { color: #2b6cb0; }
+    </style>
+</head>
+<body>
+    <h1>Deploy Test Page</h1>
+    <p>If everything below loads correctly, the /deploy/ subfolder is working.</p>
+
+    <div class="test">
+        <p class="label">CSS Test:</p>
+        <p>If this text is in Source Sans 3 font and styled with navy color, external CSS (Google Fonts) is loading.</p>
+    </div>
+
+    <div class="test">
+        <p class="label">Image Test (from images/ folder):</p>
+        <img src="images/blog-grocery.png" alt="Blog grocery image test">
+        <p>If you see a grocery/food image above, relative image paths work.</p>
+    </div>
+
+    <div class="test">
+        <p class="label">Internal Link Tests:</p>
+        <ul>
+            <li><a href="index.html">Homepage</a></li>
+            <li><a href="blog/index.html">Blog listing</a></li>
+            <li><a href="blog/grocery-guide.html">Grocery guide post</a></li>
+        </ul>
+        <p>If these links work and load the correct pages, internal navigation is correct.</p>
+    </div>
+
+    <div class="test">
+        <p class="label">Book cover image test:</p>
+        <img src="images/book-cover.png" alt="Book cover test">
+    </div>
+
+    <div class="test">
+        <p class="label">Author headshot test:</p>
+        <img src="images/author-headshot.jpg" alt="Author headshot test">
+    </div>
+</body>
+</html>
