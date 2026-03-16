@@ -837,6 +837,85 @@
                 grid-template-columns: 1fr;
             }
         }
+
+        /* Compact About Section */
+        .about-compact {
+            padding: 4rem 2rem;
+        }
+
+        .about-content-compact {
+            display: grid;
+            grid-template-columns: 180px 1fr;
+            gap: 2.5rem;
+            align-items: center;
+        }
+
+        .about-image-compact {
+            position: relative;
+        }
+
+        .about-image-compact::before {
+            content: '';
+            position: absolute;
+            top: 0.5rem;
+            left: 0.5rem;
+            right: -0.5rem;
+            bottom: -0.5rem;
+            background: var(--sky-accent);
+            border-radius: 12px;
+            z-index: 0;
+        }
+
+        .about-image-compact img {
+            width: 180px;
+            height: 180px;
+            object-fit: cover;
+            object-position: top;
+            border-radius: 12px;
+            position: relative;
+            z-index: 1;
+            box-shadow: var(--shadow);
+        }
+
+        .about-compact .about-text h2 {
+            font-size: 1.8rem;
+            margin-bottom: 0.75rem;
+        }
+
+        .about-compact .about-text p {
+            margin-bottom: 1.25rem;
+            color: var(--text-muted);
+        }
+
+        .credentials-compact {
+            margin-top: 1.25rem;
+            gap: 1rem;
+        }
+
+        .credentials-compact .credential {
+            padding: 0.6rem 0.8rem;
+        }
+
+        .credentials-compact .credential-number {
+            font-size: 1.4rem;
+        }
+
+        @media (max-width: 900px) {
+            .about-content-compact {
+                grid-template-columns: 1fr;
+                text-align: center;
+            }
+
+            .about-image-compact {
+                max-width: 150px;
+                margin: 0 auto;
+            }
+
+            .about-image-compact img {
+                width: 150px;
+                height: 150px;
+            }
+        }
     </style>
 </head>
 <body>
@@ -845,9 +924,9 @@
         <div class="nav-container">
             <a href="#" class="logo">Unbreakable</a>
             <ul>
-                <li><a href="#about">About</a></li>
+                <li><a href="#blog">Blog</a></li>
                 <li><a href="#quiz">Risk Quiz</a></li>
-                <li><a href="blog/index.html">Blog</a></li>
+                <li><a href="#about">About</a></li>
                 <li><a href="#newsletter">Subscribe</a></li>
             </ul>
         </div>
@@ -874,37 +953,50 @@
         </div>
     </section>
 
-    <!-- About Section -->
-    <section class="about" id="about">
+    <!-- Blog Section -->
+    <section class="blog" id="blog">
         <div class="section-container">
             <div class="section-title">
-                <h2>About Dr. Lisa Pocius</h2>
-                <p>The unique perspective of a physician who became her own patient</p>
+                <h2>Bone Health Insights</h2>
+                <p>Weekly articles on osteoporosis, nutrition, exercise, and living well with bone loss</p>
             </div>
-            <div class="about-content">
-                <div class="about-image">
-                    <img src="images/author-headshot.jpg" alt="Dr. Lisa Pocius">
-                </div>
-                <div class="about-text">
-                    <h3>Doctor. Author. Patient.</h3>
-                    <p>As a family physician with two decades of experience, I thought I knew everything about preventive medicine. Then I was diagnosed with osteoporosis and experienced compression fractures firsthand.</p>
-                    <p>That experience transformed how I approach bone health, both as a physician and as a patient. In <em>Unbreakable</em>, I share the medical knowledge I've gathered over my career alongside the personal lessons learned from my own journey.</p>
-                    <p>This isn't just another medical textbook. It's a practical, compassionate guide written for real people navigating a diagnosis that can feel overwhelming. Because I've been there too.</p>
-                    <div class="credentials">
-                        <div class="credential">
-                            <div class="credential-number">25+</div>
-                            <div class="credential-label">Years in Medicine</div>
-                        </div>
-                        <div class="credential">
-                            <div class="credential-number">🩺</div>
-                            <div class="credential-label">Patient — Living with Osteoporosis</div>
-                        </div>
-                        <div class="credential">
-                            <div class="credential-number">MD</div>
-                            <div class="credential-label">Board Certified</div>
-                        </div>
+            <div class="blog-grid">
+                <article class="blog-card">
+                    <div class="blog-card-image">
+                        <img src="images/blog-balance.png" alt="Balance training for fall prevention">
                     </div>
-                </div>
+                    <div class="blog-card-content">
+                        <div class="blog-card-date">March 30, 2026</div>
+                        <h3>Balance Training: The Exercise Nobody Talks About for Osteoporosis</h3>
+                        <p>Why falls are the real danger, and how simple daily habits can dramatically reduce your risk.</p>
+                        <a href="blog/balance-training.html">Read More →</a>
+                    </div>
+                </article>
+                <article class="blog-card">
+                    <div class="blog-card-image">
+                        <img src="images/blog-medication.png" alt="Bisphosphonates and osteoporosis medication">
+                    </div>
+                    <div class="blog-card-content">
+                        <div class="blog-card-date">March 23, 2026</div>
+                        <h3>Bisphosphonates Explained: What Your Doctor May Not Have Time to Tell You</h3>
+                        <p>How bisphosphonates work, common fears vs. actual risks, and understanding drug holidays.</p>
+                        <a href="blog/bisphosphonates-explained.html">Read More →</a>
+                    </div>
+                </article>
+                <article class="blog-card">
+                    <div class="blog-card-image">
+                        <img src="images/blog-exercise.png" alt="Weight-bearing and resistance exercises">
+                    </div>
+                    <div class="blog-card-content">
+                        <div class="blog-card-date">March 16, 2026</div>
+                        <h3>Weight-Bearing vs. Resistance Training: Which One Builds Bone Better?</h3>
+                        <p>Understanding the difference between these two essential exercise types and how to get started safely.</p>
+                        <a href="blog/weight-bearing-vs-resistance.html">Read More →</a>
+                    </div>
+                </article>
+            </div>
+            <div style="text-align: center; margin-top: 2.5rem;">
+                <a href="blog/index.html" style="color: var(--navy); font-weight: 600; text-decoration: none; font-size: 1rem;">View All Posts →</a>
             </div>
         </div>
     </section>
@@ -1007,50 +1099,31 @@
         </div>
     </section>
 
-    <!-- Blog Section -->
-    <section class="blog" id="blog">
+    <!-- About Section -->
+    <section class="about about-compact" id="about">
         <div class="section-container">
-            <div class="section-title">
-                <h2>Bone Health Insights</h2>
-                <p>Weekly articles on osteoporosis, nutrition, exercise, and living well with bone loss</p>
-            </div>
-            <div class="blog-grid">
-                <article class="blog-card">
-                    <div class="blog-card-image">
-                        <img src="images/blog-balance.png" alt="Balance training for fall prevention">
+            <div class="about-content about-content-compact">
+                <div class="about-image about-image-compact">
+                    <img src="images/author-headshot.jpg" alt="Dr. Lisa Pocius">
+                </div>
+                <div class="about-text">
+                    <h2 style="font-size: 1.8rem; margin-bottom: 0.75rem;">About Dr. Lisa Pocius</h2>
+                    <p>As a family physician with two decades of experience, I thought I knew everything about preventive medicine. Then I was diagnosed with osteoporosis and experienced compression fractures firsthand. <em>Unbreakable</em> combines my medical expertise with the personal lessons from my own journey, a practical, compassionate guide for real people navigating this diagnosis.</p>
+                    <div class="credentials credentials-compact">
+                        <div class="credential">
+                            <div class="credential-number">25+</div>
+                            <div class="credential-label">Years in Medicine</div>
+                        </div>
+                        <div class="credential">
+                            <div class="credential-number">🩺</div>
+                            <div class="credential-label">Patient — Living with Osteoporosis</div>
+                        </div>
+                        <div class="credential">
+                            <div class="credential-number">MD</div>
+                            <div class="credential-label">Board Certified</div>
+                        </div>
                     </div>
-                    <div class="blog-card-content">
-                        <div class="blog-card-date">March 30, 2026</div>
-                        <h3>Balance Training: The Exercise Nobody Talks About for Osteoporosis</h3>
-                        <p>Why falls are the real danger, and how simple daily habits can dramatically reduce your risk.</p>
-                        <a href="blog/balance-training.html">Read More →</a>
-                    </div>
-                </article>
-                <article class="blog-card">
-                    <div class="blog-card-image">
-                        <img src="images/blog-medication.png" alt="Bisphosphonates and osteoporosis medication">
-                    </div>
-                    <div class="blog-card-content">
-                        <div class="blog-card-date">March 23, 2026</div>
-                        <h3>Bisphosphonates Explained: What Your Doctor May Not Have Time to Tell You</h3>
-                        <p>How bisphosphonates work, common fears vs. actual risks, and understanding drug holidays.</p>
-                        <a href="blog/bisphosphonates-explained.html">Read More →</a>
-                    </div>
-                </article>
-                <article class="blog-card">
-                    <div class="blog-card-image">
-                        <img src="images/blog-exercise.png" alt="Weight-bearing and resistance exercises">
-                    </div>
-                    <div class="blog-card-content">
-                        <div class="blog-card-date">March 16, 2026</div>
-                        <h3>Weight-Bearing vs. Resistance Training: Which One Builds Bone Better?</h3>
-                        <p>Understanding the difference between these two essential exercise types and how to get started safely.</p>
-                        <a href="blog/weight-bearing-vs-resistance.html">Read More →</a>
-                    </div>
-                </article>
-            </div>
-            <div style="text-align: center; margin-top: 2.5rem;">
-                <a href="blog/index.html" style="color: var(--navy); font-weight: 600; text-decoration: none; font-size: 1rem;">View All Posts →</a>
+                </div>
             </div>
         </div>
     </section>
@@ -1099,6 +1172,7 @@
             <script async data-uid="34502a1d68" src="https://crafty-experimenter-5336.kit.com/34502a1d68/index.js"></script>
         </div>
     </section>
+
 
     <!-- Footer -->
     <footer>
