@@ -838,6 +838,101 @@
             }
         }
 
+        /* Start Here Section */
+        .start-here {
+            background: var(--white);
+            padding: 3.5rem 2rem 3rem;
+        }
+
+        .start-here .section-container {
+            max-width: 1000px;
+        }
+
+        .start-here-header {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+
+        .start-here-header h2 {
+            font-size: 1.8rem;
+            margin-bottom: 0.4rem;
+        }
+
+        .start-here-header p {
+            font-size: 1rem;
+            color: var(--text-muted);
+        }
+
+        .pathway-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 1.25rem;
+        }
+
+        .pathway-card {
+            background: var(--warm-white);
+            border: 1px solid #e2e8f0;
+            border-radius: 12px;
+            padding: 1.5rem 1.25rem 1.25rem;
+            text-decoration: none;
+            color: inherit;
+            transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .pathway-card:hover {
+            transform: translateY(-3px);
+            box-shadow: var(--shadow);
+            border-color: var(--navy);
+        }
+
+        .pathway-icon {
+            font-size: 1.6rem;
+            margin-bottom: 0.6rem;
+            line-height: 1;
+        }
+
+        .pathway-card h3 {
+            font-family: 'Libre Baskerville', Georgia, serif;
+            font-size: 1rem;
+            font-weight: 700;
+            color: var(--navy);
+            margin-bottom: 0.5rem;
+            line-height: 1.3;
+        }
+
+        .pathway-card p {
+            font-size: 0.85rem;
+            color: var(--text-muted);
+            line-height: 1.55;
+            margin-bottom: 0.75rem;
+            flex: 1;
+        }
+
+        .pathway-link {
+            font-size: 0.8rem;
+            font-weight: 600;
+            color: var(--navy);
+            letter-spacing: 0.02em;
+        }
+
+        @media (max-width: 900px) {
+            .pathway-grid {
+                grid-template-columns: 1fr 1fr;
+            }
+        }
+
+        @media (max-width: 600px) {
+            .pathway-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .start-here {
+                padding: 2.5rem 1.5rem 2rem;
+            }
+        }
+
         /* Compact About Section */
         .about-compact {
             padding: 4rem 2rem;
@@ -954,6 +1049,42 @@
         </div>
     </section>
 
+    <!-- Start Here Section -->
+    <section class="start-here" id="start-here">
+        <div class="section-container">
+            <div class="start-here-header">
+                <h2>Not Sure Where to Start?</h2>
+                <p>Pick the path that fits where you are right now</p>
+            </div>
+            <div class="pathway-grid">
+                <a href="faq.html" class="pathway-card">
+                    <div class="pathway-icon">📋</div>
+                    <h3>Just Diagnosed?</h3>
+                    <p>Start with the basics about what osteoporosis means and what to expect.</p>
+                    <span class="pathway-link">Read the FAQ →</span>
+                </a>
+                <a href="blog/bisphosphonates-explained.html" class="pathway-card">
+                    <div class="pathway-icon">💊</div>
+                    <h3>Understanding Your Medications?</h3>
+                    <p>Plain-English explanations of common treatments and what to ask your doctor.</p>
+                    <span class="pathway-link">Learn about treatments →</span>
+                </a>
+                <a href="blog/weight-bearing-vs-resistance.html" class="pathway-card">
+                    <div class="pathway-icon">🦴</div>
+                    <h3>Building Stronger Bones?</h3>
+                    <p>Practical exercise routines and meal plans designed for bone health.</p>
+                    <span class="pathway-link">Explore exercises →</span>
+                </a>
+                <a href="#quiz" class="pathway-card">
+                    <div class="pathway-icon">✅</div>
+                    <h3>Check Your Risk</h3>
+                    <p>A quick assessment to understand your personal risk factors.</p>
+                    <span class="pathway-link">Take the quiz →</span>
+                </a>
+            </div>
+        </div>
+    </section>
+
     <!-- Blog Section -->
     <section class="blog" id="blog">
         <div class="section-container">
@@ -986,13 +1117,13 @@
                 </article>
                 <article class="blog-card">
                     <div class="blog-card-image">
-                        <img src="images/blog-exercise.png" alt="Weight-bearing and resistance exercises">
+                        <img src="images/blog-mealplan.jpg" alt="7-day bone-building meal plan">
                     </div>
                     <div class="blog-card-content">
-                        <div class="blog-card-date">March 16, 2026</div>
-                        <h3>Weight-Bearing vs. Resistance Training: Which One Builds Bone Better?</h3>
-                        <p>Understanding the difference between these two essential exercise types and how to get started safely.</p>
-                        <a href="blog/weight-bearing-vs-resistance.html">Read More →</a>
+                        <div class="blog-card-date">April 6, 2026</div>
+                        <h3>Your 7-Day Bone-Building Meal Plan: Simple Recipes for Stronger Bones</h3>
+                        <p>A week of easy, calcium-rich meals designed for bone health. Includes a printable grocery list.</p>
+                        <a href="blog/meal-plan.html">Read More →</a>
                     </div>
                 </article>
             </div>
