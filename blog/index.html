@@ -334,6 +334,70 @@
         </div>
     </nav>
 
+    <!-- Pre-order Banner -->
+    <style>
+        .preorder-banner {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: 1001;
+            background: linear-gradient(90deg, #1a3a52 0%, #2a5577 100%);
+            color: #ffffff;
+            padding: 0.55rem 1.5rem;
+            border-bottom: 2px solid #f9a825;
+        }
+        .preorder-banner-inner {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 1rem;
+            flex-wrap: wrap;
+            font-family: 'Inter', 'Source Sans 3', sans-serif;
+            font-size: 0.9rem;
+            line-height: 1.4;
+        }
+        .preorder-banner-text strong {
+            font-weight: 700;
+            color: #f9a825;
+        }
+        .preorder-banner-cta {
+            display: inline-block;
+            background: #f9a825;
+            color: #1a3a52;
+            padding: 0.4rem 1rem;
+            border-radius: 6px;
+            font-weight: 700;
+            text-decoration: none;
+            font-size: 0.85rem;
+            transition: background 0.2s ease, transform 0.2s ease;
+            white-space: nowrap;
+        }
+        .preorder-banner-cta:hover {
+            background: #ffb938;
+            transform: translateY(-1px);
+        }
+        /* Push the existing fixed nav and body content down to make room for the banner */
+        nav { top: 42px !important; }
+        body { padding-top: 42px; }
+        @media (max-width: 700px) {
+            .preorder-banner { padding: 0.5rem 0.75rem; }
+            .preorder-banner-inner { font-size: 0.8rem; gap: 0.5rem; }
+            .preorder-banner-cta { padding: 0.35rem 0.85rem; font-size: 0.78rem; }
+            nav { top: 64px !important; }
+            body { padding-top: 64px; }
+        }
+    </style>
+    <div class="preorder-banner">
+        <div class="preorder-banner-inner">
+            <span class="preorder-banner-text"><strong>Now available for pre-order:</strong> <em>Osteoporosis: The Book I Wish I'd Had When I Was Diagnosed</em></span>
+            <a href="https://www.amazon.com/dp/B0GZ271ZWC" target="_blank" rel="noopener" class="preorder-banner-cta">Pre-order on Amazon &rarr;</a>
+        </div>
+    </div>
+
+
     <!-- Page Header -->
     <div class="page-header">
         <h1>Bone Health Insights</h1>
