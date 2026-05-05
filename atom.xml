@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>mybone.health Blog</title>
+  <subtitle>Evidence-based articles on osteoporosis, bone health, and living well with bone loss, by Dr. Lisa Pocius.</subtitle>
+  <link href="https://mybone.health/atom.xml" rel="self" />
+  <link href="https://mybone.health" />
+  <id>https://mybone.health/</id>
+  <updated>2026-05-03T00:00:00Z</updated>
+  <author>
+    <name>Dr. Lisa Pocius</name>
+    <email>lisa.pocius@gmail.com</email>
+  </author>
+  <entry>
+    <title>Daily Injections That Build Bone: Understanding Forteo and Tymlos</title>
+    <link href="https://mybone.health/blog/anabolic-medications.html" />
+    <id>https://mybone.health/blog/anabolic-medications.html</id>
+    <updated>2026-05-03T00:00:00Z</updated>
+    <published>2026-05-03T00:00:00Z</published>
+    <category term="Medication" />
+    <summary>A clear guide to Forteo and Tymlos, the two daily bone-building injections for osteoporosis: how they work, who they help, what changed about the 2-year limit, side effects, and why a follow-up medication matters.</summary>
+    <content type="html"><![CDATA[<p>If you've been told you might benefit from a bone-building injection rather than a pill, the conversation can feel like it shifts overnight. You went in expecting to talk about Fosamax or Reclast, and instead your doctor is talking about something called an anabolic agent. As a physician and an osteoporosis patient myself, I want to walk you through what these medications are, why your doctor might recommend one, and what has recently changed about how long you can stay on them.</p>
+
+        <p>A quick note on scope before we dive in. There are three FDA-approved anabolic agents for osteoporosis. Two are daily injections that work through the parathyroid hormone pathway: <strong>teriparatide (Forteo)</strong> and <strong>abaloparatide (Tymlos)</strong>. The third, <strong>romosozumab (Evenity)</strong>, works through a completely different mechanism and has its own treatment schedule, side effect profile, and considerations. Today I want to focus on Forteo and Tymlos, the two daily injection options. Evenity deserves its own dedicated post, and I will write that one next.</p>
+
+        <h2>Anabolic Versus Antiresorptive: Two Different Jobs</h2>
+
+        <p>Most osteoporosis medications are antiresorptive. That includes the bisphosphonates (Fosamax, Actonel, Boniva, Reclast) and denosumab (Prolia). They work by slowing down the cells that break down bone, which gives your bone-building cells a chance to catch up.</p>
+
+        <p>Anabolic medications work in the opposite direction. They actively stimulate the bone-building cells, called osteoblasts, to lay down new bone tissue. Forteo and Tymlos are both synthetic versions of parathyroid hormone or a closely related fragment, and both have been shown in head-to-head studies to produce larger gains in bone density than bisphosphonates alone.</p>
+
+        <p>If bisphosphonates put up scaffolding to protect what you have, anabolic agents are the construction crew adding new floors.</p>
+
+        <h2>Why a Doctor Might Recommend One</h2>
+
+        <p>Forteo and Tymlos are not first-line therapy for everyone. Insurance plans and clinical guidelines reserve them for patients at <em>very high</em> fracture risk, or for patients who cannot take or have not responded to a bisphosphonate. The <a href="https://files.providernews.anthem.com/6810/CC-0038_Pub-10-01-2025-(final).pdf">Anthem clinical criteria</a> and the <a href="https://static.cigna.com/assets/chcp/pdf/coveragePolicies/cnf/cnf_329_coveragepositioncriteria_bone_modifiers_tymlos_pa.pdf">Cigna prior authorization policy</a> reflect this directly. Your doctor will typically consider one of these medications if you fit one of these patterns:</p>
+
+        <ul>
+            <li>A T-score of -3.0 or lower</li>
+            <li>A history of multiple vertebral fractures, or a recent fragility fracture</li>
+            <li>A fracture that occurred while already on bisphosphonate therapy</li>
+            <li>A serious side effect from a bisphosphonate, or a medical reason you cannot take one (severe reflux, certain kidney issues, esophageal disorders)</li>
+            <li>A FRAX 10-year probability of major osteoporotic fracture above 30% or hip fracture above 4.5%</li>
+        </ul>
+
+        <p>That last bullet is where FRAX and FRAXplus earn their place in the conversation.</p>
+
+        <h2>Where FRAX and FRAXplus Fit In</h2>
+
+        <p>FRAX is a free online calculator developed at the University of Sheffield that estimates your 10-year probability of a hip fracture and a major osteoporotic fracture. It uses your age, sex, weight, height, smoking and alcohol history, prior fractures, parental hip fracture history, glucocorticoid use, rheumatoid arthritis, and (optionally) your femoral neck bone density.</p>
+
+        <p>FRAXplus is a newer companion tool that lets clinicians refine that estimate by accounting for things standard FRAX misses, such as recency of a recent fracture, higher-than-average glucocorticoid doses, type 2 diabetes duration, falls in the past year, lumbar spine bone density, hip axis length, and the trabecular bone score. The <a href="https://www.osteoporosis.foundation/news/new-fraxplusr-beta-version-illustrates-potential-refined-risk-factor-information-entered">International Osteoporosis Foundation</a> notes that these adjustments can meaningfully shift probabilities upward in patients whose risk would otherwise be underestimated.</p>
+
+        <p>Why does this matter for you? Two reasons. First, the FRAX or FRAXplus number often determines whether your insurance company will approve an anabolic agent. Coverage criteria are written in those exact thresholds. Second, it gives both you and your doctor a clearer, individualized picture of your fracture risk rather than relying on a T-score in isolation. If your T-score is borderline but your FRAX score is high because of falls, family history, or a recent fracture, that is meaningful information.</p>
+
+        <h2>How They Are Given, and What the Side Effects Look Like</h2>
+
+        <p>Both medications are self-administered as a daily injection just under the skin of your abdomen or thigh, using a prefilled pen that is similar to an insulin pen. Forteo is given as one injection daily. Tymlos is also one injection daily. The pens are kept refrigerated, and the technique is straightforward to learn.</p>
+
+        <p>The daily routine is the trade-off. Most patients adjust within a couple of weeks and settle into a rhythm of injecting at the same time each day, often paired with another habit like morning coffee or brushing teeth.</p>
+
+        <p>The most common side effects are mild and tend to improve over time. They include dizziness or lightheadedness when standing (especially after the first dose), nausea, leg cramps, mild headache, and injection-site irritation. Calcium levels can rise temporarily, so your doctor will monitor blood work periodically.</p>
+
+        <p>Serious side effects are uncommon. Both medications carry a historical concern about osteosarcoma, a rare bone cancer, based on findings in rats given very high doses for most of their lives. The <a href="https://www.goodrx.com/forteo/how-to-manage-forteo-side-effects">FDA removed the boxed warning for Forteo in 2020</a> after long-term real-world studies in humans found no increased risk, and the boxed warning was similarly removed for Tymlos. Real-world osteosarcoma rates in patients on these medications have not differed from background rates in the general population.</p>
+
+        <h2>What Changed About the 2-Year Limit</h2>
+
+        <p>For years, both Forteo and Tymlos carried a flat recommendation against cumulative use beyond 2 years in a patient's lifetime. That guidance has softened. The boxed warning is gone, and the <a href="https://pi.lilly.com/us/forteo-pi.pdf">current Forteo prescribing information</a> states that use beyond 2 years "should only be considered if a patient remains at or has returned to having a high risk for fracture." The hard ceiling is now a clinical judgment call between you and your doctor, and insurance coverage policies are gradually catching up.</p>
+
+        <p>This is meaningful news for patients with very severe osteoporosis who finished a 2-year course years ago and have since lost ground. A second course is now a real conversation rather than an automatic no.</p>
+
+        <h2>Why a Follow-Up Medication Matters</h2>
+
+        <p>This is the single most important point I want you to take from this post. The bone you build during a course of Forteo or Tymlos is not permanent on its own. If you stop the anabolic agent and do not start an antiresorptive medication afterward, the new bone you worked so hard to build begins to disappear, sometimes quickly.</p>
+
+        <p>The standard sequence, supported by guidelines from the <a href="https://melioguide.com/medications/bisphosphonates-osteoporosis-guidelines/">American College of Physicians and other major societies</a>, is anabolic first, antiresorptive second. After 1 to 2 years (or longer, if your situation warrants) of Forteo or Tymlos, your doctor will typically transition you to a bisphosphonate (oral or IV) or, in some cases, denosumab. The follow-up medication locks in the gains. <a href="https://endocrinology.medicinetoday.com.au/et/2021/november/regular-series/anabolic-therapy-new-paradigm-osteoporosis-management">Studies in Endocrinology Today</a> describe this as essential rather than optional. Without the follow-up, the investment of time, daily injections, and cost is largely lost.</p>
+
+        <h2>Questions Worth Bringing to Your Appointment</h2>
+
+        <p>If your doctor is considering an anabolic agent for you, here are some questions that tend to make the conversation more productive:</p>
+
+        <ul>
+            <li>What is my FRAX score, and have we considered any FRAXplus adjustments that apply to me?</li>
+            <li>Is Forteo or Tymlos a better fit for my situation, and why?</li>
+            <li>What antiresorptive medication will follow, and how soon after my last injection will I start it?</li>
+            <li>How will my insurance handle prior authorization, and is there a patient assistance program if it isn't covered?</li>
+            <li>What lab work will we monitor while I'm on treatment?</li>
+            <li>Given the updated guidance, would I be a candidate for a longer or repeat course down the road?</li>
+        </ul>
+
+        <p>Forteo and Tymlos are powerful tools, and the recent shift in long-term guidance opens up real options for patients who were previously told they had used up their lifetime allotment. But they work best as one chapter of a larger plan, paired with a follow-up antiresorptive, with weight-bearing exercise, with adequate calcium and vitamin D, and with a thoughtful approach to fall prevention. None of those things stand alone, and that is genuinely good news. It means there are several places where your effort can make a real difference.</p>
+
+        <p><em>Coming next: a closer look at Evenity (romosozumab), the third anabolic option, including how its mechanism differs, why it carries a cardiovascular caution, and where it fits in the sequence of treatments.</em></p>]]></content>
+    <author>
+      <name>Dr. Lisa Pocius</name>
+      <email>lisa.pocius@gmail.com</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Balance Training: The Exercise Nobody Talks About for Osteoporosis</title>
+    <link href="https://mybone.health/blog/balance-training.html" />
+    <id>https://mybone.health/blog/balance-training.html</id>
+    <updated>2026-03-30T00:00:00Z</updated>
+    <published>2026-03-30T00:00:00Z</published>
+    <category term="Fall Prevention" />
+    <summary>Why balance training is critical for osteoporosis. Learn how falls cause fractures, formal PT options, and simple daily habits to improve your stability.</summary>
+    <content type="html"><![CDATA[<p>When people think about osteoporosis, they picture fragile bones. That makes sense. But the bones themselves are only half the story. The real danger, the thing that actually causes the fractures, the hospitalizations, the loss of independence, is falling.</p>
+
+        <p>More than 95% of hip fractures are caused by falls, <a href="https://www.osteoporosis.foundation/facts-statistics/epidemiology-of-osteoporosis-and-fragility-fractures" target="_blank" rel="noopener noreferrer">according to the International Osteoporosis Foundation</a>. One out of four older adults falls each year, and falling once doubles your chances of falling again. After a hip fracture, mortality rates reach 20 to 24% in the first year, and 60% of survivors still need help with daily activities a year later.</p>
+
+        <p>You can have the best bone density medication, the perfect calcium intake, a solid exercise routine. But if a fall sends you to the ground, none of that may matter in that moment. Keeping yourself upright is the single most protective thing you can do.</p>
+
+        <p>And yet, when doctors talk about osteoporosis management, balance training often gets a brief mention at the end of the conversation, if it comes up at all.</p>
+
+        <h2>Why Balance Deserves Its Own Conversation</h2>
+
+        <p>We tend to take balance for granted until it starts slipping. But balance is a complex skill involving your inner ear, your vision, the sensory receptors in your feet and joints, and your brain coordinating all that information in real time. As we age, every part of that system gradually changes. Reaction times slow. The sensory nerves in our feet become less sensitive. Muscle strength decreases, particularly in the ankles and hips.</p>
+
+        <p>The good news is that balance, like strength, responds to training. A <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7466089/" target="_blank" rel="noopener noreferrer">meta-analysis published in the Journal of Clinical Medicine</a> found that exercise programs significantly reduced the total number of falls in older adults and improved both static and dynamic balance. Programs that included balance training showed fall rate reductions ranging from 23% to 58%, depending on the type of training.</p>
+
+        <h2>Formal Balance Training with a Physical Therapist</h2>
+
+        <p>If you have the opportunity, working with a physical therapist who understands osteoporosis is one of the best investments you can make. A PT can assess your specific balance weaknesses, identify fall risk factors in your daily movements, and design a progressive program tailored to your needs.</p>
+
+        <p>Formal programs typically include tandem standing (one foot directly in front of the other), heel-to-toe walking, single-leg stands, weight shifts in multiple directions, and functional movements like reaching and turning. The <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10345999/" target="_blank" rel="noopener noreferrer">Journal of Bone Metabolism's exercise guidelines</a> recommend balance training one to three days per week, at least 15 minutes per session, progressively increasing difficulty over six months or more.</p>
+
+        <p>Tai chi has particularly strong evidence behind it, with studies showing fall reductions of 31 to 58%. It combines slow, deliberate weight shifts with gentle turning and reaching, training exactly the kind of controlled movement that prevents falls in daily life.</p>
+
+        <h2>The Everyday Approach: Small Moments All Day Long</h2>
+
+        <p>Not everyone can get to a physical therapist regularly, and that's okay. One of the most encouraging things about balance training is that you can build it into your daily routine in small, simple ways.</p>
+
+        <p><strong>Stand on one foot while you brush your teeth.</strong> Keep a hand on the counter or lightly touch the wall. You're not trying to be a flamingo. You're just asking your body to practice stabilizing on a single leg, which is exactly what it does with every step you take.</p>
+
+        <p><strong>Walk on your lawn instead of the sidewalk.</strong> Grass, packed dirt, or an easy natural path provides just enough unevenness to challenge your balance system without being dangerous. Your brain has to make constant micro-adjustments to the changing terrain, and those adjustments build the neural pathways that keep you steady on your feet.</p>
+
+        <p><strong>Stand up from a chair without using your hands</strong> when you can do so safely. This trains both leg strength and balance together.</p>
+
+        <p><strong>Pause before you turn.</strong> Instead of spinning quickly to change direction, practice deliberate, controlled turns. Many falls happen during transitions, when you're reaching, turning, or moving from sitting to standing.</p>
+
+        <p>These are not dramatic exercises. They take no extra time. But done consistently throughout the day, they add up. The research supports this: a <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7466089/" target="_blank" rel="noopener noreferrer">home-based balance program studied in the Journal of Clinical Medicine</a> found that integrating balance challenges into daily activities reduced falls by 77% compared to the control group.</p>
+
+        <h2>A Word of Caution</h2>
+
+        <p>Balance training is remarkably safe for most people, but it does require some common sense. If you have had a recent fracture, experience dizziness from medication or a medical condition, or are dealing with very advanced frailty, talk with your doctor or physical therapist before starting. Even simple standing exercises need a stable support nearby.</p>
+
+        <p>The <a href="https://www.mayoclinic.org/diseases-conditions/osteoporosis/in-depth/osteoporosis/art-20044989" target="_blank" rel="noopener noreferrer">Mayo Clinic recommends</a> that people with more advanced osteoporosis consult their healthcare provider about which exercises are safe for their specific situation. The goal is to build confidence, not to take unnecessary risks.</p>
+
+        <p>Always have something sturdy within reach when you practice. A countertop, a heavy chair, a wall. This is not cheating. It is smart.</p>
+
+        <h2>The Bigger Picture</h2>
+
+        <p>After my own diagnosis, I became acutely aware of how fear of falling can shrink your world. I wrote about this in my book: the anxiety that makes you avoid stairs, skip the walk, stay home. That fear is understandable. But avoiding movement makes you weaker, which makes you less stable, which makes falls more likely. It is a vicious cycle, and balance training is one of the best ways to break it.</p>
+
+        <p>You do not need perfect balance. You need better balance than you have today. And that is achievable at any age, at any starting point, with consistent practice.</p>
+
+        <p>Your bones matter. Keeping yourself on your feet matters just as much.</p>]]></content>
+    <author>
+      <name>Dr. Lisa Pocius</name>
+      <email>lisa.pocius@gmail.com</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Tips and Tricks for Actually Taking Your Bisphosphonate</title>
+    <link href="https://mybone.health/blog/bisphosphonate-tips.html" />
+    <id>https://mybone.health/blog/bisphosphonate-tips.html</id>
+    <updated>2026-03-30T00:00:00Z</updated>
+    <published>2026-03-30T00:00:00Z</published>
+    <category term="Medication" />
+    <summary>Practical tips for making bisphosphonate therapy work in your daily life.</summary>
+    <content type="html"><![CDATA[<p>If you have been prescribed a bisphosphonate like alendronate (Fosamax), risedronate (Actonel), or ibandronate (Boniva), you probably got a long list of instructions. Take it first thing in the morning. On an empty stomach. With a full glass of water. Stay upright for 30 minutes. Do not eat or drink anything else. Do not take your other medications. Do not go back to bed.</p>
+
+        <p>It can feel like a chemistry exam before breakfast. And the truth is, a lot of people quietly stop taking these medications because the routine is inconvenient or uncomfortable. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3017316/" target="_blank" rel="noopener noreferrer">Research published in Osteoporosis International</a> found that poor compliance with oral bisphosphonates is a widespread problem, and it is usually not because people forget. Most people are actively choosing not to take them, often because the experience is unpleasant or the instructions feel burdensome.</p>
+
+        <p>So after talking with patients for years and hearing what works, I have put together my best practical tips for making bisphosphonate therapy livable.</p>
+
+        <h2>Get the Water Right</h2>
+
+
+        <p>This is the single most important thing. Drink a full 8-ounce glass of plain water with your tablet. Not a sip. Not a few gulps. A full glass. The <a href="https://www.accessdata.fda.gov/drugsatfda_docs/label/2004/20560slr030,21575slr002_fosamax_lbl.pdf" target="_blank" rel="noopener noreferrer">FDA's prescribing information for Fosamax</a> specifies 6 to 8 ounces of plain water.</p>
+
+        <p>The reason matters: the water helps the tablet travel quickly through your esophagus and into your stomach, reducing the chance of irritation. <a href="https://www.hss.edu/health-library/conditions-and-treatments/bisphosphonate-side-effects-risks" target="_blank" rel="noopener noreferrer">According to the Hospital for Special Surgery</a>, most patients who report gastrointestinal side effects turn out to be not following the dosing instructions properly. When taken correctly, the incidence of serious esophageal irritation is very low.</p>
+
+        <p>Water only. Not coffee, not juice, not sparkling water. Those can interfere with absorption. Your morning coffee can wait 30 minutes.</p>
+
+        <h2>Build It Into a Routine You Already Have</h2>
+
+
+        <p>The 30-minute upright waiting period is where most people struggle. My suggestion: use that time. Set your medication and a glass of water on your nightstand. When your alarm goes off, take it before your feet hit the floor (while sitting up), then start your morning routine.</p>
+
+        <p>Shower. Get dressed. Make the bed. Walk the dog. Read the news. Or try meditating. That 30-minute upright window is actually a perfect opportunity for a morning meditation practice. You are already sitting quietly with nothing else to do. Even five or ten minutes of focused breathing can lower cortisol levels, which is good for your bones and your mood. By the time you are done, 30 minutes have passed, and you can eat breakfast and take your other medications. The waiting period stops feeling like dead time once you assign it a purpose.</p>
+
+        <p>If you take the weekly version, pick a day that works for you. Many of my patients choose Monday morning because it is easy to remember as the start of the week. Others prefer a weekend day when the morning routine is more relaxed.</p>
+
+        <h2>Do Not Lie Down</h2>
+
+
+        <p>This one sounds simple, but it trips people up, especially early risers who take the pill and then want to rest for a few more minutes. Lying down allows the tablet to sit in your esophagus, which is how irritation happens. Sit upright, stand, or walk around. <a href="https://my.clevelandclinic.org/health/drugs/19768-alendronate-weekly-tablets" target="_blank" rel="noopener noreferrer">The Cleveland Clinic</a> recommends staying fully upright for at least 30 minutes and waiting to eat or drink anything else during that time.</p>
+
+        <p>If you find yourself tempted to lie back down, that is a sign to move the medication to a time when you are truly getting up for the day.</p>
+
+        <h2>Separate It From Everything Else</h2>
+
+
+        <p>Bisphosphonates have notoriously poor absorption, about 1% of the dose under ideal conditions. Anything in your stomach competes with that. <a href="https://www.goodrx.com/alendronate/why-alendronate-taken-once-a-week" target="_blank" rel="noopener noreferrer">Pharmacists at GoodRx recommend</a> waiting at least 30 minutes before taking calcium supplements, magnesium, iron, multivitamins, or antacids, as all of these can significantly reduce how much medication your body actually absorbs.</p>
+
+        <p>The same goes for food. Even a small bite of toast can cut absorption dramatically. I know it is tempting to grab something while you wait, but the medication genuinely cannot do its job if there is food in your stomach.</p>
+
+        <h2>Know When to Speak Up</h2>
+
+
+        <p>Mild heartburn or stomach discomfort in the first few weeks is common and often resolves. But if you develop difficulty swallowing, pain when swallowing, or chest pain, stop the medication and call your doctor. These could be signs of esophageal irritation that needs evaluation.</p>
+
+        <p>And if the oral medication simply does not work for your body or your life, tell your doctor. There are alternatives. Intravenous zoledronic acid (Reclast) is given just once a year and avoids the GI tract entirely. <a href="https://www.hss.edu/health-library/conditions-and-treatments/bisphosphonate-side-effects-risks" target="_blank" rel="noopener noreferrer">The Hospital for Special Surgery notes</a> that IV bisphosphonates are a good option for patients who cannot tolerate oral formulations.</p>
+
+        <p>Beyond IV bisphosphonates, there are also entirely different classes of osteoporosis medications, including denosumab (Prolia), which is a twice-yearly injection, and anabolic agents like teriparatide (Forteo) and romosozumab (Evenity), which actually build new bone rather than just slowing breakdown. Your doctor can help you weigh the options based on your specific situation.</p>
+
+        <p>You should not suffer in silence with a medication that is making you miserable. There are other paths to the same goal.</p>
+
+        <h2>Think of It as a Long Game</h2>
+
+
+        <p>Bisphosphonates work slowly. You will not feel different after a week or a month. The medication is quietly reducing bone breakdown at the cellular level, and the benefits accumulate over years. <a href="https://www.openaccessjournals.com/articles/what-can-be-done-to-maximize-adherence-of-bisphosphonates-in-patients-with-osteoporosis.pdf" target="_blank" rel="noopener noreferrer">Studies show</a> that non-compliance increases fracture risk by 8% after just 2 years and by 23% after 14 years.</p>
+
+        <p>Your doctor will likely recommend a bone density scan after a year or two to check progress. That feedback can be motivating. In the meantime, the consistency matters more than anything else.</p>
+
+        <h2>The Bottom Line</h2>
+
+
+        <p>Bisphosphonates are not the most user-friendly medications. I get it. But with a few adjustments to your morning routine, they become manageable. And the fracture protection they provide is real and meaningful.</p>
+
+        <p>If you are struggling with your medication, do not just quietly stop. Talk to your doctor. Adjust the routine. Try a different day. Explore alternatives. The best osteoporosis medication is the one you actually take.</p>]]></content>
+    <author>
+      <name>Dr. Lisa Pocius</name>
+      <email>lisa.pocius@gmail.com</email>
+    </author>
+  </entry>
+  <entry>
+    <title>5 Bone-Friendly Meals You Can Make in 20 Minutes</title>
+    <link href="https://mybone.health/blog/bone-friendly-meals.html" />
+    <id>https://mybone.health/blog/bone-friendly-meals.html</id>
+    <updated>2026-03-30T00:00:00Z</updated>
+    <published>2026-03-30T00:00:00Z</published>
+    <category term="Nutrition" />
+    <summary>Five quick, bone-healthy meals packed with calcium, vitamin D, magnesium, and protein.</summary>
+    <content type="html"><![CDATA[<p>I wrote an entire chapter about bone-building nutrition in my book. It covers the science, the studies, the recommended daily intakes. That's all important. What I really needed, though, was someone to give me an idea for supper on a Tuesday night.</p>
+
+        <p>So that is what this post is. Five simple meals, each one packed with multiple bone-supporting nutrients, and none of them requiring more than 20 minutes of your time. I included a vegetarian option and a vegan option, because strong bones do not require any one particular way of eating.</p>
+
+        <p>For each meal, I have noted which key nutrients it delivers: calcium (Ca), vitamin D (D), vitamin K (K), magnesium (Mg), and protein (P).</p>
+
+        <h2>1. Sardine Toast with Arugula and Lemon</h2>
+
+
+        <p><strong>Nutrients:</strong> Ca, D, K, P</p>
+
+        <p>Open a can of sardines (the bone-in kind, packed in olive oil) and mash them in a bowl with a tablespoon of Greek yogurt, a squeeze of lemon juice, and a pinch of salt. Toast two slices of whole grain bread, spread the sardine mixture on top, and pile on a handful of fresh arugula.</p>
+
+        <p>This is my personal go-to lunch. The sardines deliver calcium (those tiny soft bones are edible and loaded with it), vitamin D, and protein. The arugula adds vitamin K. The whole thing takes about five minutes. If sardines are new to you, the lemon and yogurt mellow the flavor considerably. Give them a chance.</p>
+
+        <h2>2. White Bean and Kale Soup</h2>
+
+
+        <p><strong>Nutrients:</strong> Ca, K, Mg, P (Vegetarian)</p>
+
+        <p>Warm a tablespoon of olive oil in a pot, add two minced garlic cloves and a diced onion, and cook for two minutes. Add a bunch of chopped kale and stir until it wilts. Pour in a can of drained white beans (cannellini or great northern) and two cups of vegetable broth. Season with salt, pepper, and a squeeze of lemon. Simmer for 10 minutes. Top with grated Parmesan if you like.</p>
+
+        <p>White beans are one of the best plant sources of calcium (one cup of cannellini delivers about 160 mg). Kale brings vitamin K and additional calcium. The beans and broth provide magnesium and protein. This makes excellent leftovers, and I often double the batch on Sundays.</p>
+
+        <h2>3. Sesame-Ginger Tofu Stir-Fry with Bok Choy</h2>
+
+
+        <p><strong>Nutrients:</strong> Ca, K, Mg, P (Vegan)</p>
+
+        <p>Press a block of firm tofu, cut it into cubes, and toss it in a hot skillet with a tablespoon of sesame oil. Cook until golden on a couple of sides, about five minutes. Add two cups of chopped bok choy, a tablespoon of soy sauce, a teaspoon of grated fresh ginger, and a teaspoon of rice vinegar. Cook another three minutes until the bok choy is tender-crisp. Sprinkle generously with sesame seeds and serve over rice or on its own.</p>
+
+        <p>This one surprised me with how nutrient-dense it is. Tofu made with calcium sulfate (check the label) contains more calcium per serving than a glass of milk. Bok choy adds calcium and vitamin K with excellent bioavailability, meaning your body absorbs it readily. Sesame seeds contribute additional calcium and magnesium. The tofu delivers protein. And it genuinely tastes good, which matters.</p>
+
+        <h2>4. Salmon and Sweet Potato Sheet Pan</h2>
+
+
+        <p><strong>Nutrients:</strong> Ca, D, Mg, P</p>
+
+        <p>Preheat your oven to 425 degrees. Cut a large sweet potato into half-inch cubes, toss with olive oil, salt, and pepper, and spread on a sheet pan. Roast for 10 minutes, then place a salmon fillet on the pan alongside the sweet potato. Return to the oven for another 10 minutes until the salmon flakes easily.</p>
+
+        <p>Salmon is one of the best food sources of vitamin D and also provides protein and some calcium (particularly canned salmon with bones, but fresh works too). Sweet potatoes bring magnesium and potassium, which also supports bone health. This is the kind of meal that looks like you put in effort but barely required any.</p>
+
+        <h2>5. Greek Yogurt Parfait with Almonds and Figs</h2>
+
+
+        <p><strong>Nutrients:</strong> Ca, Mg, P</p>
+
+        <p>Layer a cup of plain Greek yogurt with a handful of sliced almonds, two or three chopped dried figs, and a drizzle of honey. That is it.</p>
+
+        <p>Greek yogurt is a calcium powerhouse (about 200 mg per cup) and delivers substantial protein. Almonds add magnesium and more calcium. Dried figs are a surprisingly rich calcium source that most people overlook, with about 60 mg in just three or four figs. I eat this for breakfast at least three mornings a week, and it takes less time than making oatmeal.</p>
+
+        <h2>The Bigger Point</h2>
+
+
+        <p>No single meal is going to transform your bone density. But meals like these, eaten consistently over months and years, contribute meaningfully to the nutrient foundation your bones need. The goal is not perfection. It is building a pattern of eating that supports your skeleton without making you feel like you are on a medical diet.</p>
+
+        <p>If you are looking for the deeper science behind each of these nutrients and why they work together, Chapter 4 of my book covers that in detail. But for tonight, just pick one of these five and make it. Your bones will thank you.</p>]]></content>
+    <author>
+      <name>Dr. Lisa Pocius</name>
+      <email>lisa.pocius@gmail.com</email>
+    </author>
+  </entry>
+  <entry>
+    <title>The Medications That Might Be Increasing Your Fall Risk</title>
+    <link href="https://mybone.health/blog/fall-risk-medications.html" />
+    <id>https://mybone.health/blog/fall-risk-medications.html</id>
+    <updated>2026-03-30T00:00:00Z</updated>
+    <published>2026-03-30T00:00:00Z</published>
+    <category term="Fall Prevention" />
+    <summary>Which medications increase your fall risk and what to do about it.</summary>
+    <content type="html"><![CDATA[<p>When we talk about osteoporosis, we focus on bone density. That makes sense. But as I have written before on this blog, the fracture itself is what changes lives, and fractures almost always start with a fall. So anything that increases your chances of falling deserves serious attention.</p>
+
+        <p>One of the biggest and most modifiable fall risk factors is sitting right there on your kitchen counter: your medications.</p>
+
+        <h2>Why This Matters More as We Get Older</h2>
+
+
+        <p>Our bodies process medications differently as we age. The liver, which breaks down many drugs, gradually loses mass and blood flow over time. The kidneys, which clear medications from your system, decline in function in roughly two-thirds of older adults, <a href="https://pubmed.ncbi.nlm.nih.gov/19514965/" target="_blank" rel="noopener noreferrer">reducing drug excretion by up to 50%</a>. The result is that a medication you tolerated well at 50 may behave very differently in your body at 65 or 75. Drugs can linger longer, accumulate to higher levels, and produce side effects that were never a problem before.</p>
+
+        <p>This is not a flaw in the medication. It is a normal change in how your body handles it, and it means doses and drug choices may need to be revisited as you age.</p>
+
+        <h2>The High-Risk Window: New Prescriptions and Dose Changes</h2>
+
+
+        <p>One of the riskiest times for a fall is right after you start a new medication or have a dose increased. Your body has not yet adjusted, and side effects like dizziness, drowsiness, or drops in blood pressure are often most pronounced in those first days and weeks. <a href="https://www.mayoclinic.org/healthy-lifestyle/healthy-aging/in-depth/fall-risk/art-20572713" target="_blank" rel="noopener noreferrer">The Mayo Clinic notes</a> that fall risk increases after a new prescription and remains elevated with long-term use of certain drug classes.</p>
+
+        <p>If you have recently started something new or had a dosage change, pay extra attention to how you feel when you stand up, walk, or move through your home, especially at night.</p>
+
+        <h2>The Medication Classes to Know About</h2>
+
+
+        <p>Researchers have identified <a href="https://www.nature.com/articles/s41598-025-30331-8" target="_blank" rel="noopener noreferrer">14 classes of fall-risk-increasing drugs</a>, sometimes called FRIDs. You do not need to memorize the list, but knowing the categories can help you have a more informed conversation with your doctor.</p>
+
+        <p>The most common culprits include:</p>
+
+        <ul>
+            <li><strong>Sleep medications</strong> (zolpidem, eszopiclone) and <strong>benzodiazepines</strong> (diazepam, lorazepam, alprazolam) cause sedation and impair balance, especially with long-term use</li>
+            <li><strong>Antidepressants</strong>, particularly older tricyclic antidepressants and SSRIs like sertraline and escitalopram</li>
+            <li><strong>Blood pressure medications</strong> of nearly all types, which can cause drops in blood pressure when you stand up</li>
+            <li><strong>Opioid pain medications</strong> (oxycodone, hydrocodone), which cause dizziness and sedation</li>
+            <li><strong>Antihistamines</strong>, especially older ones like diphenhydramine (Benadryl), which cause confusion and drowsiness</li>
+            <li><strong>Anti-seizure medications</strong>, which can cause dizziness, sedation, and, notably, bone thinning</li>
+            <li><strong>Muscle relaxants</strong>, particularly baclofen</li>
+            <li><strong>Anticholinergic medications</strong> used for overactive bladder (oxybutynin) and other conditions</li>
+        </ul>
+
+        <p><a href="https://www.goodrx.com/health-topic/senior-health/medications-that-increase-fall-risk-in-older-adults" target="_blank" rel="noopener noreferrer">According to GoodRx</a>, taking multiple medications from this list compounds the risk significantly.</p>
+
+        <h2>Polypharmacy: When More Medications Mean More Risk</h2>
+
+
+        <p>Polypharmacy, generally defined as taking five or more medications, is common in older adults. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5652576/" target="_blank" rel="noopener noreferrer">A large study published in BMJ Open</a> found that people taking five or more medications had a 21% higher rate of falls compared to those on fewer drugs. At ten or more medications, the fall rate jumped to 50% higher.</p>
+
+        <p>The risk is not just about any single drug. It is about how multiple medications interact, how they compete for the same metabolic pathways in your liver and kidneys, and how their side effects can stack on top of each other. One medication makes you a little drowsy. Another lowers your blood pressure slightly. A third slows your reaction time. Individually, each effect might be minor. Together, they can send you to the floor.</p>
+
+        <h2>Alcohol Adds to the Equation</h2>
+
+
+        <p>This is worth mentioning because it comes up often. Alcohol interacts with many of the medications on the list above, amplifying their sedative effects and further impairing balance and judgment. Even moderate drinking can increase fall risk in older adults, and the effect is magnified when combined with sleep medications, pain medications, or blood pressure drugs.</p>
+
+        <h2>What I Recommend: A Focused Medication Review</h2>
+
+
+        <p>If you have osteoporosis, I strongly encourage you to schedule a focused medication review with your doctor. Not just a quick glance at refills, but a deliberate conversation that covers two questions:</p>
+
+        <p>1. <strong>Could any of my current medications be affecting my bone health?</strong> (Some medications, like certain anti-seizure drugs and long-term corticosteroids, can directly weaken bone.)</p>
+
+        <p>2. <strong>Could any of my current medications be increasing my risk of falling?</strong> (Because for someone with osteoporosis, a fall is not just a fall. It is a potential fracture.)</p>
+
+        <p>Ask your pharmacist, too. Pharmacists are often the best resource for spotting drug interactions and side effects that individual prescribing doctors might not catch when each is focused on their piece of the puzzle.</p>
+
+        <h2>A Critical Caution</h2>
+
+
+        <p>Please do not stop any medication on your own after reading this, especially heart medications, blood pressure medications, or seizure medications. Stopping these abruptly can be dangerous or even life-threatening. The goal is not to eliminate necessary medications. It is to work with your doctor to review whether each one is still needed at its current dose, whether safer alternatives exist, and whether the overall combination is as safe as it can be.</p>
+
+        <p>Sometimes a small dose adjustment, a switch to a different drug in the same class, or simply timing a medication differently can meaningfully reduce your fall risk without sacrificing the treatment you need.</p>
+
+        <h2>The Bigger Picture</h2>
+
+
+        <p>Falls and the fractures they cause are the real threat of osteoporosis. Building stronger bones matters. But keeping yourself upright matters just as much, and your medication list is one of the most concrete, actionable places to start.</p>
+
+        <p>Bring your full medication list, including over-the-counter drugs and supplements, to your next appointment. Ask the questions. Your doctor will appreciate it.</p>]]></content>
+    <author>
+      <name>Dr. Lisa Pocius</name>
+      <email>lisa.pocius@gmail.com</email>
+    </author>
+  </entry>
+  <entry>
+    <title>When Osteoporosis Changes How You See Yourself</title>
+    <link href="https://mybone.health/blog/identity-shift.html" />
+    <id>https://mybone.health/blog/identity-shift.html</id>
+    <updated>2026-03-30T00:00:00Z</updated>
+    <published>2026-03-30T00:00:00Z</published>
+    <category term="Emotional" />
+    <summary>How an osteoporosis diagnosis can change how you see yourself, and how to rebuild your identity.</summary>
+    <content type="html"><![CDATA[<p>Nobody warned me about the identity crisis.</p>
+
+        <p>After my compression fractures, I expected the physical recovery to be the hard part. And it was hard. Months in a back brace, unable to sit up for more than a few hours, unable to lift anything heavier than a coffee cup. But what I did not expect was the quiet, unsettling shift in how I saw myself.</p>
+
+        <p>I had been a physician for two decades. Active. Independent. Someone who took care of other people. Suddenly I was the patient. And not just any patient, but one who felt fragile in her very core. The word "osteoporosis" did something to me that the pain itself could not. It rewrote the story I had been telling myself about who I was.</p>
+
+        <h2>The Broken Narrative</h2>
+
+
+        <p>A <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12508013/" target="_blank" rel="noopener noreferrer">2025 qualitative study in Archives of Osteoporosis</a> captured this phenomenon precisely. Researchers found that people living with osteoporosis experience not just physical symptoms but a fundamental "relationship change with their identity and body." Fear, anxiety, and a disrupted sense of self were common threads across nearly every participant.</p>
+
+        <p>This is not weakness. It is a well-documented psychological response to chronic illness. Researchers who study identity in chronic disease describe a process that begins with what they call a "broken self," a disruption in the meanings you had previously attached to who you are. The active person. The caregiver. The one who never slows down. When a diagnosis challenges those meanings, it can feel like the ground has shifted beneath you.</p>
+
+        <p>I felt it. I went from someone who never thought twice about bending down to pick something up to someone who calculated every movement. I started avoiding activities not because they were dangerous, but because the possibility of danger felt overwhelming. My world got smaller, and I let it.</p>
+
+        <h2>The Vicious Cycle</h2>
+
+
+        <p>This is where the identity shift becomes medically dangerous. When you start seeing yourself as fragile, you move less. When you move less, your bones weaken further. Your muscles lose strength. Your balance deteriorates. And your actual risk of falling and fracturing goes up. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6465575/" target="_blank" rel="noopener noreferrer">Research published in Frontiers in Psychiatry</a> confirms that the psychological impact of osteoporosis, particularly anxiety and depression, can accelerate bone loss through elevated cortisol and reduced physical activity.</p>
+
+        <p>So the fear of breaking literally makes you more breakable. I found that deeply unfair when I first learned it, and I still do.</p>
+
+        <h2>Renegotiating Who You Are</h2>
+
+
+        <p>Recovery, for me, was not just about bone density numbers and medication. It was about rebuilding a version of myself that could hold both truths at once: I have a condition that makes my bones more vulnerable, and I am still strong.</p>
+
+        <p>That took time. And it took some deliberate work.</p>
+
+        <p><strong>I stopped using the word "fragile."</strong> Language matters. I was not fragile. I had a medical condition that I was actively treating. There is a difference between being at risk and being broken.</p>
+
+        <p><strong>I focused on what I could control.</strong> I could not change my bone density overnight. But I could show up for my exercises, take my medication, eat well, and get enough sleep. Every one of those actions became an act of agency rather than a reminder of limitation. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12495104/" target="_blank" rel="noopener noreferrer">Research on identity reconstruction in chronic illness</a> describes this as the shift from a "broken self" to a "meaningful self," one that integrates the illness into a positive sense of purpose.</p>
+
+        <p><strong>I talked about it.</strong> With my husband, my friends, eventually with patients. The isolation that comes from an invisible condition is real. No one can see your T-scores. People do not know you are afraid of slipping on the ice unless you tell them. Opening up reduced my shame and, surprisingly, connected me with far more people dealing with the same thing than I ever expected.</p>
+
+        <p><strong>I found meaning in the diagnosis.</strong> Researching and writing my book became the way I channeled my anger and fear into something useful. Not everyone writes a book, obviously. But finding a way to turn your experience into something that helps others, whether that is mentoring a newly diagnosed friend, joining an online support community, or simply being honest with your doctor about how you are feeling, creates purpose from pain.</p>
+
+        <h2>When to Ask for Help</h2>
+
+
+        <p>If the fear, sadness, or withdrawal has lasted more than a few weeks and is affecting your daily life, that is worth a conversation with your doctor or a mental health professional. This is not a sign of failure. Anxiety and depression are <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6465575/" target="_blank" rel="noopener noreferrer">recognized comorbidities of osteoporosis</a>, and treating them can actually improve your bone health outcomes, not just your mood.</p>
+
+        <p>Stress management practices like meditation, deep breathing, and gentle movement can help reduce cortisol levels that contribute to bone loss. Sometimes the most bone-protective thing you can do is take care of your mind.</p>
+
+        <h2>You Are Not Your Diagnosis</h2>
+
+
+        <p>Osteoporosis changed me. I will not pretend otherwise. I think about my bones in ways I never did before. I am more cautious on icy sidewalks. I wear sensible shoes more often than I would like.</p>
+
+        <p>But I am not the same frightened person who lay on the couch in a back brace wondering if her life would ever feel normal again. The diagnosis did not define me. What I did with it did.</p>
+
+        <p>If you are early in this journey, know that the identity crisis is real, it is normal, and it does get better. Not because the condition goes away, but because you grow around it. You find a version of yourself that is not fragile at all.</p>]]></content>
+    <author>
+      <name>Dr. Lisa Pocius</name>
+      <email>lisa.pocius@gmail.com</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Bisphosphonates Explained: What Your Doctor May Not Have Time to Tell You</title>
+    <link href="https://mybone.health/blog/bisphosphonates-explained.html" />
+    <id>https://mybone.health/blog/bisphosphonates-explained.html</id>
+    <updated>2026-03-23T00:00:00Z</updated>
+    <published>2026-03-23T00:00:00Z</published>
+    <category term="Medication" />
+    <summary>A clear explanation of bisphosphonates for osteoporosis: how they work, common fears vs. actual risks, how to take them correctly, and drug holidays.</summary>
+    <content type="html"><![CDATA[<p>If your doctor has recommended a bisphosphonate, you've probably gone home and started reading about it. Some of what you found was reassuring. Some of it was scary. I understand the uncertainty. As a physician and an osteoporosis patient myself, I want to walk you through what I think every patient should understand about these medications.</p>
+
+        <h2>What They Are and How They Work</h2>
+
+        <p>Bisphosphonates are the most commonly prescribed medications for osteoporosis. They've been in use since the 1990s, which means we have decades of data on how they perform. The <a href="https://oakstone.com/blog-and-more/osteoporosis-guidelines-updated-what-every-clinician-needs-to-know-in-2025/">American College of Physicians updated their guidelines</a> to make bisphosphonates the clear first-line treatment for osteoporosis, based on their proven track record of fracture protection, strong safety profile, and broad availability as generics.</p>
+
+        <p>The way they work is straightforward. Your bones are constantly remodeling themselves. Specialized cells called osteoclasts break down old bone, and other cells called osteoblasts build new bone in its place. In osteoporosis, the breakdown outpaces the rebuilding. Bisphosphonates slow down the osteoclasts. They literally bind to bone tissue and reduce the rate at which bone is removed. This allows the bone-building cells to catch up, and over time, your bone density stabilizes or improves.</p>
+
+        <p>The most commonly prescribed bisphosphonates include alendronate (Fosamax), risedronate (Actonel), and ibandronate (Boniva), taken as pills weekly or monthly. There's also zoledronic acid (Reclast), given as an IV infusion once a year. Your doctor will recommend one based on your fracture history, your other medications, and your lifestyle.</p>
+
+        <h2>The Fears People Have</h2>
+
+        <p>Almost everyone I talk to about bisphosphonates brings up two concerns: jaw problems and unusual fractures. These fears are real, but the actual risk numbers tell a more complete story.</p>
+
+        <p><strong>Osteonecrosis of the jaw (ONJ)</strong> is a condition where a portion of the jawbone fails to heal properly, usually after a dental procedure. It sounds frightening. But in patients taking oral bisphosphonates for osteoporosis, a <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10159647/">study published in the Journal of Oral and Maxillofacial Surgery</a> found the prevalence was approximately 1 in 952 patients. That's roughly 0.1%. The much higher rates you may have seen reported are from cancer patients receiving intravenous bisphosphonates at far higher doses and frequencies than those used for osteoporosis.</p>
+
+        <p><strong>Atypical femur fractures</strong> are stress fractures of the thigh bone that can occur with very long-term bisphosphonate use. They are also very rare, and the risk increases primarily after 5 or more years of continuous treatment. This is one of the reasons for "drug holidays," which I'll explain in a moment.</p>
+
+        <p>Compare those small risks to this: without treatment, an estimated one in two women over 50 will experience an osteoporotic fracture. Hip fractures carry a 20% mortality rate within the first year. The math strongly favors treatment.</p>
+
+        <h2>Taking Them Correctly Matters</h2>
+
+        <p>Oral bisphosphonates can irritate the esophagus, which is why the instructions sound so specific. Take the pill first thing in the morning on an empty stomach with a full glass of plain water (not coffee, not juice, not sparkling water). Stay upright for at least 30 minutes afterward and don't eat or drink anything else during that time.</p>
+
+        <p>It requires a small restructuring of your morning routine. But the reason for these rules is practical: food and other beverages dramatically reduce absorption, and lying down can cause the pill to sit in your esophagus and irritate the tissue. Follow the instructions, and side effects are far less likely.</p>
+
+        <p>If the weekly or monthly pill routine doesn't work for you, ask your doctor about the annual IV infusion option. Zoledronic acid is given once a year in a 15-minute infusion and eliminates the daily or weekly compliance issue entirely.</p>
+
+        <h2>The Drug Holiday</h2>
+
+        <p>One of the unique features of bisphosphonates is that they accumulate in your bone tissue and continue working even after you stop taking them. Because of this, doctors often recommend a "drug holiday" after a period of treatment: typically <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3587311/">3 to 5 years for patients at lower fracture risk, or up to 10 years for those at higher risk</a>.</p>
+
+        <p>During the holiday, the bisphosphonate stored in your bones continues to provide some protection. Your doctor will monitor your bone density periodically and restart medication if your numbers begin to decline or if you have a new fracture. The <a href="https://mcpress.mayoclinic.org/healthy-aging/taking-a-break-from-osteoporosis-medicine-what-you-need-to-know/">Mayo Clinic</a> notes that this phased approach helps reset bone dynamics while residual medication continues to provide ongoing protection.</p>
+
+        <p>An important caveat: drug holidays apply only to bisphosphonates. Other osteoporosis medications, like denosumab (Prolia), work differently and cannot simply be stopped. Discontinuing denosumab without starting another medication can lead to rapid bone loss and rebound fractures. This is a critical distinction worth discussing with your doctor.</p>
+
+        <h2>Having the Conversation</h2>
+
+        <p>If your doctor has recommended a bisphosphonate and you're hesitant, bring your questions rather than quietly declining the prescription. Too many patients leave the office with a prescription they never fill because they read something alarming online and didn't feel comfortable asking about it.</p>
+
+        <p>Some questions worth bringing to your next appointment:</p>
+
+        <ul>
+            <li>Which bisphosphonate do you recommend for me, and why?</li>
+            <li>Would an alternative be to commit to bone-building exercise and nutrition and recheck my bone density after one year?</li>
+            <li>Is there anything about my situation that might mean I should take one of the newer anabolic (bone-building) medications instead?</li>
+            <li>How long do you anticipate I'll need to take it?</li>
+            <li>What should I do before any dental procedures while on this medication?</li>
+            <li>When will we reassess whether I still need it?</li>
+        </ul>
+
+        <p>You and your doctor are on the same team. The goal is to reduce your fracture risk with the least side effects. Bisphosphonates have helped millions of people do exactly that. They're not perfect, and they're not the only option. But they are effective, well-studied, and for most patients, the benefit outweighs the risk.</p>]]></content>
+    <author>
+      <name>Dr. Lisa Pocius</name>
+      <email>lisa.pocius@gmail.com</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Weight-Bearing vs. Resistance Training: Which Builds Bone Better?</title>
+    <link href="https://mybone.health/blog/weight-bearing-vs-resistance.html" />
+    <id>https://mybone.health/blog/weight-bearing-vs-resistance.html</id>
+    <updated>2026-03-16T00:00:00Z</updated>
+    <published>2026-03-16T00:00:00Z</published>
+    <category term="Exercise" />
+    <summary>Understanding weight-bearing exercise vs. resistance training for osteoporosis. Learn which builds bone better and how to get started safely.</summary>
+    <content type="html"><![CDATA[<p>If you've been diagnosed with osteoporosis or osteopenia, you've almost certainly heard that you need to exercise. Your doctor probably told you to do "weight-bearing exercise" or "resistance training" or both. And you probably nodded and then wondered what, exactly, the difference is.</p>
+
+        <p>I know I did. After my compression fractures, I was terrified of doing the wrong thing. The last thing I wanted was another fracture because I picked up the wrong dumbbell or did the wrong type of movement. So I dug into the research, talked to physical therapists, and figured out what each type of exercise actually does for bone.</p>
+
+        <h2>What "Weight-Bearing" Really Means</h2>
+
+        <p>Weight-bearing exercise is any activity where you're on your feet and working against gravity. Your skeleton is literally bearing your body weight while you move. The impact of your feet hitting the ground sends signals through your bones that stimulate them to maintain or build density.</p>
+
+        <p>Walking counts. So do dancing, stair climbing, hiking, and tennis. The key factor is that you're upright and your bones are supporting you. Swimming and cycling, while excellent for cardiovascular health, are not weight-bearing because the water or the bike seat is holding you up.</p>
+
+        <p>The research is clear that higher-impact weight-bearing activities tend to produce greater bone benefits. Activities like jogging, jumping rope, and tennis generate stronger signals to your bone cells than a leisurely walk. For patients without current fractures who are working to improve their bone mass, higher-impact exercise can be very effective. If you have active fractures or more advanced bone loss, brisk walking and stair climbing are safer starting points that still provide meaningful benefit. The right level of impact depends on your individual situation, which is why that conversation with your doctor or physical therapist matters.</p>
+
+        <h2>What "Resistance Training" Really Means</h2>
+
+        <p>Resistance training involves your muscles pulling against a load, and that pulling force transmits directly to the bones where the muscles attach. When muscles contract forcefully, they tug on bone. That mechanical stress signals your bone cells to lay down new tissue and strengthen the areas under load.</p>
+
+        <p>This includes exercises with dumbbells, resistance bands, weight machines, or even your own body weight. Squats, bicep curls, wall push-ups, and seated rows are all forms of resistance training.</p>
+
+        <p>A <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6279907/">2018 review published in Endocrinology and Metabolism</a> found that resistance exercise has been highlighted as the most promising intervention to maintain or increase bone mass and density. That's a strong statement from the research community. And a <a href="https://www.nature.com/articles/s41598-025-94510-3">2025 meta-analysis in Nature</a> confirmed that combining aerobic exercise with resistance training produced the best results for bone mineral density in postmenopausal women.</p>
+
+        <p>One advantage resistance training has over weight-bearing cardio: it can specifically target the bones most vulnerable to osteoporotic fracture. Exercises for the upper back, hips, and wrists directly load the skeletal sites where fractures are most common. Walking is wonderful, but it primarily loads your legs and hips. Resistance training lets you protect your spine and wrists too.</p>
+
+        <h2>They're Complementary, Not Competing</h2>
+
+        <p>The short answer to "which one is better?" is that you need both. Weight-bearing exercise provides the ground-reaction forces and overall skeletal loading that maintain bone density throughout your lower body. Resistance training adds targeted loading to specific vulnerable bones and builds the muscle strength that keeps you steady on your feet.</p>
+
+        <p>Muscle strength and bone health are deeply connected. Stronger muscles provide better support for your skeleton. They also improve your balance and coordination, which means fewer falls. And fewer falls mean fewer fractures. <a href="https://www.health.harvard.edu/staying-healthy/strength-training-builds-more-than-muscles">Harvard Health</a> notes that resistance workouts that include moves emphasizing power and balance enhance strength and stability, cutting down on falls in addition to building denser bones.</p>
+
+        <h2>Getting Started Safely</h2>
+
+        <p>If you're new to exercise or recovering from fractures, start slowly. I started with short walks and wall push-ups. That was it. Over weeks and months, I gradually added more.</p>
+
+        <p><strong>Safe weight-bearing options:</strong></p>
+        <ul>
+            <li>Brisk walking (start with 10-15 minutes and build up)</li>
+            <li>Stair climbing at your own pace</li>
+            <li>Dancing (even in your living room)</li>
+            <li>Low-impact aerobics</li>
+        </ul>
+
+        <p><strong>Safe resistance options:</strong></p>
+        <ul>
+            <li>Wall push-ups</li>
+            <li>Seated rows with a resistance band</li>
+            <li>Bicep curls with light dumbbells (1-3 pounds to start)</li>
+            <li>Chair squats (standing up from a chair without using your hands)</li>
+        </ul>
+
+        <p><strong>What to avoid:</strong> Movements that round or twist your spine under load, like sit-ups, crunches, or heavy forward bending. These put compression force on vertebrae that may already be weakened. The <a href="https://www.mayoclinic.org/diseases-conditions/osteoporosis/in-depth/osteoporosis/art-20044989">Mayo Clinic</a> recommends avoiding jerky, rapid movements and choosing exercises with slow, controlled form.</p>
+
+        <p>Talk to your doctor or a physical therapist before starting, particularly if you've had fractures. A physical therapist experienced with osteoporosis can design a program tailored to your specific bone density and fitness level. That guidance was invaluable for me.</p>
+
+        <p>Your bones respond to the demands you place on them. Place no demands, and they weaken. Place the right demands, consistently, and they adapt and grow stronger. That's not wishful thinking. That's biology.</p>]]></content>
+    <author>
+      <name>Dr. Lisa Pocius</name>
+      <email>lisa.pocius@gmail.com</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Your Bone-Health Grocery Run: An Aisle-by-Aisle Guide</title>
+    <link href="https://mybone.health/blog/grocery-guide.html" />
+    <id>https://mybone.health/blog/grocery-guide.html</id>
+    <updated>2026-03-09T00:00:00Z</updated>
+    <published>2026-03-09T00:00:00Z</published>
+    <category term="Nutrition" />
+    <summary>An aisle-by-aisle guide to grocery shopping for bone health. Learn which foods provide calcium, vitamin D, K2, magnesium, and protein for stronger bones.</summary>
+    <content type="html"><![CDATA[<p>Calcium gets all the attention when it comes to bone health. And calcium matters, absolutely. But it doesn't work alone. It has teammates, and without them, much of what you're doing for your bones falls short.</p>
+
+        <p>After my own osteoporosis diagnosis, I started paying attention to my grocery cart in a way I never had before. I'd been a doctor for 25 years, and yet I was standing in the dairy aisle reading labels like a first-year nutrition student. What I learned changed how I shop, and I think it can change how you shop too.</p>
+
+        <h2>The Team Behind the Calcium</h2>
+
+        <p>You need four key nutrients working alongside calcium to build and protect bone: vitamin D, vitamin K2, magnesium, and protein. Each plays a distinct role.</p>
+
+        <p><strong>Vitamin D</strong> helps your body absorb calcium from food. Without enough D, you can take all the calcium in the world and most of it will pass right through you. <strong>Vitamin K2</strong> directs calcium into your bones and teeth and away from places you don't want it, like your arteries. <strong>Magnesium</strong> supports the structural development of bone and is needed for over 300 enzyme reactions in your body. And <strong>protein</strong> provides the framework that minerals attach to when building new bone.</p>
+
+        <p>The good news is that you don't need a specialty health food store to find these nutrients. They're all available at your regular grocery store. You just need to know where to look.</p>
+
+        <h2>Produce Section</h2>
+
+        <p>Start here. Dark leafy greens are nutritional powerhouses for bone health. Collard greens deliver about 266 mg of calcium per cooked cup, along with vitamin K. Kale provides calcium and magnesium. Bok choy, broccoli, and turnip greens round out the list. Frozen versions are just as nutritious as fresh, often cheaper, and won't go bad in the back of your fridge.</p>
+
+        <p>One important note: spinach contains calcium, but it also has high levels of oxalates that block calcium absorption. It's a great vegetable for other reasons, but don't count on it for your calcium intake.</p>
+
+        <h2>Canned Fish Aisle</h2>
+
+        <p>This is a hidden gem for bone health. A 3-ounce can of sardines with the bones provides about 325 mg of calcium, plus vitamin D and omega-3 fatty acids. Canned salmon with bones delivers around 180 mg of calcium. The key is buying the kind packed with the soft, edible bones. That's where the calcium lives.</p>
+
+        <p>I'll be honest: sardines took some getting used to. On toast with a little lemon and some arugula, they're genuinely good. And the combination in that one simple meal hits calcium, vitamin D, and vitamin K all at once.</p>
+
+        <h2>Dairy Aisle</h2>
+
+        <p>If you tolerate dairy, this aisle is straightforward. An 8-ounce glass of milk provides about 300 mg of calcium. Plain yogurt delivers around 310 mg per 6-ounce serving, plus beneficial probiotics. Greek yogurt has a bit less calcium (about 200 mg) but more protein.</p>
+
+        <p>Cheese counts too, particularly harder varieties. Gouda and cheddar each have around 200 mg of calcium per ounce. And aged cheeses like Gouda happen to be one of the better food sources of vitamin K2. So that cheese plate isn't entirely indulgent.</p>
+
+        <p>If you're lactose intolerant or prefer plant-based options, look for fortified almond, soy, or oat milk. Many provide 300 mg or more of calcium per cup. Just remember to shake the carton well. Calcium in fortified milks tends to settle to the bottom.</p>
+
+        <h2>Nuts, Seeds, and Eggs</h2>
+
+        <p>Almonds are a good source of both calcium and magnesium. Pumpkin seeds are rich in magnesium. Chia seeds and sesame seeds deliver a surprising amount of calcium for their size. A tablespoon of sesame seeds has about 88 mg.</p>
+
+        <p>Eggs, particularly the yolks, provide vitamin D and some vitamin K2, especially if they come from pasture-raised hens. Don't skip the yolk. That's where the bone nutrients are.</p>
+
+        <h2>Protein Sources</h2>
+
+        <p>Chicken breast is one of the better sources of vitamin K2, which surprised me when I first learned it. Beyond K2, adequate protein is essential for maintaining the collagen matrix that gives bone its flexibility. Good options include poultry, fish, beans, lentils, and tofu prepared with calcium.</p>
+
+        <p>White beans deserve a special mention. One cup of cooked white beans provides roughly 19% of your daily calcium needs, plus magnesium and protein. They're inexpensive and versatile.</p>
+
+        <h2>A Few Shopping Strategies</h2>
+
+        <p><strong>Read the labels on fortified foods.</strong> Not all brands add the same amounts of calcium or vitamin D. A quick glance at the nutrition facts panel takes two seconds and makes a real difference.</p>
+
+        <p><strong>Buy frozen produce without guilt.</strong> Frozen vegetables are flash-frozen at peak nutrition. They're often more nutrient-dense than the "fresh" produce that's been sitting on a truck for days.</p>
+
+        <p><strong>Think in combinations.</strong> A meal that pairs calcium with vitamin D absorbs better than calcium alone. Sardines on toast with greens. Yogurt with almonds. A white bean and kale soup. When nutrients work together, your bones benefit more.</p>
+
+        <p><strong>Don't overhaul everything at once.</strong> Pick two or three items from this list that you don't currently buy and add them to your cart this week. Small, sustainable changes add up over time, and they're far more effective than a dramatic diet overhaul that lasts two weeks.</p>
+
+        <p>Your bones are rebuilding themselves every day. What you put in your grocery cart is the raw material they have to work with. Make it count.</p>]]></content>
+    <author>
+      <name>Dr. Lisa Pocius</name>
+      <email>lisa.pocius@gmail.com</email>
+    </author>
+  </entry>
+</feed>
