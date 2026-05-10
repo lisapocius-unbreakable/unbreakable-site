@@ -5,11 +5,214 @@
   <link href="https://mybone.health/atom.xml" rel="self" />
   <link href="https://mybone.health" />
   <id>https://mybone.health/</id>
-  <updated>2026-05-03T00:00:00Z</updated>
+  <updated>2026-05-09T00:00:00Z</updated>
   <author>
     <name>Dr. Lisa Pocius</name>
     <email>lisa.pocius@gmail.com</email>
   </author>
+  <entry>
+    <title>Evenity: The Once-a-Month Bone Builder That Works Differently</title>
+    <link href="https://mybone.health/blog/evenity-explained.html" />
+    <id>https://mybone.health/blog/evenity-explained.html</id>
+    <updated>2026-05-09T00:00:00Z</updated>
+    <published>2026-05-09T00:00:00Z</published>
+    <category term="Medication" />
+    <summary>A clear, patient-friendly guide to Evenity (romosozumab): how its sclerostin-blocking mechanism differs from other anabolic medications, the once-a-month dual-injection schedule, the 12-month treatment cap, the cardiovascular boxed warning, and why the follow-up antiresorptive matters.</summary>
+    <content type="html"><![CDATA[<p>In the last post we walked through Forteo and Tymlos, the two daily injection medications that build new bone. There is a third anabolic option, and it works through an entirely different pathway. <strong>Evenity (romosozumab)</strong> earns its own post because the differences are not minor: different mechanism, different schedule, different cap, and a boxed warning that needs careful, honest discussion. If your doctor has mentioned Evenity, here is what I want you to understand before you decide.</p>
+
+        <h2>A Different Mechanism Entirely</h2>
+
+        <p>Forteo and Tymlos are synthetic versions of parathyroid hormone or a related fragment. They tell your bone-building cells to get to work. Evenity does something almost no other osteoporosis medication does: it blocks a single protein called <strong>sclerostin</strong>, and that one move produces <em>two</em> effects at the same time.</p>
+
+        <p>Sclerostin is made by cells embedded throughout your bone, and its normal job is to put a brake on bone formation. When Evenity inhibits sclerostin, two things happen in parallel (<a href="https://www.ncbi.nlm.nih.gov/books/NBK585139/">NCBI StatPearls</a>, <a href="https://go.drugbank.com/drugs/DB11866">DrugBank</a>):</p>
+
+        <ul>
+            <li><strong>Bone formation goes up.</strong> Your bone-building cells become more active.</li>
+            <li><strong>Bone resorption goes down.</strong> The cells that break down bone become less active.</li>
+        </ul>
+
+        <p>This dual effect is genuinely unusual. Forteo and Tymlos build bone but also speed up turnover, meaning some resorption rises along with formation. Bisphosphonates and denosumab slow resorption but do not actively build new bone. Evenity is the only currently approved medication that pushes both directions of the equation in the favorable direction at once. The clinical result is meaningful gains in bone density, particularly at the spine, in a relatively short window.</p>
+
+        <h2>How It Is Given</h2>
+
+        <p>Evenity is a once-a-month treatment. Each monthly dose is <strong>two injections given back to back</strong>, usually in the back of the upper arm, the abdomen, or the thigh. The two injections are required to deliver the full dose (<a href="https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/761062s000lbl.pdf">Evenity prescribing information</a>).</p>
+
+        <p>A few practical implications. Most patients receive Evenity in their doctor's office or infusion suite rather than self-injecting at home, partly because of the two-injection logistics and partly because of the cardiovascular monitoring discussed below. The schedule is much easier to live with than a daily injection. Twelve appointments over a year rather than 365 self-injections, and many patients tell me they appreciate the predictable rhythm.</p>
+
+        <h2>The Twelve-Month Cap</h2>
+
+        <p>Unlike Forteo and Tymlos, where the long-standing two-year limit has softened into clinical judgment, Evenity has a <strong>12-month treatment cap that has not changed</strong>. The bone-building effect of romosozumab plateaus after about a year, and continuing past 12 months does not provide additional benefit. The label is explicit: a course is twelve monthly doses, and that is the course.</p>
+
+        <p>This is not a disadvantage so much as a design feature. The 12-month window is meant to be a high-impact construction phase, immediately followed by a maintenance phase on a different medication.</p>
+
+        <h2>The Cardiovascular Boxed Warning</h2>
+
+        <p>This is the part that needs the most careful conversation, so I want to be straightforward about it.</p>
+
+        <p>Evenity carries an FDA <strong>boxed warning for myocardial infarction, stroke, and cardiovascular death</strong> (<a href="https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/761062s000lbl.pdf">FDA label</a>). The warning came from a large clinical trial that compared Evenity to a bisphosphonate. In that study, slightly more women on Evenity had a serious cardiovascular event during the first year compared to women on the bisphosphonate (<a href="https://www.tga.gov.au/news/safety-updates/new-warnings-romosozumab-evenity-cardiovascular-risks">TGA safety review</a>). A second large trial did not show the same signal. Regulators ultimately decided the risk was real enough to warrant the strongest level of warning.</p>
+
+        <p>What this means in practical terms:</p>
+
+        <ul>
+            <li>Evenity should <strong>not be started</strong> in anyone who has had a heart attack or stroke in the past year.</li>
+            <li>For patients with other cardiovascular risk factors, including established heart disease, high blood pressure, high cholesterol, diabetes, smoking history, or severe kidney impairment, the benefits and risks need an explicit conversation, not a passing mention.</li>
+            <li>Anyone who has a heart attack or stroke during treatment should stop Evenity.</li>
+        </ul>
+
+        <p>I want to put the absolute risk in context, because boxed warnings can sound more frightening than the underlying numbers. In that pivotal trial, the difference between the two groups worked out to roughly nine extra cardiovascular events per 1,000 women treated for a year. That is real and not trivial. It is also small enough that for a woman at very high fracture risk, someone who has already broken a vertebra, has a T-score below -3.0, or has not responded to other treatments, the math can still favor treatment. The point is not to dismiss the warning. The point is to weigh it honestly against your individual fracture risk and your individual cardiovascular risk, with your doctor, and to decide together.</p>
+
+        <p>If you have significant cardiovascular history, Evenity is probably not your medication, and Forteo or Tymlos may be the better anabolic choice.</p>
+
+        <h2>Where It Fits in the Sequence</h2>
+
+        <p>The same critical principle from the Forteo and Tymlos post applies here, only more so: <strong>the bone you build with Evenity is not permanent unless you follow it with an antiresorptive medication.</strong></p>
+
+        <p>The clearest evidence comes from sequential therapy studies. Women who completed a year of Evenity and then transitioned to either denosumab or a bisphosphonate continued to gain bone density and had fewer fractures over the following years compared to women who never received the anabolic agent (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8567484/">Romosozumab Followed by Antiresorptive Treatment, PMC</a>). A 2024 meta-analysis confirmed that this anabolic-first, antiresorptive-second sequence significantly reduces fractures of the spine, hip, and other major sites (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11036926/">sequential antifracturative treatment meta-analysis, PMC</a>).</p>
+
+        <p>The standard sequence is twelve months of Evenity, then a transition to either a bisphosphonate (oral or IV) or denosumab. The transition should not be delayed. Without the follow-up, the gains erode quickly, and the year of treatment loses much of its value.</p>
+
+        <h2>Who Is a Good Candidate</h2>
+
+        <p>Pulling all of this together, Evenity tends to be considered for patients who:</p>
+
+        <ul>
+            <li>Are at very high fracture risk (recent vertebral fracture, T-score of -3.0 or lower, multiple prior fractures, or a fracture on bisphosphonate therapy)</li>
+            <li>Need rapid bone gain, for example after a recent fragility fracture where every month matters</li>
+            <li>Cannot tolerate or have not responded to a daily injection</li>
+            <li>Do <strong>not</strong> have recent cardiovascular events and have manageable cardiovascular risk</li>
+            <li>Have a clear plan for the antiresorptive medication that will follow</li>
+        </ul>
+
+        <p>Evenity is a powerful, time-limited tool. Used in the right patient, with eyes open about the cardiovascular caution and a firm plan for the year-two follow-up, it can produce gains that are difficult to achieve any other way.</p>
+
+        <h2>Questions Worth Bringing to Your Appointment</h2>
+
+        <ul>
+            <li>Given my cardiovascular history, is Evenity an appropriate option for me?</li>
+            <li>How does my fracture risk weigh against the boxed-warning risk in my specific situation?</li>
+            <li>Will I receive the injections in your office or somewhere else?</li>
+            <li>What antiresorptive medication will follow, and how soon after my last Evenity dose will I start it?</li>
+            <li>How will my insurance handle prior authorization, and is there a manufacturer assistance program?</li>
+            <li>What lab work will we monitor (calcium levels, kidney function) during treatment?</li>
+        </ul>
+
+        <p>Evenity is a different kind of bone-building medication, in a different rhythm, with a different set of considerations than Forteo and Tymlos. None of the three anabolic agents is the right choice for everyone, and that is genuinely a strength of where osteoporosis treatment is now. There are real options, and matching the right one to the right patient is most of the work.</p>
+
+        <p>Whichever path you and your doctor choose, the rest of the story still matters: weight-bearing exercise, adequate protein, calcium and vitamin D, fall prevention, and a clear plan for what comes after the anabolic year. Medications are powerful, but they work best as one chapter in a larger plan.</p>
+
+        <p><em>If you missed the previous post on the daily anabolic injections, you can read it <a href="anabolic-medications.html">here</a>.</em></p>]]></content>
+    <author>
+      <name>Dr. Lisa Pocius</name>
+      <email>lisa.pocius@gmail.com</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Protein, Calcium, and the Mistake of Picking One: What Your Bones Actually Need at Once</title>
+    <link href="https://mybone.health/blog/protein-and-calcium.html" />
+    <id>https://mybone.health/blog/protein-and-calcium.html</id>
+    <updated>2026-05-09T00:00:00Z</updated>
+    <published>2026-05-09T00:00:00Z</published>
+    <category term="Nutrition" />
+    <summary>Why protein, calcium, vitamin D, magnesium and vitamin K work together for bone health, what realistic daily targets look like for older women, and how to hit them with food.</summary>
+    <content type="html"><![CDATA[<p>If you have spent any time researching osteoporosis nutrition, you have almost certainly read about calcium. You may have read about vitamin D. You have probably seen magnesium and vitamin K2 mentioned. You have probably read much, much less about protein. And if you read older articles, you may even have read that protein is <em>bad</em> for your bones, that high-protein diets leach calcium and accelerate bone loss.</p>
+
+        <p>That last claim has been overturned, and the correction matters. Older women, especially women trying to maintain bone and muscle, are often eating too little protein, not too much. The bigger nutritional mistake I see is treating these nutrients as if you have to pick one to focus on. Your bones do not work that way. They use calcium, protein, vitamin D, magnesium, and a handful of supporting players <em>together</em>, and a deficit in any one of them limits what the others can do.</p>
+
+        <p>Let me walk you through what the current evidence actually says, what realistic daily targets look like, and how to get there with food.</p>
+
+        <h2>The Protein Story Has Changed</h2>
+
+        <p>The old idea was straightforward and intuitive: protein is acidic when metabolized, the body buffers acid by pulling calcium from bone, and therefore high protein causes bone loss. The biochemistry was real. The conclusion turned out to be wrong.</p>
+
+        <p>More recent research has shown the opposite: dietary protein actually works <em>with</em> calcium, not against it (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4659357/">review of human metabolic studies, PMC</a>). Higher protein intake increases how much calcium you absorb from food, supports the hormones that build bone, and helps maintain muscle mass and strength. The extra calcium that shows up in the urine on a higher-protein diet turns out to come from increased absorption, not from bone loss.</p>
+
+        <p>A large review from the National Osteoporosis Foundation found <strong>no harmful effect of higher protein intake on bone health</strong> in the general population, and reasonable evidence that it may actually slow bone density loss in older adults (<a href="https://www.eatrightpro.org/news-center/practice-trends/the-effect-of-a-high-protein-diet-on-bone-health">Academy of Nutrition and Dietetics summary</a>).</p>
+
+        <p>The practical implication is the part I most want you to take from this post. If you have been quietly eating less protein because you read somewhere that it was bad for your bones, you may be doing your skeleton, and your muscles, real harm.</p>
+
+        <h2>How Much Protein Older Women Actually Need</h2>
+
+        <p>The standard government recommendation for protein is 0.8 grams per kilogram of body weight per day, and that number is now widely understood to be too low for older adults. Expert panels and recent research consistently recommend that adults over 65 aim for <strong>1.0 to 1.2 grams per kilogram per day</strong>, with even higher amounts for those who are physically active or doing resistance training (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4555150/">Protein Requirements and Recommendations for Older People, PMC</a>, <a href="https://acl.gov/sites/default/files/nutrition/Nutrition-Needs_Protein_FINAL-2.18.20_508.pdf">Administration for Community Living nutrition brief</a>).</p>
+
+        <p>For a 145-pound (66 kg) woman, that translates to roughly <strong>66 to 80 grams of protein per day</strong>, ideally spread across meals rather than loaded at dinner. The exception is for people with significant kidney disease, who should follow a protein target set by their nephrologist.</p>
+
+        <p>For context on what that looks like: a single serving of Greek yogurt (about 17 g), an egg (6 g), three ounces of salmon (22 g), and a half-cup of cooked lentils (9 g) is already more than 50 grams. Spreading protein across breakfast, lunch, and dinner, about 25 to 30 grams at each meal, is more effective for muscle maintenance than concentrating it all at one meal.</p>
+
+        <h2>Calcium: The Number Most People Already Know</h2>
+
+        <p>For women over 50, the <a href="https://www.bonehealthandosteoporosis.org/patients/treatment/calciumvitamin-d/">Bone Health and Osteoporosis Foundation</a> recommends <strong>1,200 mg of calcium per day</strong>. The NIH Office of Dietary Supplements <a href="https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/">calcium fact sheet</a> aligns with the same target.</p>
+
+        <p>Two practical points worth knowing:</p>
+
+        <ul>
+            <li><strong>Food first.</strong> Calcium from food is better absorbed and is not associated with the cardiovascular concerns that have been raised about high-dose calcium supplements. Aim to hit your target through dairy, fortified plant milks, sardines and canned salmon with bones, tofu set with calcium sulfate, leafy greens, almonds, and beans.</li>
+            <li><strong>Spread it out.</strong> Your body absorbs calcium most efficiently in doses of 500 mg or less at a time. If you do supplement, splitting into two smaller doses with food works better than one big one.</li>
+        </ul>
+
+        <p>If you would like a practical, aisle-by-aisle look at where to find calcium-rich foods in a regular grocery store, our earlier post, <a href="grocery-guide.html">Your Bone-Health Grocery Run</a>, walks through exactly that.</p>
+
+        <h2>Vitamin D: The Quiet Multiplier</h2>
+
+        <p>Vitamin D is what makes the calcium you eat actually usable. Without enough vitamin D, you can drink milk all day and absorb a fraction of the calcium it contains. The <a href="https://www.osteoporosis.foundation/vitamin-d-recommendations">International Osteoporosis Foundation</a> recommends <strong>800 to 1,000 IU per day</strong> for adults over 60, with higher doses sometimes needed to bring blood levels into the recommended range.</p>
+
+        <p>This is the one nutrient where I almost always recommend a blood test rather than guessing. Ask your doctor for a 25-hydroxyvitamin D level. If you are below 30 ng/mL, you need more than the standard dose to catch up. Sun exposure helps in the summer but is unreliable for most people in northern latitudes, and for anyone diligent about sunscreen, which is most of my patients.</p>
+
+        <h2>Magnesium and Vitamin K2: The Supporting Cast</h2>
+
+        <p>These two get less attention but quietly do important work.</p>
+
+        <p><strong>Magnesium</strong> is involved in activating vitamin D and in the structural integrity of bone itself. Roughly half of older adults do not meet the recommended intake. Good food sources include nuts, seeds, whole grains, legumes, leafy greens, and dark chocolate. The recommended dietary allowance for women over 30 is about 320 mg per day.</p>
+
+        <p><strong>Vitamin K2</strong> helps direct calcium where you want it (bone) and away from where you don't (arteries). Food sources include natto (fermented soybeans, an acquired taste), aged hard cheeses, egg yolks, and small amounts in chicken and other animal foods. The evidence for routine K2 supplementation is still emerging, but ensuring decent dietary sources is reasonable and low-risk.</p>
+
+        <h2>What a Day on a Plate Looks Like</h2>
+
+        <p>Here is a representative day that hits the targets without feeling like a regimen:</p>
+
+        <ul>
+            <li><strong>Breakfast.</strong> Plain Greek yogurt with chopped almonds, a handful of berries, and a drizzle of honey. (Roughly 20 g protein, 250 mg calcium, plus magnesium and a little vitamin K.)</li>
+            <li><strong>Lunch.</strong> A large salad with 4 oz canned salmon (with the soft bones), white beans, kale, and olive oil-lemon dressing. A piece of whole-grain bread on the side. (Roughly 30 g protein, 400 mg calcium, plus magnesium.)</li>
+            <li><strong>Snack.</strong> A hard-boiled egg and a small piece of aged cheddar.</li>
+            <li><strong>Dinner.</strong> Stir-fry with 4 oz tofu (set with calcium sulfate), bok choy, sesame seeds, and brown rice. (Roughly 25 g protein, 350 mg calcium, plus magnesium.)</li>
+        </ul>
+
+        <p>That day comes in around 80 grams of protein and over 1,000 mg of calcium from food alone, with vitamin D from the salmon and the egg, magnesium from multiple sources, and vitamin K from the leafy greens and cheese. A small vitamin D supplement covers the gap. No single dramatic move, just a pattern that adds up.</p>
+
+        <p>If quick weeknight ideas would help, the <a href="bone-friendly-meals.html">5 Bone-Friendly Meals You Can Make in 20 Minutes</a> post is built around exactly this pattern.</p>
+
+        <h2>When Supplements Make Sense</h2>
+
+        <p>Food first is a real principle, not a slogan. But supplements have a real place when:</p>
+
+        <ul>
+            <li>Your blood vitamin D level is low and you need to catch up.</li>
+            <li>You are vegan or do not tolerate dairy and cannot consistently hit 1,200 mg calcium from food.</li>
+            <li>Your appetite is small (which becomes more common with age) and you are struggling to reach protein targets. A high-quality whey or plant-based protein powder added to yogurt, oatmeal, or a smoothie is a reasonable bridge.</li>
+            <li>Your magnesium intake is low and dietary changes are not realistic.</li>
+        </ul>
+
+        <p>Supplements are tools, not insurance policies. They cannot fully replicate what whole foods do for you, but they can fill specific, identified gaps.</p>
+
+        <h2>The Synergy with Exercise</h2>
+
+        <p>One last piece worth naming. The protein research is most consistent in older adults who are doing <strong>resistance training along with adequate protein intake</strong>. Protein gives the muscle the building blocks. The resistance training gives the muscle the signal to use them. The same combination supports bone, because muscle pull on bone is one of the most powerful stimuli for bone formation. If you have read our earlier post on <a href="weight-bearing-vs-resistance.html">Weight-Bearing vs. Resistance Training</a>, think of adequate protein as the nutritional partner to that work. Not optional, not separate, but the other half of the same project.</p>
+
+        <h2>The Short Version</h2>
+
+        <ul>
+            <li>Aim for <strong>1.0 to 1.2 grams of protein per kilogram of body weight per day</strong>, spread across meals.</li>
+            <li>Aim for <strong>1,200 mg of calcium</strong>, ideally from food.</li>
+            <li>Aim for <strong>800 to 1,000 IU of vitamin D</strong>, with a blood test to confirm you are in range.</li>
+            <li>Don't ignore <strong>magnesium and vitamin K</strong>. They help the rest do their jobs.</li>
+            <li>Combine all of this with <strong>resistance training</strong>, because the nutrients and the loading work together.</li>
+        </ul>
+
+        <p>You do not need a perfect day. You need a consistent pattern, most days. Bones are slow tissues, and they reward steadiness more than intensity. The good news is that this kind of eating is also the kind of eating that supports muscle, energy, mood, and most of the other things you care about. There is no separate "bone diet." There is just food that supports a body, and bones are part of that body.</p>]]></content>
+    <author>
+      <name>Dr. Lisa Pocius</name>
+      <email>lisa.pocius@gmail.com</email>
+    </author>
+  </entry>
   <entry>
     <title>Daily Injections That Build Bone: Understanding Forteo and Tymlos</title>
     <link href="https://mybone.health/blog/anabolic-medications.html" />
