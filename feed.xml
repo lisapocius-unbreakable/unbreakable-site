@@ -8,8 +8,94 @@
     <atom:link href="https://mybone.health/feed.xml" rel="self" type="application/rss+xml" />
     <description>Evidence-based articles on osteoporosis, bone health, and living well with bone loss, by Dr. Lisa Pocius.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 May 2026 03:38:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 03:02:03 +0000</lastBuildDate>
     <managingEditor>lisa.pocius@gmail.com (Dr. Lisa Pocius)</managingEditor>
+    <item>
+      <title>Beyond the T-Score: What TBS and VFA on Your DEXA Report Really Mean</title>
+      <link>https://mybone.health/blog/dexa-tbs-vfa.html</link>
+      <guid isPermaLink="true">https://mybone.health/blog/dexa-tbs-vfa.html</guid>
+      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+      <category>Recent Developments</category>
+      <description>Modern DEXA reports include more than T-scores. A patient-friendly guide to Trabecular Bone Score (TBS) and Vertebral Fracture Assessment (VFA): what they measure, when they change a treatment decision, and the questions to ask your doctor.</description>
+      <content:encoded><![CDATA[<p>When most people get their DEXA results, they look for one number, the T-score, and try to figure out whether it puts them in the osteopenia or osteoporosis range. If your report stopped there a few years ago, that was reasonable. Today, many modern DEXA reports include two additional pieces of information that can meaningfully change a treatment decision: <strong>Trabecular Bone Score (TBS)</strong> and <strong>Vertebral Fracture Assessment (VFA)</strong>. They look like extras, but in the right patient they are not extras at all. They are the parts of the report that sometimes flip the answer.</p>
+
+        <p>I want to walk you through what each one is, when it matters, and what to ask your doctor if your report includes them.</p>
+
+        <h2>A Quick Refresher on the T-Score</h2>
+
+        <p>Your T-score compares the <em>amount</em> of mineral in your bone to a healthy young adult reference. It is a measure of quantity. What it cannot tell you is whether the bone you have is well organized internally, or whether you have already had a small vertebral fracture that you did not feel. Two people with identical T-scores can have very different real-world fracture risk, and the rest of the DEXA report is where that difference shows up.</p>
+
+        <h2>What Is Trabecular Bone Score (TBS)?</h2>
+
+        <p>Trabecular Bone Score is a measurement of <strong>bone quality</strong>, derived from the same lumbar spine images that produce your spine T-score. The software analyzes the subtle gray-scale variations in the image to estimate how well organized the inner, sponge-like (trabecular) bone is. A more uniform, finely textured pattern produces a higher TBS. A coarser pattern, where the internal struts have thinned and disconnected, produces a lower TBS (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12064620/">PMC review of TBS clinical performance, 2025</a>).</p>
+
+        <p>TBS is usually reported as one of three categories:</p>
+
+        <ul>
+            <li><strong>Normal:</strong> TBS above about 1.31</li>
+            <li><strong>Partially degraded:</strong> TBS roughly 1.23 to 1.31</li>
+            <li><strong>Degraded:</strong> TBS below about 1.23</li>
+        </ul>
+
+        <p>The key point is that TBS predicts fractures <em>independently of your T-score</em>. Someone in the osteopenia range with a degraded TBS can have a higher real-world fracture risk than someone formally in the osteoporosis range with a normal TBS. That is not a paradox. It is what happens when you measure two different aspects of bone instead of one.</p>
+
+        <h3>How TBS Changes a Treatment Decision</h3>
+
+        <p>The 2023 International Society for Clinical Densitometry positions are explicit: TBS is appropriate for adults 40 and older, and it is most likely to change clinical management when you are <strong>close to a treatment threshold</strong> (<a href="https://iscd.org/official-positions-2023/">ISCD 2023 Official Positions</a>). In practice this means TBS most often helps in three situations:</p>
+
+        <ul>
+            <li>You are in the osteopenia range and your FRAX risk is close to the line where treatment is recommended.</li>
+            <li>You have a condition known to weaken bone quality more than bone density, such as type 2 diabetes, primary hyperparathyroidism, chronic kidney disease, rheumatoid arthritis, or long-term glucocorticoid use (<a href="https://www.ofnm.org/wp-content/uploads/2021/08/2014-TheABCofofTBSTrabecularBoneScore.pdf">ABC of TBS, OFNM</a>).</li>
+            <li>Your spine T-score is artificially inflated by arthritis or calcifications and you want a measure of spine bone that those changes do not contaminate.</li>
+        </ul>
+
+        <p>When TBS is added to FRAX as an adjustment, your ten-year fracture probability can shift up or down enough to change whether a medication is offered (<a href="https://www.sciencedirect.com/science/article/abs/pii/S1094695023001026">ISCD 2023 TBS position, ScienceDirect</a>). If your DEXA report includes a TBS value but not a TBS-adjusted FRAX, that is a fair thing to ask for.</p>
+
+        <h2>What Is Vertebral Fracture Assessment (VFA)?</h2>
+
+        <p>Vertebral Fracture Assessment is a side-view image of your spine taken on the DEXA machine at the time of your scan. It is a low-radiation way to look directly at the vertebrae and check for fractures that have already happened, often silently.</p>
+
+        <p>This matters more than it sounds. <strong>Most vertebral fractures are not diagnosed when they occur.</strong> Estimates from population studies suggest that roughly two-thirds of vertebral compression fractures go undetected, because the back pain is mild, or attributed to a strain, or there is no pain at all (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7929949/">Vertebral fracture epidemiology and DXA-based VFA, PMC</a>). And yet a single vertebral fracture, even a small wedge nobody noticed, is one of the strongest predictors that another fracture is coming.</p>
+
+        <p>The 2023 ISCD guidelines recommend VFA when the T-score is below -1.0 plus at least one of the following risk factors (<a href="https://academic.oup.com/ageing/article/53/Supplement_4/afae178.339/7791011">Age and Ageing summary of ISCD VFA criteria, 2024</a>):</p>
+
+        <ul>
+            <li>Women age 70 or older, or men age 80 or older</li>
+            <li>Historical height loss of more than 4 cm (about 1.5 inches) from peak</li>
+            <li>A self-reported but undocumented prior vertebral fracture</li>
+            <li>Regular use of oral glucocorticoids</li>
+        </ul>
+
+        <p>If a VFA shows even one previously unrecognized vertebral fracture, your diagnosis moves to <em>established</em> osteoporosis regardless of T-score, and that almost always triggers a recommendation for pharmacologic treatment.</p>
+
+        <h2>How These Tools Fit Together</h2>
+
+        <p>Think of your DEXA report as answering three different questions about your bones.</p>
+
+        <ul>
+            <li><strong>T-score</strong> asks: how much bone do I have?</li>
+            <li><strong>TBS</strong> asks: how well organized is the bone I have?</li>
+            <li><strong>VFA</strong> asks: has my spine already shown signs of damage?</li>
+        </ul>
+
+        <p>You can have a reassuring answer to one of those and a worrying answer to another, and the worrying one is often what should drive the plan. A patient with osteopenia by T-score, a degraded TBS, and a small wedge fracture on VFA is not a "borderline" case. That is high-risk osteoporosis hiding in plain sight, and the treatment conversation should look very different than it would based on the T-score alone.</p>
+
+        <h2>What to Ask at Your Next Appointment</h2>
+
+        <ul>
+            <li>Does my DEXA report include a TBS value, and if so, what is the number and category?</li>
+            <li>Was a TBS-adjusted FRAX calculated, and does it change my ten-year fracture risk?</li>
+            <li>Do I meet the criteria for a VFA, and if so, was one done at my last scan or should one be added next time?</li>
+            <li>If I have a known risk factor like diabetes or steroid use, are we factoring bone quality into my plan and not only bone density?</li>
+            <li>Have I lost height since my peak adult height, and should that prompt additional imaging?</li>
+        </ul>
+
+        <h2>A Word About What You See on the Page</h2>
+
+        <p>Not every facility reports TBS or VFA yet. The software for TBS is an add-on, and VFA requires the technologist to capture the lateral image, which adds a few minutes to the appointment. If your report does not include them and your situation suggests they would help, it is reasonable to ask whether a facility nearby offers them, or whether your scan images can be reanalyzed.</p>
+
+        <p>The reason I keep coming back to these two measures is that they answer the question patients actually care about, which is not "what is my T-score" but "what is my fracture risk, and what should I do about it." T-score is a piece of that answer. TBS and VFA, when they are available, often turn out to be the piece that decides.</p>]]></content:encoded>
+    </item>
     <item>
       <title>Evenity: The Once-a-Month Bone Builder That Works Differently</title>
       <link>https://mybone.health/blog/evenity-explained.html</link>
