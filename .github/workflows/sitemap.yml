@@ -1,0 +1,51 @@
+name: Auto-update sitemap
+
+# Regenerates sitemap.xml from the blog posts on every push to main, and
+# commits the result back if anything changed. Skips itself by checking the
+# commit message so it doesn't loop.
+#
+# Also runnable manually from the Actions tab via "Run workflow".
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "blog/**.html"
+      - "scripts/generate_sitemap.py"
+      - ".github/workflows/sitemap.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-sitemap:
+    runs-on: ubuntu-latest
+    # Don't run on the bot's own sitemap-update commits (prevents infinite loop)
+    if: "!contains(github.event.head_commit.message, '[skip sitemap]')"
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+        with:
+          # Need write token to push the regenerated sitemap back
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Regenerate sitemap.xml
+        run: python3 scripts/generate_sitemap.py
+
+      - name: Commit and push if sitemap changed
+        run: |
+          if [[ -z "$(git status --porcelain sitemap.xml)" ]]; then
+            echo "No sitemap changes; nothing to commit."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add sitemap.xml
+          git commit -m "Auto-update sitemap.xml [skip sitemap]"
+          git push
