@@ -5,11 +5,243 @@
   <link href="https://mybone.health/atom.xml" rel="self" />
   <link href="https://mybone.health" />
   <id>https://mybone.health/</id>
-  <updated>2026-05-25T00:00:00Z</updated>
+  <updated>2026-06-07T18:00:00Z</updated>
   <author>
     <name>Dr. Lisa Pocius</name>
     <email>lisa.pocius@gmail.com</email>
   </author>
+  <entry>
+    <title>Vitamin D and Your Bones: What Actually Matters</title>
+    <link href="https://mybone.health/blog/vitamin-d-bone-health.html" />
+    <id>https://mybone.health/blog/vitamin-d-bone-health.html</id>
+    <updated>2026-06-07T00:00:00Z</updated>
+    <published>2026-06-07T00:00:00Z</published>
+    <category term="Nutrition" />
+    <summary>A physician's plain-language guide to vitamin D and bone health: how it works, who should test, food vs. sun vs. supplement, prescription vs. over the counter, and what the latest evidence actually shows about fracture prevention.</summary>
+    <content type="html"><![CDATA[<p>If you have osteoporosis, or you are trying to prevent it, vitamin D has probably come up at every visit. Most of us have been told to take it. Many of us have been told a number. Far fewer of us have been told what it actually does, why the dose is the dose, or whether the bottle on the kitchen counter is really helping.</p>
+
+        <p>I want to walk through what vitamin D is, how your body uses it, why measuring it sometimes makes sense, and where the evidence is honestly weaker than the supplement aisle would have you believe.</p>
+
+        <h2>A Plain-Language Tour of How Vitamin D Works</h2>
+
+        <p>Vitamin D is not really a vitamin in the classic sense. Your skin makes it when ultraviolet B (UVB) light from the sun hits it, and from there it goes on a two-stop journey before it can do anything useful.</p>
+
+        <p>The first stop is your liver, which converts it into the form measured on your blood test, called <strong>25-hydroxyvitamin D</strong>, or 25(OH)D. That is the storage form. It is the number on the lab slip.</p>
+
+        <p>The second stop is your kidneys, which add another small chemical change to turn it into the active hormone, called <strong>1,25-dihydroxyvitamin D</strong> (or calcitriol). Only this active form can tell your gut to absorb more calcium and your bones to use it (per the <a href="https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/">NIH Office of Dietary Supplements</a>).</p>
+
+        <p>This matters for one quiet reason that often gets missed. If your kidneys are not working well, that final activation step suffers. People with chronic kidney disease can have a perfectly fine 25(OH)D level on paper and still be functionally short on the active hormone their bones need. This is true no matter the source. Sun-made vitamin D goes through exactly the same two stops as anything you swallow, so sunshine is not a workaround for kidneys that are not working well. When kidney function is significantly impaired, physicians often address this with specific prescription medications that provide a pre-activated form of vitamin D. If you have any degree of renal impairment, your bone-health plan deserves a more nuanced conversation than "take 1,000 IU and we are done."</p>
+
+        <h2>Should You Measure It?</h2>
+
+        <p>This is where the guidelines have shifted in a way most patients have not heard about yet.</p>
+
+        <p>For years, routine vitamin D testing was common. In 2024, the Endocrine Society reviewed the evidence and concluded that for most healthy adults between 19 and 74, routine screening with a 25(OH)D level does not improve outcomes (<a href="https://www.tomwademd.net/linking-to-and-excerpting-from-vitamin-d-for-the-prevention-of-disease-an-endocrine-society-clinical-practice-guideline/">Endocrine Society Clinical Practice Guideline summary</a>). They also stopped endorsing the old target of 30 ng/mL, because the evidence for that specific threshold turned out to be thinner than people assumed.</p>
+
+        <p>That guidance is for the general population. If you have osteoporosis, malabsorption, kidney disease, are on long-term glucocorticoids, have had bariatric surgery, or are starting a bone-active medication like a bisphosphonate or Prolia, measuring your level is reasonable and often important. Many bone medications work less well when vitamin D is low, and some can cause a meaningful drop in blood calcium if you start them while deficient.</p>
+
+        <p>So the question is not "should everyone get tested." It is "do I have a reason to know my number." For most readers of this blog, the answer is yes.</p>
+
+        <h2>What "Deficient" Really Means</h2>
+
+        <p>The National Academies define deficiency as a 25(OH)D level below 12 ng/mL (30 nmol/L), and inadequacy as 12 to 20 ng/mL (<a href="https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/">NIH ODS fact sheet</a>). Levels at or above 20 ng/mL are considered adequate for bone health in healthy adults. Many bone specialists still prefer to see osteoporosis patients somewhere in the 30 to 50 ng/mL range, even though the Endocrine Society no longer formally endorses that target.</p>
+
+        <p>What is clear from large U.S. surveys is that real deficiency is not rare. In NHANES data, roughly <strong>5% of Americans are deficient and another 18% are in the inadequate range</strong> (<a href="https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/">NIH ODS</a>). Those numbers climb higher in older adults, in people with darker skin, in people who cover for cultural or sun-safety reasons, and in anyone who spends most daylight hours indoors. That is most of modern adult life.</p>
+
+        <h2>Food First, Even Though Food Is Hard</h2>
+
+        <p>Food is the most physiologically reasonable way to get vitamin D, because it arrives with the other nutrients your bones use, including protein, calcium, magnesium, and vitamin K. The problem is that very few foods contain meaningful amounts.</p>
+
+        <p>The honest list is short:</p>
+
+        <ul>
+            <li>Fatty fish like salmon, sardines, mackerel, and trout</li>
+            <li>Cod liver oil, if you can stomach it</li>
+            <li>Egg yolks, in modest amounts</li>
+            <li>Mushrooms exposed to UV light during growing</li>
+            <li>Fortified foods like milk, plant milks, some yogurts, and some cereals</li>
+        </ul>
+
+        <p>A typical 3-ounce serving of cooked salmon delivers roughly 400 to 600 IU. A cup of fortified milk adds about 100 IU. A couple of egg yolks add maybe 80. You can see the math problem. Eating your way to 800 IU every day is possible if you happen to love fatty fish, and a stretch otherwise.</p>
+
+        <p>This is why food alone usually does not get most adults where they need to be, and why so many of us end up needing some combination of sun and supplements to fill the gap.</p>
+
+        <h2>Sunshine, Cautiously</h2>
+
+        <p>When UVB light hits bare skin, you make vitamin D quickly and efficiently. A fair-skinned adult in summer midday sun can produce several thousand IU in 10 to 20 minutes of casual exposure to arms and legs. The catch is that the same UVB that makes vitamin D is the part of sunlight that causes skin cancer, and the trade-off is real.</p>
+
+        <p>A few practical realities are worth knowing:</p>
+
+        <ul>
+            <li>North of roughly the 37th parallel (a line that runs through the middle of the United States), winter sun is too weak to make vitamin D for several months of the year, no matter how long you stand in it.</li>
+            <li>Sunscreen, clothing, glass windows, and darker skin all reduce production.</li>
+            <li>After about age 65, the skin's ability to make vitamin D drops significantly.</li>
+        </ul>
+
+        <p>I am not asking anyone to skip sunscreen. I am suggesting that a short walk in shorts and a short-sleeve shirt on a warm afternoon, before you reach for the sunblock, is not a reckless act for most people. It is one piece of a sensible plan, along with food and, for many of us, a supplement.</p>
+
+        <p>There is also a piece of this that does not show up on any lab report. Time outside in the sun, especially on a walk or sharing a meal with people you love on a patio, is one of the more reliable mood boosters we know of. Bone health is a long project, and the things that keep you doing it are not just the milligrams and the IUs. They are the afternoons you actually enjoyed. Sunshine, gentle movement, and company tend to arrive in the same package, and your bones are not the only part of you that benefits.</p>
+
+        <h2>Supplements: Form, Dose, and Prescription versus Over the Counter</h2>
+
+        <p>Two forms are widely sold. <strong>Vitamin D3 (cholecalciferol)</strong> is the form your skin makes, and it raises blood levels more efficiently than the alternative. <strong>Vitamin D2 (ergocalciferol)</strong> is plant-derived, requires a prescription at the high doses commonly used, and is what you will get if your doctor sends in a script for 50,000 IU weekly to correct a deficiency.</p>
+
+        <p>Most over-the-counter D3 supplements come in 1,000 to 5,000 IU tablets or soft gels. For maintenance in an adult with osteoporosis, somewhere in the range of 800 to 2,000 IU daily is what most clinical trials supporting fracture care have used (<a href="https://www.boltpharmacy.co.uk/guide/vitamin-d-supplements-for-bone-health">UK pharmacy clinical summary, 2026</a>).</p>
+
+        <p>A few notes that matter:</p>
+
+        <ul>
+            <li>D3 is fat-soluble, so take it with a meal that has some fat in it.</li>
+            <li>The 2024 Endocrine Society guideline prefers daily, lower-dose D over big weekly or monthly boluses in adults over 50, because the daily approach gave more consistent results in trials.</li>
+            <li>The safe upper limit without medical supervision is 4,000 IU daily. Higher doses can be appropriate for true deficiency, but those should be guided by labs and a clinician, not chosen off a shelf.</li>
+        </ul>
+
+        <p>If your level is truly low, your physician may prescribe a loading regimen, often something like 50,000 IU once a week for 6 to 10 weeks, then a transition to a daily maintenance dose. This is one of the genuinely useful places for the prescription form.</p>
+
+        <h2>The Part I Want You to Hear Clearly</h2>
+
+        <p>Here is where I want to be honest with you, because the supplement industry will not be.</p>
+
+        <p>For people who are already vitamin D sufficient, the evidence that taking more vitamin D meaningfully reduces fractures is weak. A large 2026 systematic review in <em>The BMJ</em>, pooling data from 36 trials and over 92,000 participants, concluded that routine vitamin D supplementation in older adults did not produce a clinically meaningful reduction in fractures (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13188451/">BMJ systematic review, May 2026</a>, summarized in <a href="https://scitechdaily.com/doctors-may-need-to-rethink-calcium-and-vitamin-d-recommendations-after-major-review/">SciTechDaily</a>). Megadosing has not been shown to do better than reasonable doses, and very high doses have actually been linked to more falls in some studies.</p>
+
+        <p>What the same body of evidence does support is this: <strong>correcting actual deficiency matters.</strong> People who are genuinely low benefit from getting back into the sufficient range, especially when they are also taking a bone-active medication that needs vitamin D to work properly. Beyond that point, more is not better.</p>
+
+        <p>So the practical message is not "vitamin D is useless." It is also not "everyone should be on 5,000 IU." It is something more nuanced and more useful: know whether you are deficient, fix it if you are, maintain a reasonable intake once you are not, and stop expecting a pill to do what only the full package of food, movement, sunlight, and medication when indicated can do together.</p>
+
+        <h2>What to Take Home</h2>
+
+        <ul>
+            <li>Vitamin D needs your kidneys to do its real job, so kidney problems change the conversation.</li>
+            <li>Most healthy adults do not need routine testing, but most osteoporosis patients reasonably do.</li>
+            <li>Real deficiency is common in the U.S. and worth correcting.</li>
+            <li>Food helps but rarely gets you there alone. A short, sensible amount of sun helps too.</li>
+            <li>For maintenance, 800 to 2,000 IU of D3 daily, with food, is a reasonable range for most adults with osteoporosis. Higher doses should be guided by labs.</li>
+            <li>More vitamin D is not the same as better bones. Correcting deficiency is what matters.</li>
+        </ul>
+
+        <p>If you take nothing else from this post, take this: your vitamin D level is one number in a much larger picture, and the goal is not to chase it as high as possible. The goal is to make sure it is not standing in the way of everything else you are doing for your bones.</p>
+
+        <div class="post-disclaimer">
+            This blog post is for educational purposes only and is not intended as medical advice. Always consult with your healthcare provider about your specific bone-health testing and treatment options.
+        </div>]]></content>
+  </entry>
+  <entry>
+    <title>How to Ask an AI About Your Osteoporosis Questions (Without Getting Burned)</title>
+    <link href="https://mybone.health/blog/asking-ai-about-osteoporosis.html" />
+    <id>https://mybone.health/blog/asking-ai-about-osteoporosis.html</id>
+    <updated>2026-06-02T00:00:00Z</updated>
+    <published>2026-06-02T00:00:00Z</published>
+    <category term="AI &amp; Patient Tools" />
+    <summary>A physician's practical guide to using AI tools for osteoporosis questions. How to tell training-data answers from real-time-search ones, why sources matter, and the five rules I follow when I ask an AI about my own health.</summary>
+    <content type="html"><![CDATA[<p>A patient asked me recently if it was safe to ask ChatGPT for advice about her new bisphosphonate prescription. She had a long list of questions, her appointment was three weeks away, and she wanted something to do in the meantime.</p>
+
+        <p>It is a fair question, and one I think more of us should be asking out loud.</p>
+
+        <p>I use AI tools every day, both as a physician and as someone living with osteoporosis. They are genuinely useful for translating medical jargon, organizing questions before an appointment, and giving you a starting point on an unfamiliar topic. They are also, sometimes, confidently wrong, or quietly incomplete, in ways that are very hard to detect if you do not already know the answer.</p>
+
+        <p>Here is what I have learned about getting useful answers without getting burned.</p>
+
+        <h2>The single most important habit: favor tools that show their sources</h2>
+
+        <p>Not all AI tools work the same way, and most people have no idea which kind they are talking to. Some tools are essentially very fluent autocomplete, predicting what a reasonable answer might look like based on patterns in their training data, which may be a year or more out of date. Others search the live internet first and then summarize what they find, with links so you can verify each claim.</p>
+
+        <p>For health questions, the difference matters enormously.</p>
+
+        <p>A tool that shows sources can still be wrong, but the wrongness is auditable. You can click the link, read the original, and decide whether it actually says what the AI claims it says. A tool with no sources gives you a polished paragraph that sounds authoritative whether the underlying facts are correct, partially correct, or quietly missing something important.</p>
+
+        <h3>How to tell which kind of AI you are using</h3>
+
+        <p>The simplest way is to just ask. Before you trust an answer on anything medical, paste in a prompt like one of these:</p>
+
+        <ul>
+            <li><em>&ldquo;Are you answering from your training data, or are you doing a real-time search of the web?&rdquo;</em></li>
+            <li><em>&ldquo;Can you answer this with links to sources from a real-time search?&rdquo;</em></li>
+            <li><em>&ldquo;What is the date of the most recent information you are using to answer this?&rdquo;</em></li>
+        </ul>
+
+        <p>A good tool will tell you honestly. If it admits it is working from training data with a cutoff date, you now know you are looking at an educated guess that could be a year or two stale. If it offers to search and cite sources, ask it to do exactly that and then check the links.</p>
+
+        <p>You can also watch for visual cues in the interface. Tools that are actually searching the web usually show you a &ldquo;searching&rdquo; or &ldquo;browsing&rdquo; step, and then list numbered citations next to claims in their answer. Tools that go straight from your question to a polished paragraph, with no search step and no links, are almost always running on training data alone.</p>
+
+        <p>When I am researching anything medical, I now strongly prefer tools that cite as they go, and I ask explicitly when I am not sure.</p>
+
+        <h2>A small experiment you can run yourself</h2>
+
+        <p>To show you what I mean, here is what happened when I recently asked two major AI tools the exact same simple question that thousands of newly diagnosed osteoporosis patients ask every day:</p>
+
+        <p><em>&ldquo;How much calcium should I get per day if I have osteoporosis, and should I get it from food or supplements?&rdquo;</em></p>
+
+        <p>The results, captured in June 2026, were instructive.</p>
+
+        <p><strong>Both tools gave fluent, confident answers.</strong> Both recommended the standard 1,000 to 1,200 milligrams per day depending on age and sex. Both said to prioritize food over supplements. Both mentioned vitamin D. Both reminded the reader to talk to their doctor. By every surface measure, the two answers looked equally good.</p>
+
+        <p>But two things were quietly different.</p>
+
+        <p><strong>Only one of the two tools flagged the cardiovascular concern.</strong> It included a short note that dietary calcium has not been linked to the same potential cardiovascular risks (such as arterial calcification) that some research has associated with high-dose calcium supplements. This is not an obscure detail. It is one of the most clinically important nuances in the entire conversation about calcium supplementation, and it is the reason many physicians now favor a food-first approach even more strongly than they did a decade ago. The other tool simply omitted it.</p>
+
+        <p><strong>Only one of the two tools cited where its information came from.</strong> It listed eight sources, including the International Osteoporosis Foundation, MedlinePlus, and several major academic medical centers. A reader could click any of them and verify a specific claim. The other tool listed no sources at all. Its answer might have been drawn from current guidelines, an outdated article, or some mix of both, and a reader had no way to tell.</p>
+
+        <p>If you had only used the tool that omitted the cardiovascular point, you might walk away thinking the choice between food and supplements was purely a matter of absorption and convenience. You would not know there was a safety nuance worth asking your doctor about. And without sources, you would have no way to even check.</p>
+
+        <p>Both answers sounded equally trustworthy. Only one was complete enough to act on.</p>
+
+        <p><em>(One caveat worth flagging: AI behavior changes month to month as models retrain and as new information enters their search indexes. The specific results above are a snapshot in time, not a permanent verdict on any tool.)</em></p>
+
+        <h2>How this maps to your osteoporosis questions</h2>
+
+        <p>If a tool can quietly omit a major safety nuance on a basic question like calcium dosing, imagine what it can do with questions like:</p>
+
+        <ul>
+            <li>&ldquo;Is it safe to take alendronate if I have a history of acid reflux?&rdquo;</li>
+            <li>&ldquo;What are the side effects of romosozumab?&rdquo;</li>
+            <li>&ldquo;Can I take vitamin K2 with my prescribed osteoporosis medication?&rdquo;</li>
+            <li>&ldquo;How long should I be on a bisphosphonate before considering a drug holiday?&rdquo;</li>
+        </ul>
+
+        <p>A confident, fluent, unsourced answer to any of these could be perfectly correct. It could also be subtly out of date, mixing up two related medications, missing an important contraindication, or quietly skipping a safety point the way the calcium example skipped the cardiovascular one.</p>
+
+        <p>For questions where the wrong or incomplete answer could lead to a fracture, a serious side effect, or a worse long-term outcome, I would never act on an AI response that does not show me where its information came from.</p>
+
+        <h2>Five rules I follow when asking an AI about my own health</h2>
+
+        <p><strong>1. Favor search-grounded tools for medical questions.</strong> If the tool is not pulling from live sources and showing you the links, it is making a more educated guess than you might realize. Use those tools for brainstorming questions to ask your doctor, not for medical decisions.</p>
+
+        <p><strong>2. Ask for sources explicitly, every time.</strong> Even with search-grounded tools, prompts like &ldquo;cite each claim with a link&rdquo; or &ldquo;what is your source for that?&rdquo; tend to produce more careful, traceable answers.</p>
+
+        <p><strong>3. Click the sources.</strong> I cannot stress this enough. AI summaries occasionally describe what a source says incorrectly, or extrapolate beyond what the source actually claims. The two-second habit of opening the linked page and skimming it catches most of these errors.</p>
+
+        <p><strong>4. Ask the same question to two different tools.</strong> This is the single best trick I know for spotting when something has been quietly omitted. If one tool flags a nuance the other skipped, that is information worth bringing to your physician.</p>
+
+        <p><strong>5. Treat any answer without a verifiable source as a hypothesis to test, not a finished answer.</strong> Bring it to your physician or pharmacist as a starting point for a real conversation.</p>
+
+        <h2>What AI is actually great at, for someone with osteoporosis</h2>
+
+        <p>I do not want any of this to sound like a blanket warning against using AI. It has changed how I research and prepare for appointments. A few of the places I find it most useful:</p>
+
+        <ul>
+            <li><strong>Translating jargon from a clinical note or lab result</strong> into plain English you can actually act on</li>
+            <li><strong>Preparing for an appointment</strong> by drafting a list of questions based on your specific situation</li>
+            <li><strong>Drafting a follow-up email to your physician</strong> when you forgot to ask something during the visit</li>
+            <li><strong>Comparing two medications side by side</strong> in a way that is easy to skim</li>
+            <li><strong>Explaining a concept to a family member</strong> who is worried about you and needs to understand the basics</li>
+        </ul>
+
+        <p>For all of these, the worst-case downside is that you get a slightly imperfect first draft, which you can refine. That is very different from asking &ldquo;should I take this medication&rdquo; and getting a confidently incomplete answer with no way to check what was left out.</p>
+
+        <h2>The takeaway</h2>
+
+        <p>The technology is real, the usefulness is real, and so is the risk of confidently incomplete information. The simplest way to protect yourself is to use tools that show their work, click through to the sources, ask the same question twice, and never treat an unsourced AI answer about your health as a final answer.</p>
+
+        <p>A good physician will not be threatened by a patient who arrives with a thoughtful list of AI-generated questions. A good AI tool will not pretend to know what it does not know.</p>
+
+        <p>You deserve both.</p>
+
+        <p><em>If you want an example of using AI well, paired with the lived human experience of this diagnosis, that is what my book is. <a href="https://www.amazon.com/dp/B0GZ271ZWC" target="_blank" rel="noopener noreferrer">Osteoporosis: The Book I Wish I&rsquo;d Had When I Was Diagnosed</a> is the clinically grounded, emotionally honest overview I wish someone had handed me on the day I was diagnosed.</em></p>
+
+        <div class="post-disclaimer">
+            This blog post is for educational purposes only and is not intended as medical advice. Always consult with your healthcare provider about your individual situation, medications, and treatment plan.
+        </div>]]></content>
+  </entry>
   <entry>
     <title>Fall-Proofing Isn't Just for Seniors: A Whole-House Guide</title>
     <link href="https://mybone.health/blog/fall-proofing-whole-house.html" />
