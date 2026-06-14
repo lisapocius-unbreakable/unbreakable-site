@@ -5,11 +5,148 @@
   <link href="https://mybone.health/atom.xml" rel="self" />
   <link href="https://mybone.health" />
   <id>https://mybone.health/</id>
-  <updated>2026-06-07T18:00:00Z</updated>
+  <updated>2026-06-14T00:00:00Z</updated>
   <author>
     <name>Dr. Lisa Pocius</name>
     <email>lisa.pocius@gmail.com</email>
   </author>
+  <entry>
+    <title>Your First Osteoporosis Visit: What to Expect (and What to Ask)</title>
+    <link href="https://mybone.health/blog/first-osteoporosis-visit.html" />
+    <id>https://mybone.health/blog/first-osteoporosis-visit.html</id>
+    <updated>2026-06-14T00:00:00Z</updated>
+    <published>2026-06-14T00:00:00Z</published>
+    <category term="Self-Advocacy" />
+    <summary>A physician's six-step guide to what should happen at your first osteoporosis visit: history, bone-thieves review, labs, fracture risk calculation, the severity conversation, and walking out with a real plan.</summary>
+    <content type="html"><![CDATA[<p>The DEXA report is in. The number is lower than you hoped. Your doctor's office calls and offers you an appointment in two or three weeks.</p>
+
+        <p>Now what.</p>
+
+        <p>This visit sets the direction of everything that follows: whether you understand why your bones got here, what's still quietly working against them, and whether the plan you walk out with is actually the right one for you.</p>
+
+        <p>Below is what a good osteoporosis workup looks like, in the order it usually unfolds. Print this, fold it into your appointment notes, and bring it with you. If your doctor covers everything here, you're in good hands. If they skip pieces of it, you now know exactly what to ask for.</p>
+
+        <h2>1. A real history, not just a checkbox</h2>
+
+        <p>A thorough first visit starts with conversation, not labs. Your doctor should want to know:</p>
+
+        <p><strong>Your fracture history.</strong> Any broken bones as an adult, especially after a minor fall or no fall at all. A fracture from standing height changes the entire treatment equation. Osteopenia plus a fragility fracture equals osteoporosis, no matter what the T-score says.</p>
+
+        <p><strong>Your family history.</strong> Did your mother, grandmother, or aunts have a "dowager's hump," lose height, or break a hip? Did anyone in your family have an early hip fracture or a connective tissue disorder like Ehlers-Danlos? Genetics load the dice for both peak bone mass and rate of bone loss.</p>
+
+        <p><strong>Your menopause timeline.</strong> Age at menopause, surgical menopause, time without estrogen. Early or surgical menopause is one of the strongest accelerators of bone loss in women.</p>
+
+        <p><strong>Your lifestyle.</strong> Honest answers about alcohol, caffeine, smoking, weight history, and whether you've recently lost significant weight without intentional strength training to preserve muscle.</p>
+
+        <h2>2. A bone-thieves review</h2>
+
+        <p>This is the part most appointments shortchange, and it's the part I want you to insist on.</p>
+
+        <p>"Bone thieves" is the phrase I use in the book for everything that quietly steals bone strength while you go about your life. Some are fixable. Some aren't, but knowing about them changes how aggressively you should treat.</p>
+
+        <p>Your doctor should review:</p>
+
+        <ul>
+            <li><strong>Medications you take now or have taken long-term.</strong> Corticosteroids like prednisone are the biggest offender, but the list also includes aromatase inhibitors for breast cancer, androgen deprivation therapy for prostate cancer, long-term Depo-Provera, certain anti-seizure drugs, proton pump inhibitors used for years, SSRIs, and over-replacement of thyroid hormone.</li>
+            <li><strong>Chronic conditions that affect bone.</strong> Rheumatoid arthritis and other inflammatory diseases, celiac disease, type 2 diabetes, chronic kidney disease, hyperthyroidism or hyperparathyroidism, and Cushing's syndrome can all silently undermine bone strength.</li>
+            <li><strong>Dietary patterns.</strong> Daily diet cola, six cups of coffee, ultra-processed foods with phosphate additives, very low protein intake, very low calcium intake.</li>
+        </ul>
+
+        <p>I had to do this inventory honestly for myself. It wasn't comfortable. But it explained a lot about how a 55-year-old physician ended up with four vertebral compression fractures, and it told me which levers I could actually pull.</p>
+
+        <p>If your doctor doesn't ask, hand them your medication list and say: "Can we go through these and talk about which might be affecting my bones?"</p>
+
+        <h2>3. Labs that should be ordered</h2>
+
+        <p>A first osteoporosis visit almost always means bloodwork, because we need to look for secondary causes: conditions that are quietly driving the bone loss and that have to be treated alongside (or sometimes instead of) osteoporosis medication.</p>
+
+        <p>At minimum, expect:</p>
+
+        <ul>
+            <li><strong>25-hydroxyvitamin D</strong> to assess vitamin D status</li>
+            <li><strong>Calcium</strong>, paired with PTH (see below)</li>
+            <li><strong>Parathyroid hormone (PTH)</strong>, not just calcium, because hyperparathyroidism shows up as elevated calcium <em>and</em> elevated PTH together</li>
+            <li><strong>TSH</strong> to check for over- or under-active thyroid</li>
+            <li><strong>A complete metabolic panel</strong> for kidney and liver function</li>
+        </ul>
+
+        <p>A quick word on calcium, because it confuses almost everyone. Your body keeps blood calcium in a very narrow range so that your heart, nerves, and muscles can function. If your dietary calcium falls short, your body simply makes a withdrawal from your bone bank to keep the blood level normal (Chapter 3 of the book walks through this in detail). That means a normal blood calcium does <em>not</em> prove your intake or absorption is adequate, and it cannot guide whether you need a calcium supplement. What blood calcium is actually useful for is screening for hyperparathyroidism, which is one of the few correctable causes of osteoporosis. That's why it's almost always ordered alongside PTH.</p>
+
+        <p>Your doctor may also consider, depending on your story:</p>
+
+        <ul>
+            <li><strong>Celiac antibodies (tissue transglutaminase IgA)</strong>, because untreated celiac disease damages the small intestine and can quietly block absorption of calcium, vitamin D, and other bone-building nutrients even when your diet looks fine</li>
+            <li><strong>Complete blood count</strong>, which can pick up clues to inflammatory disease, malabsorption, or blood disorders that affect bone</li>
+            <li><strong>24-hour urine calcium</strong></li>
+            <li><strong>Serum protein electrophoresis</strong> to screen for multiple myeloma in older adults</li>
+            <li><strong>A morning cortisol or other testing</strong> if Cushing's syndrome is on the table</li>
+            <li><strong>Testosterone</strong> in men</li>
+        </ul>
+
+        <p><strong>Bone turnover markers</strong> (CTX, P1NP) sometimes come up. For most newly diagnosed patients they aren't needed at the first visit. They're more useful later for monitoring how well a medication is working. If your doctor doesn't order them, that's usually fine.</p>
+
+        <p>One thing worth holding off on at this visit: a detailed conversation about calcium and vitamin D supplements. Until your 25-hydroxyvitamin D level is back, neither of you actually knows how much (if any) vitamin D you need, and supplementing blindly can either undershoot a real deficiency or push your levels too high. Note the question for the follow-up visit, and let the labs guide the dose.</p>
+
+        <h2>4. Your fracture risk, calculated honestly</h2>
+
+        <p>Your T-score alone doesn't tell your doctor whether to treat you. Your <strong>10-year fracture risk</strong> does.</p>
+
+        <p>Your doctor should calculate your <strong>FRAX score</strong> at this visit. FRAX combines your bone density with your age, BMI, family history, prior fractures, steroid exposure, smoking, alcohol use, and certain medical conditions to estimate your 10-year risk of a major osteoporotic fracture and a hip fracture. Many DEXA reports include FRAX automatically. If yours doesn't, your doctor can calculate it manually in about two minutes.</p>
+
+        <p>In the United States, treatment is typically recommended when FRAX shows a 10-year hip fracture risk above 3% or a major osteoporotic fracture risk above 20%.</p>
+
+        <p>If your situation is more complicated, such as a recent fracture, multiple fractures, long-term steroid use, or type 2 diabetes, ask whether <strong>FRAXplus</strong> is appropriate. FRAXplus is a more nuanced calculator that adjusts for details standard FRAX can't capture. I wrote more about it in <a href="dexa-tbs-vfa.html">Beyond the T-Score: What TBS and VFA on Your DEXA Report Really Mean</a>. For me, FRAXplus showed my fracture risk was roughly double what standard FRAX predicted, and that more accurate number was what convinced my insurance to cover the medication I needed.</p>
+
+        <h2>5. The severity conversation</h2>
+
+        <p>By this point your doctor has enough information to put your situation into context. This is where the most important conversation happens, and where I want you to slow down and ask questions.</p>
+
+        <p>The questions to bring:</p>
+
+        <ul>
+            <li><strong>How severe is my bone loss, taking everything into account?</strong> Not just my T-score, but my fracture history, my FRAX or FRAXplus risk, and any secondary causes you found?</li>
+            <li><strong>Do you recommend medication?</strong></li>
+            <li><strong>If yes: which class, and why that one for me?</strong></li>
+            <li><strong>If no: what's the plan, and when will we recheck?</strong></li>
+        </ul>
+
+        <p>There are roughly three medication families. <strong>Bisphosphonates</strong> like alendronate and zoledronic acid are the workhorse first-line treatments: well studied, widely available, and generally well tolerated (<a href="bisphosphonates-explained.html">Bisphosphonates Explained</a>, <a href="bisphosphonate-tips.html">Tips and Tricks</a>). <strong>Anabolic medications</strong> like teriparatide and abaloparatide actually build new bone and are usually reserved for higher-risk patients (<a href="anabolic-medications.html">Daily Anabolic Injections</a>). <strong>Romosozumab (Evenity)</strong> is a once-monthly dual-action injection with its own role in sequential therapy (<a href="evenity-explained.html">Evenity Explained</a>).</p>
+
+        <p>For every recommended medication, you deserve a clear answer to:</p>
+
+        <ul>
+            <li>What does it do, and how well does it work for someone with my numbers?</li>
+            <li>What are the realistic side effects, and how common are they?</li>
+            <li>How long would I be on it?</li>
+            <li>What happens when I stop, and what comes next?</li>
+            <li>Are there alternatives, and why is this one being recommended over those?</li>
+        </ul>
+
+        <p>If "why this one" gets a vague answer, ask again. There is almost always a real reason, and you deserve to hear it.</p>
+
+        <h2>6. Walking out with a plan</h2>
+
+        <p>Before you leave, you should have:</p>
+
+        <ul>
+            <li>A copy of your full DEXA report, T-scores at all sites and Z-scores</li>
+            <li>Your FRAX (and FRAXplus, if calculated) numbers, written down</li>
+            <li>A list of labs ordered and a plan for reviewing them</li>
+            <li>A clear recommendation: medication or lifestyle-first, with the reasoning</li>
+            <li>A follow-up timeline, usually two to four weeks to review labs, then a longer interval to recheck bone density</li>
+            <li>A dental checkup scheduled if you haven't had one recently, especially before starting certain bone medications</li>
+        </ul>
+
+        <p>If you walked out without these, it isn't too late. Call the office, ask for your DEXA report and FRAX number, and put your follow-up questions in the patient portal. Self-advocacy isn't rudeness. It's how good care actually happens.</p>
+
+        <p>If your first appointment feels rushed, vague, or dismissive ("your bones are fine for your age," "don't worry about it yet"), trust that instinct. A second opinion from a bone health specialist is always reasonable. You only get one first visit. Make it count.</p>
+
+        <p><em>Lisa Pocius, MD is a physician-author and former family physician who lives with osteoporosis. She is the author of <a href="https://www.amazon.com/dp/B0GZ271ZWC">Osteoporosis: The Book I Wish I'd Had When I Was Diagnosed</a>, which expands on every topic in this post with chapter-length guidance, worksheets, and a 30-day action plan.</em></p>]]></content>
+    <author>
+      <name>Dr. Lisa Pocius</name>
+      <email>lisa.pocius@gmail.com</email>
+    </author>
+  </entry>
   <entry>
     <title>Vitamin D and Your Bones: What Actually Matters</title>
     <link href="https://mybone.health/blog/vitamin-d-bone-health.html" />
@@ -119,11 +256,11 @@
             <li>More vitamin D is not the same as better bones. Correcting deficiency is what matters.</li>
         </ul>
 
-        <p>If you take nothing else from this post, take this: your vitamin D level is one number in a much larger picture, and the goal is not to chase it as high as possible. The goal is to make sure it is not standing in the way of everything else you are doing for your bones.</p>
-
-        <div class="post-disclaimer">
-            This blog post is for educational purposes only and is not intended as medical advice. Always consult with your healthcare provider about your specific bone-health testing and treatment options.
-        </div>]]></content>
+        <p>If you take nothing else from this post, take this: your vitamin D level is one number in a much larger picture, and the goal is not to chase it as high as possible. The goal is to make sure it is not standing in the way of everything else you are doing for your bones.</p>]]></content>
+    <author>
+      <name>Dr. Lisa Pocius</name>
+      <email>lisa.pocius@gmail.com</email>
+    </author>
   </entry>
   <entry>
     <title>How to Ask an AI About Your Osteoporosis Questions (Without Getting Burned)</title>
@@ -131,8 +268,8 @@
     <id>https://mybone.health/blog/asking-ai-about-osteoporosis.html</id>
     <updated>2026-06-02T00:00:00Z</updated>
     <published>2026-06-02T00:00:00Z</published>
-    <category term="AI &amp; Patient Tools" />
-    <summary>A physician's practical guide to using AI tools for osteoporosis questions. How to tell training-data answers from real-time-search ones, why sources matter, and the five rules I follow when I ask an AI about my own health.</summary>
+    <category term="AI &amp;amp; Patient Tools" />
+    <summary>A physician's practical guide to using AI tools for osteoporosis questions: how to tell training-data answers from real-time-search answers, why sources matter, and five rules to follow.</summary>
     <content type="html"><![CDATA[<p>A patient asked me recently if it was safe to ask ChatGPT for advice about her new bisphosphonate prescription. She had a long list of questions, her appointment was three weeks away, and she wanted something to do in the meantime.</p>
 
         <p>It is a fair question, and one I think more of us should be asking out loud.</p>
@@ -236,11 +373,11 @@
 
         <p>You deserve both.</p>
 
-        <p><em>If you want an example of using AI well, paired with the lived human experience of this diagnosis, that is what my book is. <a href="https://www.amazon.com/dp/B0GZ271ZWC" target="_blank" rel="noopener noreferrer">Osteoporosis: The Book I Wish I&rsquo;d Had When I Was Diagnosed</a> is the clinically grounded, emotionally honest overview I wish someone had handed me on the day I was diagnosed.</em></p>
-
-        <div class="post-disclaimer">
-            This blog post is for educational purposes only and is not intended as medical advice. Always consult with your healthcare provider about your individual situation, medications, and treatment plan.
-        </div>]]></content>
+        <p><em>If you want an example of using AI well, paired with the lived human experience of this diagnosis, that is what my book is. <a href="https://www.amazon.com/dp/B0GZ271ZWC" target="_blank" rel="noopener noreferrer">Osteoporosis: The Book I Wish I&rsquo;d Had When I Was Diagnosed</a> is the clinically grounded, emotionally honest overview I wish someone had handed me on the day I was diagnosed.</em></p>]]></content>
+    <author>
+      <name>Dr. Lisa Pocius</name>
+      <email>lisa.pocius@gmail.com</email>
+    </author>
   </entry>
   <entry>
     <title>Fall-Proofing Isn't Just for Seniors: A Whole-House Guide</title>
