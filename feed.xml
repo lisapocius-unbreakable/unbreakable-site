@@ -8,8 +8,81 @@
     <atom:link href="https://mybone.health/feed.xml" rel="self" type="application/rss+xml" />
     <description>Evidence-based articles on osteoporosis, bone health, and living well with bone loss, by Dr. Lisa Pocius.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jun 2026 23:40:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 20:58:56 +0000</lastBuildDate>
     <managingEditor>lisa.pocius@gmail.com (Dr. Lisa Pocius)</managingEditor>
+    <item>
+      <title>What That New Calcium and Vitamin D Study Actually Means If You Have Osteoporosis</title>
+      <link>https://mybone.health/blog/calcium-vit-d-study-2026.html</link>
+      <guid isPermaLink="true">https://mybone.health/blog/calcium-vit-d-study-2026.html</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Recent Developments</category>
+      <description>A physician's analysis of the major 2026 BMJ meta-analysis on calcium and vitamin D supplements — what it found, who it studied, and why the headlines may be missing the nuance that matters most for people already diagnosed with osteoporosis.</description>
+      <content:encoded><![CDATA[<p>If you follow bone health news, you may have seen headlines in the past few weeks along the lines of "Supplements Don't Prevent Fractures" or "Calcium and Vitamin D Found to Be Useless." A major new study published in <em>The BMJ</em> has been making the rounds, and patients have been understandably confused and anxious about what it means for them.</p>
+
+        <p>I want to walk through what the study actually found, why it is a good study that deserves to be taken seriously, and why the headlines may be sending the wrong message to exactly the people who need to hear clearly.</p>
+
+        <h2>What Kind of Study Is This?</h2>
+
+        <p>This is a meta-analysis, which is a study of studies. Researchers started with a large pool of published papers on calcium and vitamin D supplementation, screened roughly 10,000 papers against strict eligibility criteria, and ultimately analyzed 69 randomized controlled trials that met their standards. Those 69 trials enrolled a combined 153,902 participants across multiple countries.</p>
+
+        <p>That is a large and carefully curated body of evidence. The researchers are based at the University of Montreal and affiliated institutions in Canada. The journal, <em>The BMJ</em>, is one of the most respected medical journals in the world. This is not a fringe publication or a poorly designed study. It is exactly the kind of systematic work the field needs, and it deserves to be read carefully rather than dismissed or distorted.</p>
+
+        <p>You can read the full study here: <a href="https://www.bmj.com/content/393/bmj-2025-088050" target="_blank" rel="noopener">Calcium, vitamin D, or combined supplementation to prevent fractures and falls: systematic review and meta-analysis</a> (<em>BMJ</em> 2026;393:e088050).</p>
+
+        <h2>Who Was Included, and Who Was Not</h2>
+
+        <p>Here is the detail that changes everything for readers of this blog.</p>
+
+        <p>The study included adults 18 and older who were taking calcium supplements, vitamin D supplements, or both, compared to a placebo or no treatment. The researchers were looking at whether supplementation reduced fractures and falls. About 87 percent of participants were community-dwelling adults living independently, and about 73 percent were not considered to be at high risk of fractures or falls. They were, in other words, generally healthy older adults, not people with a diagnosis of osteoporosis or osteopenia who were already in a supervised treatment program.</p>
+
+        <p>And here is the exclusion that matters most: <strong>the study did not include adults who were already receiving drug treatment for osteoporosis.</strong> If you are taking a bisphosphonate like alendronate or risedronate, if you are on Prolia (denosumab), if you are on Evenity or Forteo, you were not part of this analysis. The conclusions do not apply to you.</p>
+
+        <p>The study's conclusion, stated precisely, is that routine supplementation with calcium and vitamin D does not appear to produce meaningful fracture or fall reduction in generally healthy adults who are not on bone-active medications. That is a very different statement than "supplements don't work for people with osteoporosis."</p>
+
+        <h2>The Study's Broader Message: Individualize, Don't Automate</h2>
+
+        <p>The researchers close with a recommendation worth noting. They suggest that clinicians, guideline panels, and regulatory bodies should re-evaluate their <strong>general</strong> recommendations for calcium and vitamin D supplementation in light of this evidence.</p>
+
+        <p>The emphasis on "general" is important. For decades, the default has been to tell most older adults to take these supplements as a routine matter, without checking baseline levels, without individualized discussion, without asking whether a specific person actually needs them. What this study pushes back on is that one-size-fits-all approach.</p>
+
+        <p>There is also an economic argument embedded in the researchers' framing. Hundreds of millions of dollars are spent annually on calcium and vitamin D supplements in the United States alone. If those supplements are not helping the majority of people who take them, that is a real cost borne both by individuals and by the healthcare system. The authors are pointing toward a future in which supplementation is targeted to people who actually need it, rather than universally recommended.</p>
+
+        <p>That is a reasonable and actually quite important point, as long as the people who do need it, including most people reading this post, are not swept up in a reflexive backlash.</p>
+
+        <h2>Two Things This Study Did Not Do Well</h2>
+
+        <p>I want to be honest about the study's limitations, because they matter for how you interpret the results.</p>
+
+        <p>First, most of the trials in this meta-analysis did not measure participants' baseline vitamin D levels before enrolling them. If you supplement someone who already has adequate vitamin D, you would not expect to see much benefit, because the nutrient was not the limiting factor to begin with. Correcting a deficiency is a different intervention than adding more of something that is already sufficient. The null result in this study may partly reflect the fact that many participants were vitamin D sufficient before they ever took a supplement. We simply do not know, because the data were not collected.</p>
+
+        <p>Second, many of the trials did not restrict the control groups from supplementing on their own. If the people in the "no treatment" group were buying calcium and vitamin D at their local pharmacy and taking it at home, the difference between the two groups would shrink, and the study would have a harder time detecting any benefit. This is called control group contamination, and it is a known methodological challenge in nutrition trials. It does not invalidate the findings, but it does make them harder to interpret cleanly.</p>
+
+        <h2>The Threshold Problem: A Small Number Can Still Matter a Great Deal</h2>
+
+        <p>There is one more issue worth understanding, because it goes to the heart of how we talk about medical evidence.</p>
+
+        <p>The study authors decided in advance that a meaningful benefit for hip fractures would need to be an absolute reduction in risk of at least 0.7 percent. That is the bar they set before counting results as clinically important.</p>
+
+        <p>The baseline hip fracture rate in the included studies was between 1.3 and 1.8 percent.</p>
+
+        <p>If you do that math, the authors were essentially requiring the supplement to cut hip fracture risk nearly in half before calling it worthwhile. That is an extraordinarily high bar for any intervention.</p>
+
+        <p>Now consider what hip fractures actually mean. In the United States, roughly 300,000 older adults are hospitalized for hip fractures every year (<a href="https://www.cdc.gov/falls/hip-fractures.html" target="_blank" rel="noopener">CDC</a>). The one-year mortality rate following a hip fracture in older adults ranges from approximately 17 to 25 percent across large studies (<a href="https://aging.jmir.org/2022/1/e32683/" target="_blank" rel="noopener">JMIR Aging, 2022</a>). Survivors face months of rehabilitation, lasting loss of independence, and a significantly increased risk of another fracture.</p>
+
+        <p>A benefit that falls below 0.7 percent absolute risk reduction, something that would not meet these authors' threshold, could still prevent tens of thousands of hip fractures and thousands of deaths annually at the population level. The threshold for what is "clinically meaningful" at the level of an individual trial is not the same as the threshold for what matters as a matter of public health.</p>
+
+        <p>This does not mean the supplement definitely works. It means we should be careful about how we use statistical thresholds to declare something either useful or useless.</p>
+
+        <h2>What This Means for You</h2>
+
+        <p>If you have osteoporosis or osteopenia and are working with a physician on a treatment plan, this study does not change your situation. Calcium and vitamin D are adjuncts to bone-active therapy, not alternatives to it. They remain part of the standard of care for people on bisphosphonates and other medications, because those medications work less effectively when calcium and vitamin D are inadequate.</p>
+
+        <p>What this study does support, and what I think is genuinely worth taking seriously, is the idea that supplementation should follow a conversation with your doctor rather than an automatic decision made off a store shelf. Getting your vitamin D level checked before supplementing is reasonable. Knowing your dietary calcium intake before reaching for a pill is reasonable. Understanding that a supplement is not a shield against osteoporosis, and that it cannot substitute for a DEXA scan, a proper fracture risk assessment, and treatment when indicated, is very important.</p>
+
+        <p>The danger of a headline like "supplements don't work" is not that it will cause already-diagnosed patients to change their protocols. It is that it will reach a 50-year-old woman approaching menopause, who decides she does not need to think about her bones because she has been taking vitamin D for years and that apparently does nothing anyway. That woman is exactly who we should be worried about.</p>
+
+        <p>Bone health is not a pill. It is a plan: adequate nutrition, weight-bearing and resistance exercise, fall prevention, regular DEXA monitoring, and medication when the evidence supports it. Calcium and vitamin D play a supporting role in that plan, not the starring one, and this study is a reasonable reminder of that. Just do not let the reminder become a reason to stop the conversation with your doctor.</p>]]></content:encoded>
+    </item>
     <item>
       <title>Your First Osteoporosis Visit: What to Expect (and What to Ask)</title>
       <link>https://mybone.health/blog/first-osteoporosis-visit.html</link>
