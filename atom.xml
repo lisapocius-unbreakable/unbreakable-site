@@ -5,11 +5,82 @@
   <link href="https://mybone.health/atom.xml" rel="self" />
   <link href="https://mybone.health" />
   <id>https://mybone.health/</id>
-  <updated>2026-06-21T00:00:00Z</updated>
+  <updated>2026-06-29T00:00:00Z</updated>
   <author>
     <name>Dr. Lisa Pocius</name>
     <email>lisa.pocius@gmail.com</email>
   </author>
+  <entry>
+    <title>Ozempic and Your Bones: What the New ENDO 2026 Data Actually Says</title>
+    <link href="https://mybone.health/blog/ozempic-bone-health-2026.html" />
+    <id>https://mybone.health/blog/ozempic-bone-health-2026.html</id>
+    <updated>2026-06-29T00:00:00Z</updated>
+    <published>2026-06-29T00:00:00Z</published>
+    <category term="Recent Developments" />
+    <summary>New research presented at ENDO 2026 found that semaglutide (Ozempic, Wegovy) may reduce fracture risk in people with type 2 diabetes. A physician explains what this means — and doesn't mean — if you have osteoporosis.</summary>
+    <content type="html"><![CDATA[<p>If you or someone you love takes Ozempic or Wegovy, you have probably heard both ends of this conversation. Some people worry that the rapid weight loss these medications cause will weaken bones. Others are now sharing headlines from last week claiming that Ozempic actually <em>protects</em> your skeleton. As with most things in medicine, the real answer is more nuanced than either version.</p>
+
+        <p>New research presented at ENDO 2026, the Endocrine Society's annual meeting in Chicago, added a significant new piece of data to this picture. I want to walk through what the study found, why it is genuinely interesting, and what it does and does not mean if you have osteoporosis or osteopenia.</p>
+
+        <h2>What the Study Found</h2>
+
+        <p>Researchers from Stanford University analyzed electronic health records from more than 161 million patients across U.S. hospitals and academic medical centers. They focused on adults with type 2 diabetes who had no prior fractures and were not taking any osteoporosis medications. That gave them a study population of nearly 60,000 people, about 26,000 of whom were taking semaglutide (the active ingredient in Ozempic, Wegovy, and Rybelsus) and about 34,000 taking other weight-loss medications including dulaglutide, phentermine/topiramate, or bupropion/naltrexone.</p>
+
+        <p>The finding: people taking semaglutide had about a 15 percent lower risk of bone fractures than those on the comparison medications, despite losing more weight. In raw numbers, the semaglutide group had 794 fractures compared to 1,045 in the control group. That is a statistically meaningful difference, and it runs counter to the concern that rapid weight loss automatically translates into weaker bones.</p>
+
+        <p>You can read the summary of the findings as presented at <a href="https://www.sciencedaily.com/releases/2026/06/260615033837.htm" target="_blank" rel="noopener">ENDO 2026 via ScienceDaily</a>.</p>
+
+        <h2>Why This Is Genuinely Interesting</h2>
+
+        <p>The prior worry about semaglutide and bone health was straightforward: lose weight quickly, lose muscle along the way, and muscle loss means less mechanical loading on the skeleton, which can lead to bone loss. This concern was not unfounded. Some smaller studies had shown modest decreases in hip bone density in people losing large amounts of weight rapidly, comparable to what we see with natural aging in postmenopausal women.</p>
+
+        <p>What the ENDO 2026 data suggests is that semaglutide may have a more complex relationship with bone than "weight loss equals bone loss." GLP-1 receptors, the targets of these medications, are present not just in the gut and brain but in bone tissue itself. Some researchers hypothesize that GLP-1 receptor agonists may have a direct protective effect on bone cells, though the mechanism is not yet fully worked out.</p>
+
+        <p>This is a reasonable hypothesis, and this large dataset gives it meaningful support. The researchers called it "decoupling the traditional clinical concern of weight-loss induced skeletal decline." That is careful, accurate language, and it reflects why this study deserves attention.</p>
+
+        <h2>What This Study Cannot Tell Us</h2>
+
+        <p>I want to be direct about the limitations, because they matter for how you interpret this finding.</p>
+
+        <p>This is a retrospective observational study, meaning researchers looked back at existing records rather than randomly assigning people to treatments and following them forward. That kind of study is excellent for generating hypotheses and identifying associations, but it cannot prove that semaglutide caused fewer fractures. People who are prescribed semaglutide may differ in important ways from those prescribed other medications. Even with careful statistical adjustments, some of those differences will remain invisible in the data.</p>
+
+        <p>The study also excluded people who were already on osteoporosis medications and those with prior fractures. That means the population being studied does not closely resemble most readers of this blog. These were adults with type 2 diabetes who happened to be fracture-free and treatment-naive for bone disease. The results cannot simply be transferred to someone already diagnosed with osteopenia or osteoporosis, already on a bisphosphonate, or already managing established fragility fractures.</p>
+
+        <p>The researchers themselves were clear on this point. This is promising early evidence that warrants further study, not a clinical recommendation to use semaglutide for bone protection.</p>
+
+        <h2>A Contradictory Data Point Worth Knowing</h2>
+
+        <p>One more piece of context is worth sharing, because this is a situation where two legitimate studies point in different directions.</p>
+
+        <p>A separate analysis published in the <em>Journal of Clinical Endocrinology and Metabolism</em> this year looked at GLP-1 receptor agonists in older adults with type 2 diabetes and found a modest but statistically significant 11 percent <em>increase</em> in fragility fracture risk compared to other diabetes medications. The population in that study was older, and the researchers accounted for the competing risk of death, which matters when studying fractures in elderly patients.</p>
+
+        <p>These studies are not necessarily saying opposite things. They may be capturing different populations, different drugs within the GLP-1 class, and different follow-up periods. But the presence of conflicting data is exactly why it is too soon to say that Ozempic protects bones, full stop.</p>
+
+        <h2>If You Have Osteoporosis and Are Taking or Considering These Medications</h2>
+
+        <p>This is where I want to be most direct, because I know many of you are in this position. Semaglutide is being prescribed broadly, and some of the people taking it for weight loss or diabetes also have diagnosed low bone density.</p>
+
+        <p>A few things I think are worth knowing:</p>
+
+        <ul>
+            <li><strong>A baseline DEXA scan before starting is reasonable.</strong> If you are considering semaglutide or a similar medication and you have not had a bone density scan recently, this is a good time to get one. Knowing your starting point lets you and your doctor make informed decisions and track any changes over time.</li>
+            <li><strong>Rapid weight loss, regardless of method, warrants bone monitoring.</strong> If you lose a significant amount of weight quickly, your DEXA schedule should reflect that. Your doctor should be asking about it.</li>
+            <li><strong>This study does not change your osteoporosis treatment plan.</strong> If you are on a bisphosphonate, Prolia, Evenity, or another bone-active medication, this new data does not suggest stopping or changing anything. Those medications have strong, direct evidence for fracture prevention in people with diagnosed osteoporosis. A study of a different drug in a different population does not alter that calculus.</li>
+            <li><strong>If your doctor has been discouraging semaglutide because of bone concerns, this new data is worth bringing up.</strong> Conversations should be based on current evidence, and the picture has shifted at least somewhat in a more reassuring direction. Ask your doctor what they make of the ENDO 2026 findings in your specific situation.</li>
+        </ul>
+
+        <h2>The Bigger Picture</h2>
+
+        <p>Bone health rarely fits neatly into headlines. This week's story is "Ozempic might protect bones," and that is meaningfully better news than the prior default worry. But it is the beginning of a conversation, not the end of one.</p>
+
+        <p>What remains unchanged is the foundation: knowing your bone density through regular DEXA scanning, working with a knowledgeable physician on your individual fracture risk, and making sure any medications you take for any reason are being considered in the full context of your bone health. Tools like FRAXplus can help you and your doctor understand your actual fracture risk with precision, rather than making assumptions based on a single test or a single headline.</p>
+
+        <p>The science is moving. That is a good thing. Just make sure you are reading it with the nuance it deserves.</p>]]></content>
+    <author>
+      <name>Dr. Lisa Pocius</name>
+      <email>lisa.pocius@gmail.com</email>
+    </author>
+  </entry>
   <entry>
     <title>What That New Calcium and Vitamin D Study Actually Means If You Have Osteoporosis</title>
     <link href="https://mybone.health/blog/calcium-vit-d-study-2026.html" />
