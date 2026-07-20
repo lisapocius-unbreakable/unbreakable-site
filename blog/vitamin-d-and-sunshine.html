@@ -162,7 +162,58 @@
             nav { top: 64px !important; }
             body { padding-top: 64px; }
         }
-    </style>
+    
+        /* Related Posts */
+        .related-posts { margin: 3.5rem 0 2rem; padding-top: 2.5rem; border-top: 1px solid var(--border, #e5e5e0); }
+        .related-heading { font-family: var(--serif, Georgia, serif); font-size: 1.5rem; margin: 0 0 1.5rem; color: var(--text, #2a2a2a); }
+        .related-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.25rem; }
+        .related-card {
+            display: block;
+            text-decoration: none;
+            color: inherit;
+            background: var(--card-bg, #fff);
+            border: 1px solid var(--border, #e5e5e0);
+            border-radius: 10px;
+            overflow: hidden;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+        .related-card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+        }
+        .related-card-image {
+            width: 100%;
+            height: 130px;
+            overflow: hidden;
+            background: #f4f2ee;
+        }
+        .related-card-image img {
+            width: 100%; height: 100%; object-fit: cover;
+            transition: transform 0.4s ease;
+        }
+        .related-card:hover .related-card-image img { transform: scale(1.05); }
+        .related-card-body { padding: 0.9rem 1rem 1.1rem; }
+        .related-card-tag {
+            display: inline-block;
+            font-size: 0.72rem;
+            letter-spacing: 0.05em;
+            text-transform: uppercase;
+            color: var(--accent, #6b7f5b);
+            font-weight: 600;
+            margin-bottom: 0.4rem;
+        }
+        .related-card-title {
+            font-family: var(--serif, Georgia, serif);
+            font-size: 1rem;
+            line-height: 1.35;
+            margin: 0;
+            color: var(--text, #2a2a2a);
+        }
+        @media (max-width: 780px) {
+            .related-grid { grid-template-columns: 1fr; }
+            .related-card-image { height: 160px; }
+        }
+</style>
     <div class="preorder-banner">
         <div class="preorder-banner-inner">
             <span class="preorder-banner-text"><strong>Now available:</strong> <em>Osteoporosis: The Book I Wish I'd Had When I Was Diagnosed</em></span>
@@ -250,6 +301,41 @@
         <p>Sunshine and supplements are partners, not rivals. The vitamin D you make in summer sun is the real thing, and getting outside is genuinely good for you in ways that go well beyond your bones. At the same time, sunshine is unreliable across the year, it weakens with age, and it asks more of darker skin, so a modest daily supplement is a sensible safety net for most people, especially through the winter months.</p>
 
         <p>My own approach, and the one I suggest to patients, is to enjoy short, sensible time in the sun without letting yourself burn, take a steady vitamin D supplement to cover the gaps, and check your level with your doctor if there is any doubt. That combination gives your bones what they need while letting you soak up everything else the sun offers. If you would like to go further, the posts on <a href="calcium-vit-d-study-2026.html">what the newest calcium and vitamin D research really means</a> and on <a href="weight-bearing-vs-resistance.html">exercise for your bones</a> pair naturally with this one, and the <a href="../faq.html">FAQ page</a> answers many of the questions I hear most often.</p>
+
+        
+        <!-- Related Posts -->
+        <aside class="related-posts" aria-label="Related posts">
+            <h2 class="related-heading">Keep reading</h2>
+            <div class="related-grid">
+            <a href="vitamin-d-bone-health.html" class="related-card">
+                <div class="related-card-image">
+                    <img src="../images/blog-vitamin-d-bone-health.png" alt="A man in his fifties sitting on a wooden garden bench in warm afternoon sunlight, wearing shorts and a short-sleeve shirt, with bare arms and legs exposed to the sun" loading="lazy">
+                </div>
+                <div class="related-card-body">
+                    <span class="related-card-tag">Nutrition</span>
+                    <h4 class="related-card-title">Vitamin D and Your Bones: What Actually Matters</h4>
+                </div>
+            </a>
+            <a href="protein-and-calcium.html" class="related-card">
+                <div class="related-card-image">
+                    <img src="../images/blog-protein.png" alt="Overhead view of bone-supportive foods including salmon, Greek yogurt, milk, egg, kale and white beans, and aged cheese" loading="lazy">
+                </div>
+                <div class="related-card-body">
+                    <span class="related-card-tag">Nutrition</span>
+                    <h4 class="related-card-title">Protein, Calcium, and the Mistake of Picking One: What Your Bones Actually Need at Once</h4>
+                </div>
+            </a>
+            <a href="bone-friendly-meals.html" class="related-card">
+                <div class="related-card-image">
+                    <img src="../images/blog-meals.png" alt="Bone-healthy meals on a rustic table" loading="lazy">
+                </div>
+                <div class="related-card-body">
+                    <span class="related-card-tag">Nutrition</span>
+                    <h4 class="related-card-title">5 Bone-Friendly Meals You Can Make in 20 Minutes</h4>
+                </div>
+            </a>
+            </div>
+        </aside>
 
         <div class="post-disclaimer">
             This blog post is for educational purposes only and is not intended as medical advice. Always consult with your healthcare provider before starting a vitamin D supplement or making changes to your sun exposure, and ask about having your vitamin D level checked if you are unsure where you stand.

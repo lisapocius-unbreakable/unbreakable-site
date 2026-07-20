@@ -505,7 +505,58 @@
             nav { top: 64px !important; }
             body { padding-top: 64px; }
         }
-    </style>
+    
+        /* Related Posts */
+        .related-posts { margin: 3.5rem 0 2rem; padding-top: 2.5rem; border-top: 1px solid var(--border, #e5e5e0); }
+        .related-heading { font-family: var(--serif, Georgia, serif); font-size: 1.5rem; margin: 0 0 1.5rem; color: var(--text, #2a2a2a); }
+        .related-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.25rem; }
+        .related-card {
+            display: block;
+            text-decoration: none;
+            color: inherit;
+            background: var(--card-bg, #fff);
+            border: 1px solid var(--border, #e5e5e0);
+            border-radius: 10px;
+            overflow: hidden;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+        .related-card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+        }
+        .related-card-image {
+            width: 100%;
+            height: 130px;
+            overflow: hidden;
+            background: #f4f2ee;
+        }
+        .related-card-image img {
+            width: 100%; height: 100%; object-fit: cover;
+            transition: transform 0.4s ease;
+        }
+        .related-card:hover .related-card-image img { transform: scale(1.05); }
+        .related-card-body { padding: 0.9rem 1rem 1.1rem; }
+        .related-card-tag {
+            display: inline-block;
+            font-size: 0.72rem;
+            letter-spacing: 0.05em;
+            text-transform: uppercase;
+            color: var(--accent, #6b7f5b);
+            font-weight: 600;
+            margin-bottom: 0.4rem;
+        }
+        .related-card-title {
+            font-family: var(--serif, Georgia, serif);
+            font-size: 1rem;
+            line-height: 1.35;
+            margin: 0;
+            color: var(--text, #2a2a2a);
+        }
+        @media (max-width: 780px) {
+            .related-grid { grid-template-columns: 1fr; }
+            .related-card-image { height: 160px; }
+        }
+</style>
     <div class="preorder-banner">
         <div class="preorder-banner-inner">
             <span class="preorder-banner-text"><strong>Now available:</strong> <em>Osteoporosis: The Book I Wish I'd Had When I Was Diagnosed</em></span>
@@ -591,6 +642,41 @@
         <p>Bisphosphonates are not the most user-friendly medications. I get it. But with a few adjustments to your morning routine, they become manageable. And the fracture protection they provide is real and meaningful.</p>
 
         <p>If you are struggling with your medication, do not just quietly stop. Talk to your doctor. Adjust the routine. Try a different day. Explore alternatives. The best osteoporosis medication is the one you actually take.</p>
+
+        
+        <!-- Related Posts -->
+        <aside class="related-posts" aria-label="Related posts">
+            <h2 class="related-heading">Keep reading</h2>
+            <div class="related-grid">
+            <a href="evenity-explained.html" class="related-card">
+                <div class="related-card-image">
+                    <img src="../images/blog-evenity.png" alt="Tablet calendar showing a Bone Health Injection reminder on the 15th of the month" loading="lazy">
+                </div>
+                <div class="related-card-body">
+                    <span class="related-card-tag">Medication</span>
+                    <h4 class="related-card-title">Evenity: The Once-a-Month Bone Builder That Works Differently</h4>
+                </div>
+            </a>
+            <a href="anabolic-medications.html" class="related-card">
+                <div class="related-card-image">
+                    <img src="../images/blog-anabolic-meds.png" alt="Woman at a sunlit kitchen table preparing a daily bone-building injection" loading="lazy">
+                </div>
+                <div class="related-card-body">
+                    <span class="related-card-tag">Medication</span>
+                    <h4 class="related-card-title">Daily Injections That Build Bone: Understanding Forteo and Tymlos</h4>
+                </div>
+            </a>
+            <a href="bisphosphonates-explained.html" class="related-card">
+                <div class="related-card-image">
+                    <img src="../images/blog-medication.png" alt="Bisphosphonates and osteoporosis medication" loading="lazy">
+                </div>
+                <div class="related-card-body">
+                    <span class="related-card-tag">Medication</span>
+                    <h4 class="related-card-title">Bisphosphonates Explained: What Your Doctor May Not Have Time to Tell You</h4>
+                </div>
+            </a>
+            </div>
+        </aside>
 
         <div class="post-disclaimer">
             This blog post is for educational purposes only and is not intended as medical advice. Always consult with your healthcare provider about your individual medication needs.

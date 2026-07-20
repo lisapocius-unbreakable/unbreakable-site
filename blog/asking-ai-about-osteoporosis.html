@@ -506,7 +506,58 @@
             nav { top: 64px !important; }
             body { padding-top: 64px; }
         }
-    </style>
+    
+        /* Related Posts */
+        .related-posts { margin: 3.5rem 0 2rem; padding-top: 2.5rem; border-top: 1px solid var(--border, #e5e5e0); }
+        .related-heading { font-family: var(--serif, Georgia, serif); font-size: 1.5rem; margin: 0 0 1.5rem; color: var(--text, #2a2a2a); }
+        .related-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.25rem; }
+        .related-card {
+            display: block;
+            text-decoration: none;
+            color: inherit;
+            background: var(--card-bg, #fff);
+            border: 1px solid var(--border, #e5e5e0);
+            border-radius: 10px;
+            overflow: hidden;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+        .related-card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+        }
+        .related-card-image {
+            width: 100%;
+            height: 130px;
+            overflow: hidden;
+            background: #f4f2ee;
+        }
+        .related-card-image img {
+            width: 100%; height: 100%; object-fit: cover;
+            transition: transform 0.4s ease;
+        }
+        .related-card:hover .related-card-image img { transform: scale(1.05); }
+        .related-card-body { padding: 0.9rem 1rem 1.1rem; }
+        .related-card-tag {
+            display: inline-block;
+            font-size: 0.72rem;
+            letter-spacing: 0.05em;
+            text-transform: uppercase;
+            color: var(--accent, #6b7f5b);
+            font-weight: 600;
+            margin-bottom: 0.4rem;
+        }
+        .related-card-title {
+            font-family: var(--serif, Georgia, serif);
+            font-size: 1rem;
+            line-height: 1.35;
+            margin: 0;
+            color: var(--text, #2a2a2a);
+        }
+        @media (max-width: 780px) {
+            .related-grid { grid-template-columns: 1fr; }
+            .related-card-image { height: 160px; }
+        }
+</style>
     <div class="preorder-banner">
         <div class="preorder-banner-inner">
             <span class="preorder-banner-text"><strong>Now available:</strong> <em>Osteoporosis: The Book I Wish I'd Had When I Was Diagnosed</em></span>
@@ -633,6 +684,41 @@
         <p>You deserve both.</p>
 
         <p><em>If you want an example of using AI well, paired with the lived human experience of this diagnosis, that is what my book is. <a href="https://www.amazon.com/dp/B0GZ271ZWC" target="_blank" rel="noopener noreferrer">Osteoporosis: The Book I Wish I&rsquo;d Had When I Was Diagnosed</a> is the clinically grounded, emotionally honest overview I wish someone had handed me on the day I was diagnosed.</em></p>
+
+        
+        <!-- Related Posts -->
+        <aside class="related-posts" aria-label="Related posts">
+            <h2 class="related-heading">Keep reading</h2>
+            <div class="related-grid">
+            <a href="first-osteoporosis-visit.html" class="related-card">
+                <div class="related-card-image">
+                    <img src="../images/blog-first-osteoporosis-visit.png" alt="An older Black woman with silver and black hair, wearing a teal cardigan, sitting across from her physician in a sunlit exam room as they review her DEXA report together" loading="lazy">
+                </div>
+                <div class="related-card-body">
+                    <span class="related-card-tag">Self-Advocacy</span>
+                    <h4 class="related-card-title">What Should Happen at Your First Osteoporosis Visit (and What to Ask If It Doesn&#x27;t)</h4>
+                </div>
+            </a>
+            <a href="can-osteoporosis-be-reversed.html" class="related-card">
+                <div class="related-card-image">
+                    <img src="../images/blog-can-osteoporosis-be-reversed.png" alt="A woman in her late sixties with silver hair sits at a bright kitchen table writing in a notebook, morning light coming through a window" loading="lazy">
+                </div>
+                <div class="related-card-body">
+                    <span class="related-card-tag">Patient Education</span>
+                    <h4 class="related-card-title">Can Osteoporosis Be Reversed?</h4>
+                </div>
+            </a>
+            <a href="vitamin-d-and-sunshine.html" class="related-card">
+                <div class="related-card-image">
+                    <img src="../images/blog-vitamin-d-and-sunshine.png" alt="A woman in her late fifties with silver hair sits on a garden bench in gentle morning sunlight with her forearms bare and eyes softly closed" loading="lazy">
+                </div>
+                <div class="related-card-body">
+                    <span class="related-card-tag">Nutrition</span>
+                    <h4 class="related-card-title">Sunshine and Vitamin D: What Actually Works, and What Does Not</h4>
+                </div>
+            </a>
+            </div>
+        </aside>
 
         <div class="post-disclaimer">
             This blog post is for educational purposes only and is not intended as medical advice. Always consult with your healthcare provider about your individual situation, medications, and treatment plan.

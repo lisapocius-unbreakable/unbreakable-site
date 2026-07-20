@@ -162,7 +162,58 @@
             nav { top: 64px !important; }
             body { padding-top: 64px; }
         }
-    </style>
+    
+        /* Related Posts */
+        .related-posts { margin: 3.5rem 0 2rem; padding-top: 2.5rem; border-top: 1px solid var(--border, #e5e5e0); }
+        .related-heading { font-family: var(--serif, Georgia, serif); font-size: 1.5rem; margin: 0 0 1.5rem; color: var(--text, #2a2a2a); }
+        .related-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.25rem; }
+        .related-card {
+            display: block;
+            text-decoration: none;
+            color: inherit;
+            background: var(--card-bg, #fff);
+            border: 1px solid var(--border, #e5e5e0);
+            border-radius: 10px;
+            overflow: hidden;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+        .related-card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+        }
+        .related-card-image {
+            width: 100%;
+            height: 130px;
+            overflow: hidden;
+            background: #f4f2ee;
+        }
+        .related-card-image img {
+            width: 100%; height: 100%; object-fit: cover;
+            transition: transform 0.4s ease;
+        }
+        .related-card:hover .related-card-image img { transform: scale(1.05); }
+        .related-card-body { padding: 0.9rem 1rem 1.1rem; }
+        .related-card-tag {
+            display: inline-block;
+            font-size: 0.72rem;
+            letter-spacing: 0.05em;
+            text-transform: uppercase;
+            color: var(--accent, #6b7f5b);
+            font-weight: 600;
+            margin-bottom: 0.4rem;
+        }
+        .related-card-title {
+            font-family: var(--serif, Georgia, serif);
+            font-size: 1rem;
+            line-height: 1.35;
+            margin: 0;
+            color: var(--text, #2a2a2a);
+        }
+        @media (max-width: 780px) {
+            .related-grid { grid-template-columns: 1fr; }
+            .related-card-image { height: 160px; }
+        }
+</style>
     <div class="preorder-banner">
         <div class="preorder-banner-inner">
             <span class="preorder-banner-text"><strong>Now available:</strong> <em>Osteoporosis: The Book I Wish I'd Had When I Was Diagnosed</em></span>
@@ -245,6 +296,41 @@
         <p>None of it looks dramatic on any single day. It is standing a little taller, doing your gentle backward stretches a few times a week, and getting into the habit of bending at the hips instead of the waist. Small things, done steadily, add up to a spine that is better able to carry you through the years ahead. That quiet, patient kind of effort is exactly what osteoporosis rewards.</p>
 
         <p>If you want to go further, the posts on <a href="weight-bearing-vs-resistance.html">weight-bearing and resistance exercise</a> and <a href="balance-training.html">balance training</a> pair naturally with this one, and the <a href="../faq.html">FAQ page</a> answers many of the questions I hear most often.</p>
+
+        
+        <!-- Related Posts -->
+        <aside class="related-posts" aria-label="Related posts">
+            <h2 class="related-heading">Keep reading</h2>
+            <div class="related-grid">
+            <a href="weight-bearing-vs-resistance.html" class="related-card">
+                <div class="related-card-image">
+                    <img src="../images/blog-exercise.png" alt="Weight-bearing and resistance exercises for bone health" loading="lazy">
+                </div>
+                <div class="related-card-body">
+                    <span class="related-card-tag">Exercise</span>
+                    <h4 class="related-card-title">Weight-Bearing vs. Resistance Training: Which One Builds Bone Better?</h4>
+                </div>
+            </a>
+            <a href="fall-proofing-whole-house.html" class="related-card">
+                <div class="related-card-image">
+                    <img src="../images/blog-fall-proofing-whole-house.png" alt="A warmly lit modern home interior showing low-pile carpet transitioning to wood flooring, a staircase with a sturdy handrail, a curbless walk-in shower visible through a doorway, and a pair of supportive house shoes by the door" loading="lazy">
+                </div>
+                <div class="related-card-body">
+                    <span class="related-card-tag">Fall Prevention</span>
+                    <h4 class="related-card-title">Fall-Proofing Isn&#x27;t Just for Seniors: A Whole-House Guide</h4>
+                </div>
+            </a>
+            <a href="fall-risk-medications.html" class="related-card">
+                <div class="related-card-image">
+                    <img src="../images/blog-fall-risk-meds.png" alt="Medication bottles on a kitchen counter" loading="lazy">
+                </div>
+                <div class="related-card-body">
+                    <span class="related-card-tag">Fall Prevention</span>
+                    <h4 class="related-card-title">The Medications That Might Be Increasing Your Fall Risk</h4>
+                </div>
+            </a>
+            </div>
+        </aside>
 
         <div class="post-disclaimer">
             This blog post is for educational purposes only and is not intended as medical advice. Always consult with your healthcare provider or a physical therapist before starting new exercises or using a spinal support, particularly if you have had a vertebral fracture.
