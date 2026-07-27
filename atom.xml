@@ -5,11 +5,214 @@
   <link href="https://mybone.health/atom.xml" rel="self" />
   <link href="https://mybone.health" />
   <id>https://mybone.health/</id>
-  <updated>2026-07-19T00:00:00Z</updated>
+  <updated>2026-07-27T00:00:00Z</updated>
   <author>
     <name>Dr. Lisa Pocius</name>
     <email>lisa.pocius@gmail.com</email>
   </author>
+  <entry>
+    <title>Your FRAX Score: What It Means and When to Ask About FRAX-plus</title>
+    <link href="https://mybone.health/blog/frax-score-explained.html" />
+    <id>https://mybone.health/blog/frax-score-explained.html</id>
+    <updated>2026-07-27T00:00:00Z</updated>
+    <published>2026-07-27T00:00:00Z</published>
+    <category term="Self-Advocacy" />
+    <summary>Your T-score describes your bones today; your FRAX score estimates what happens over the next ten years, and it is often the number that decides treatment. A physician explains the two results, the US thresholds, how to run FRAX yourself, what it cannot see about you, and when to ask about FRAX-plus.</summary>
+    <content type="html"><![CDATA[<p>Your T-score describes what your bones look like right now. Your FRAX score tries to answer a different question: what is likely to happen over the next ten years. Those are not the same thing, and in most treatment conversations, the second question is the one that actually decides what happens next.</p>
+
+        <p>I get a lot of reader questions about FRAX, and almost all of them come down to three things. What is this number? Can I run it myself? And why did my doctor mention a version of it I've never heard of? Let's take them in order.</p>
+
+        <h2>What FRAX Actually Estimates</h2>
+
+        <p>FRAX gives you two numbers, and both are ten-year probabilities:</p>
+
+        <ul>
+            <li><strong>Major osteoporotic fracture:</strong> your chance of breaking a hip, spine, forearm, or shoulder in the next ten years.</li>
+            <li><strong>Hip fracture:</strong> the same ten-year window, hip only.</li>
+        </ul>
+
+        <p>Notice that these are probabilities, not diagnoses. FRAX doesn't tell you whether you have osteoporosis. It tells you how likely you are to break something, which is the thing most of us actually want to know.</p>
+
+        <p>In the United States, the numbers that tend to move a treatment decision are a ten-year major osteoporotic fracture probability of <strong>20% or higher</strong>, or a ten-year hip fracture probability of <strong>3% or higher</strong>, in someone whose T-score falls in the osteopenia range between -1.0 and -2.5 (<a href="https://www.bonehealthandosteoporosis.org/wp-content/uploads/BHOF-HBHC_Houston-FINAL.pdf">Bone Health and Osteoporosis Foundation provider factsheet</a>). Those thresholds are specific to the US. FRAX is calibrated country by country, so a Canadian or British threshold looks different, and a number you find on a general health website may not apply where you live.</p>
+
+        <h2>What Goes Into the Calculation</h2>
+
+        <p>The standard FRAX tool asks for your country, age (it works from 40 to 90), sex, height, and weight. Then it asks a short list of yes-or-no questions:</p>
+
+        <ul>
+            <li>Have you broken a bone as an adult, from a fall from standing height or less?</li>
+            <li>Did either of your parents break a hip?</li>
+            <li>Do you currently smoke?</li>
+            <li>Do you take oral steroids long term, or have you in the past?</li>
+            <li>Do you have rheumatoid arthritis?</li>
+            <li>Do you have a condition strongly associated with bone loss, such as type 1 diabetes, early menopause, or untreated overactive parathyroid?</li>
+            <li>Do you drink three or more alcoholic drinks a day?</li>
+        </ul>
+
+        <p>Then there's one optional box: your bone density. FRAX works without it, using your body mass index as a stand-in. It works better with it.</p>
+
+        <p>Here's the detail that trips people up most often, and it's worth slowing down for. FRAX wants your <strong>femoral neck</strong> number, which is the hip. It does not want your spine number. Your DEXA report lists several T-scores, and the spine is usually the first one your eye lands on. If you type your spine T-score into the femoral neck box, you'll get a number, and it will look official, and it will not mean what you think it means. Check the label on your report before you enter anything.</p>
+
+        <h2>Yes, You Can Run FRAX Yourself</h2>
+
+        <p>This is the part I most want readers to know. Unlike TBS, which requires software your imaging center either has or doesn't, standard FRAX is free and public. You can run it at your kitchen table on the <a href="https://www.fraxplus.org/calculation-tool">official FRAX calculation tool</a>. Choose your country, fill in the fields honestly, add your femoral neck T-score if you have it, and press calculate.</p>
+
+        <p>A few honest cautions before you do:</p>
+
+        <ul>
+            <li><strong>FRAX estimates risk in people who are not being treated.</strong> If you're already taking a bisphosphonate, denosumab, or an anabolic medication, the number you generate is not an accurate picture of your current risk, because your treatment isn't in the model. It's still useful as a snapshot of where you started, but don't read it as where you are now.</li>
+            <li><strong>Round numbers hide real differences.</strong> A 19% and a 21% result are not meaningfully different biologically, even though only one crosses the US threshold. The threshold is a decision aid, not a wall.</li>
+            <li><strong>Bring it, don't argue with it.</strong> The best use of a self-run FRAX is as a conversation starter. "I ran this and got 24%, can we talk about what that means for me" goes much further than presenting a printout as a verdict.</li>
+        </ul>
+
+        <h2>What FRAX Doesn't Know About You</h2>
+
+        <p>FRAX was designed to be usable anywhere in the world with information any doctor could gather in a few minutes. That's its strength, and it's also the source of every one of its blind spots. The standard model cannot see:</p>
+
+        <ul>
+            <li><strong>Your spine bone density.</strong> FRAX accepts one bone density site, the femoral neck. If your spine is considerably worse than your hip, and for a lot of people it is, FRAX simply doesn't know (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2947011/">Utility and limitations of FRAX, Current Osteoporosis Reports</a>).</li>
+            <li><strong>How much steroid you take.</strong> The steroid question is yes or no. Someone on 2.5 mg of prednisone and someone on 20 mg answer it the same way and get the same adjustment.</li>
+            <li><strong>Whether you fall.</strong> Falling is one of the strongest predictors of fracture there is, and standard FRAX doesn't ask about it at all.</li>
+            <li><strong>When your fracture happened.</strong> A wrist you broke in 2010 and a wrist you broke last spring count identically. In real life, the risk right after a fracture is dramatically higher, and then it settles.</li>
+            <li><strong>Your bone quality.</strong> Trabecular Bone Score isn't part of the standard calculation. I wrote about what TBS measures and why it matters in <a href="dexa-tbs-vfa.html">Beyond the T-Score</a>.</li>
+            <li><strong>Type 2 diabetes.</strong> Type 1 diabetes counts under the secondary osteoporosis question. Type 2 doesn't, even though it raises fracture risk, often in people whose bone density looks reassuring.</li>
+        </ul>
+
+        <p>Every one of those gaps pushes in the same direction. When FRAX is wrong about someone, it's usually wrong by underestimating.</p>
+
+        <h2>Where FRAX-plus Comes In</h2>
+
+        <p>FRAX-plus, written FRAXplus, is a newer layer built on top of the same calculation. It lets a doctor take the standard FRAX result and adjust it for one specific factor the basic tool couldn't account for. The available adjustments are (<a href="https://www.fraxplus.org/frax-plus">FRAXplus, University of Sheffield</a>):</p>
+
+        <ul>
+            <li>Recency of a prior osteoporotic fracture</li>
+            <li>Higher than average exposure to oral steroids</li>
+            <li>Trabecular Bone Score</li>
+            <li>Number of falls in the previous year</li>
+            <li>Duration of type 2 diabetes</li>
+            <li>Lumbar spine bone density alongside the hip</li>
+            <li>Hip axis length</li>
+            <li>Primary hyperparathyroidism</li>
+            <li>Number of prior fractures</li>
+        </ul>
+
+        <p>Read that list against the blind spots above and you can see exactly what it was built to fix.</p>
+
+        <p>Two things I want you to know about it, because they explain a lot about why your doctor may or may not use it.</p>
+
+        <p>First, the developers are careful to say that there's no evidence base for stacking several adjustments at once, and they recommend adjusting for the single most dominant factor rather than layering everything you qualify for (<a href="https://www.fraxplus.org/frax-plus">FRAXplus</a>). So if you have diabetes, and a recent fracture, and a degraded TBS, the answer isn't to apply all three. It's to pick the one that matters most in your case, which takes clinical judgment.</p>
+
+        <p>Second, FRAXplus is a subscription product. Standard FRAX calculations stay free, but the plus adjustments are limited on a free account and require a paid plan beyond that. That's not a scandal, it's how the tool is funded, but it's a practical reason a busy primary care office may not have it open. If you ask about it and get a blank look, you're not being unreasonable. You may just be a step ahead of the workflow.</p>
+
+        <h2>When It's Genuinely Worth Asking</h2>
+
+        <p>I don't think every patient needs a FRAXplus calculation. Most people with a clear-cut result don't need refining. Ask about it when your situation is one where standard FRAX is likely to be reading you low:</p>
+
+        <ul>
+            <li>You fractured while your DEXA only showed osteopenia, and especially if you've fractured more than once.</li>
+            <li>Your fracture was recent, within roughly the last two years.</li>
+            <li>You're on steroids at a meaningful dose, or have been for a long stretch.</li>
+            <li>You've fallen in the past year, even without breaking anything.</li>
+            <li>You have type 2 diabetes, particularly if you've had it a long time.</li>
+            <li>Your spine T-score is noticeably worse than your hip T-score.</li>
+            <li>Your report includes a TBS in the partially degraded or degraded range.</li>
+        </ul>
+
+        <h2>Questions to Ask at Your Next Appointment</h2>
+
+        <ul>
+            <li>Was a FRAX score calculated for me, and what were the two numbers?</li>
+            <li>Was it run with my femoral neck bone density, or without bone density?</li>
+            <li>Where do my numbers sit relative to the treatment thresholds we use here?</li>
+            <li>Given my fracture history, falls, steroid use, or diabetes, do you think standard FRAX is underestimating my risk?</li>
+            <li>Could we run a FRAXplus adjustment for the factor that fits me best, and would it change what you'd recommend?</li>
+            <li>If I'm already on treatment, how should I be thinking about my FRAX number now?</li>
+        </ul>
+
+        <h2>What the Number Is For</h2>
+
+        <p>I want to end where I started, because it's easy to get pulled into the arithmetic and lose the point. A FRAX score is not a grade, and it isn't a prophecy. It's an attempt to translate a set of facts about you into a rough sense of how much urgency your situation deserves.</p>
+
+        <p>What it does beautifully is give you and your doctor a shared starting point that isn't just a T-score. What it does poorly is capture the specific things that make your bones your bones, which is precisely the gap FRAXplus was built to close. If you've had a fracture that surprised everyone, or you live with a condition that the standard questions never ask about, the standard number probably isn't your number. That's worth saying out loud in the exam room.</p>
+
+
+        
+        <!-- Ask Lisa: reader question form -->
+        <aside class="ask-lisa" aria-labelledby="ask-lisa-heading-frax-score-explained">
+            <h2 class="ask-lisa-heading" id="ask-lisa-heading-frax-score-explained">What would you like me to write about next?</h2>
+            <p class="ask-lisa-intro">
+                I'm writing this blog for people navigating osteoporosis, and I want to make sure I'm covering what actually matters to you.
+                Is there a question you wish someone would answer clearly? Send it my way &mdash; I read every one.
+            </p>
+            <form class="ask-lisa-form" action="https://formspree.io/f/xdaqlwzw" method="POST" data-post-slug="frax-score-explained">
+                <input type="hidden" name="_subject" value="Reader question from mybone.health blog">
+                <input type="hidden" name="post" value="frax-score-explained">
+                <div class="ask-lisa-field">
+                    <label class="ask-lisa-label" for="ask-lisa-question-frax-score-explained">Your question</label>
+                    <textarea
+                        class="ask-lisa-textarea"
+                        id="ask-lisa-question-frax-score-explained"
+                        name="question"
+                        placeholder="What's on your mind about bone health, osteoporosis, or anything I've written?"
+                        required
+                        rows="4"></textarea>
+                </div>
+                <div class="ask-lisa-field">
+                    <label class="ask-lisa-label" for="ask-lisa-email-frax-score-explained">
+                        Your email <span class="ask-lisa-optional">(optional &mdash; only if you'd like a reply)</span>
+                    </label>
+                    <input
+                        class="ask-lisa-input"
+                        id="ask-lisa-email-frax-score-explained"
+                        type="email"
+                        name="email"
+                        placeholder="you@example.com">
+                </div>
+                <button type="submit" class="ask-lisa-button">Send my question</button>
+                <p class="ask-lisa-note">
+                    Your question goes straight to Lisa's inbox. Email is only used to reply &mdash; no newsletter signup, no sharing.
+                </p>
+                <div class="ask-lisa-error" role="alert">Something went wrong. Please try again in a moment, or email lisa@mybone.health directly.</div>
+            </form>
+            <div class="ask-lisa-thankyou" role="status">
+                <strong>Thank you.</strong> Your question is on its way. I read every message personally and will reply if you left an email.
+            </div>
+        </aside>
+
+        <!-- Related Posts -->
+        <aside class="related-posts" aria-label="Related posts">
+            <h2 class="related-heading">Keep reading</h2>
+            <div class="related-grid">
+            <a href="dexa-tbs-vfa.html" class="related-card">
+                <div class="related-card-image">
+                    <img src="../images/blog-dexa-tbs-vfa.png" alt="A clinician reviewing a DEXA scan report on a tablet, with the lumbar spine image and a Trabecular Bone Score value visible" loading="lazy">
+                </div>
+                <div class="related-card-body">
+                    <span class="related-card-tag">Recent Developments</span>
+                    <h4 class="related-card-title">Beyond the T-Score: What TBS and VFA on Your DEXA Report Really Mean</h4>
+                </div>
+            </a>
+            <a href="first-osteoporosis-visit.html" class="related-card">
+                <div class="related-card-image">
+                    <img src="../images/blog-first-osteoporosis-visit.png" alt="An older Black woman with silver and black hair, wearing a teal cardigan, sitting across from her physician in a sunlit exam room as they review her DEXA report together" loading="lazy">
+                </div>
+                <div class="related-card-body">
+                    <span class="related-card-tag">Self-Advocacy</span>
+                    <h4 class="related-card-title">What Should Happen at Your First Osteoporosis Visit (and What to Ask If It Doesn&#x27;t)</h4>
+                </div>
+            </a>
+            <a href="can-osteoporosis-be-reversed.html" class="related-card">
+                <div class="related-card-image">
+                    <img src="../images/blog-can-osteoporosis-be-reversed.png" alt="A woman in her late sixties with silver hair sits at a bright kitchen table writing in a notebook, morning light coming through a window" loading="lazy">
+                </div>
+                <div class="related-card-body">
+                    <span class="related-card-tag">Patient Education</span>
+                    <h4 class="related-card-title">Can Osteoporosis Be Reversed?</h4>
+                </div>
+            </a>
+            </div>
+        </aside>]]></content>
+  </entry>
   <entry>
     <title>Sunshine and Vitamin D: What Actually Works</title>
     <link href="https://mybone.health/blog/vitamin-d-and-sunshine.html" />
