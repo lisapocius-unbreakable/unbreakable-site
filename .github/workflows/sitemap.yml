@@ -1,8 +1,11 @@
-name: Auto-update sitemap
+name: Auto-update sitemap and feeds
 
-# Regenerates sitemap.xml from the blog posts on every push to main, and
-# commits the result back if anything changed. Skips itself by checking the
-# commit message so it doesn't loop.
+# Regenerates sitemap.xml, feed.xml, and atom.xml from the blog posts on every
+# push to main, and commits the result back if anything changed. Skips itself by
+# checking the commit message so it doesn't loop.
+#
+# The generators are deterministic: rebuilding without publishing a new post
+# produces byte-identical files, so this does not create no-op commits.
 #
 # Also runnable manually from the Actions tab via "Run workflow".
 
@@ -12,6 +15,7 @@ on:
     paths:
       - "blog/**.html"
       - "scripts/generate_sitemap.py"
+      - "scripts/build-feeds.py"
       - ".github/workflows/sitemap.yml"
   workflow_dispatch:
 
@@ -21,13 +25,13 @@ permissions:
 jobs:
   update-sitemap:
     runs-on: ubuntu-latest
-    # Don't run on the bot's own sitemap-update commits (prevents infinite loop)
+    # Don't run on the bot's own auto-update commits (prevents infinite loop)
     if: "!contains(github.event.head_commit.message, '[skip sitemap]')"
     steps:
       - name: Check out repo
         uses: actions/checkout@v4
         with:
-          # Need write token to push the regenerated sitemap back
+          # Need write token to push the regenerated files back
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
@@ -38,14 +42,50 @@ jobs:
       - name: Regenerate sitemap.xml
         run: python3 scripts/generate_sitemap.py
 
-      - name: Commit and push if sitemap changed
+      - name: Rebuild feed.xml and atom.xml
+        run: python3 scripts/build-feeds.py
+
+      - name: Validate the generated XML
         run: |
-          if [[ -z "$(git status --porcelain sitemap.xml)" ]]; then
-            echo "No sitemap changes; nothing to commit."
+          python3 - <<'PY'
+          import sys, xml.etree.ElementTree as ET
+
+          expected_posts = None
+          for name in ("sitemap.xml", "feed.xml", "atom.xml"):
+              try:
+                  root = ET.parse(name).getroot()
+              except ET.ParseError as exc:
+                  sys.exit(f"::error::{name} is not valid XML: {exc}")
+
+              if name == "sitemap.xml":
+                  count = len(root.findall(".//{http://www.sitemaps.org/schemas/sitemap/0.9}url"))
+              elif name == "feed.xml":
+                  count = len(root.findall("./channel/item"))
+              else:
+                  count = len(root.findall("{http://www.w3.org/2005/Atom}entry"))
+
+              if count == 0:
+                  sys.exit(f"::error::{name} parsed but contains no entries")
+              print(f"{name}: valid XML, {count} entries")
+
+          # The two feeds must always agree on how many posts exist.
+          rss = len(ET.parse("feed.xml").getroot().findall("./channel/item"))
+          atom = len(ET.parse("atom.xml").getroot().findall("{http://www.w3.org/2005/Atom}entry"))
+          if rss != atom:
+              sys.exit(f"::error::feed.xml has {rss} items but atom.xml has {atom}")
+          print("feed.xml and atom.xml agree on post count")
+          PY
+
+      - name: Commit and push if anything changed
+        run: |
+          if [[ -z "$(git status --porcelain sitemap.xml feed.xml atom.xml)" ]]; then
+            echo "Sitemap and feeds already up to date; nothing to commit."
             exit 0
           fi
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add sitemap.xml
-          git commit -m "Auto-update sitemap.xml [skip sitemap]"
+          git add sitemap.xml feed.xml atom.xml
+          git commit -m "Auto-update sitemap and feeds [skip sitemap]"
           git push
+          echo "### Regenerated" >> "$GITHUB_STEP_SUMMARY"
+          git show --stat --oneline HEAD | tail -n +2 >> "$GITHUB_STEP_SUMMARY"

@@ -117,7 +117,10 @@ def xml_escape(text):
 
 
 def build_rss(posts):
-    now = datetime.now(timezone.utc)
+    # Derive lastBuildDate from the newest post rather than the clock, so that
+    # rebuilding without publishing anything produces a byte-identical file.
+    # This keeps the GitHub Action from committing a no-op change on every push.
+    last_build = posts[0]["date"] if posts else datetime.now(timezone.utc)
     items = []
     for p in posts:
         items.append(
@@ -142,7 +145,7 @@ def build_rss(posts):
     <atom:link href="{SITE_URL}/feed.xml" rel="self" type="application/rss+xml" />
     <description>{xml_escape(SITE_DESCRIPTION)}</description>
     <language>{SITE_LANGUAGE}</language>
-    <lastBuildDate>{format_datetime(now)}</lastBuildDate>
+    <lastBuildDate>{format_datetime(last_build)}</lastBuildDate>
     <managingEditor>{SITE_AUTHOR_EMAIL} ({SITE_AUTHOR_NAME})</managingEditor>
 {chr(10).join(items)}
   </channel>
@@ -155,8 +158,8 @@ def iso8601(dt):
 
 
 def build_atom(posts):
-    now = datetime.now(timezone.utc)
-    updated = posts[0]["date"] if posts else now
+    # Same reasoning as build_rss: keep the output stable between runs.
+    updated = posts[0]["date"] if posts else datetime.now(timezone.utc)
     entries = []
     for p in posts:
         entries.append(
