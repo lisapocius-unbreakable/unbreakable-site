@@ -115,46 +115,6 @@
         <p><em>For a closer look at the medication family denosumab gets compared with most often, you can read my post on <a href="bisphosphonates-explained.html">bisphosphonates</a>.</em></p>
 
         <!-- Ask Lisa: reader question form -->
-        <aside class="ask-lisa" aria-labelledby="ask-lisa-heading-prolia-denosumab-explained">
-            <h2 class="ask-lisa-heading" id="ask-lisa-heading-prolia-denosumab-explained">What would you like me to write about next?</h2>
-            <p class="ask-lisa-intro">
-                I'm writing this blog for people navigating osteoporosis, and I want to make sure I'm covering what actually matters to you.
-                Is there a question you wish someone would answer clearly? Send it my way &mdash; I read every one.
-            </p>
-            <form class="ask-lisa-form" action="https://formspree.io/f/xdaqlwzw" method="POST" data-post-slug="prolia-denosumab-explained">
-                <input type="hidden" name="_subject" value="Reader question from mybone.health blog">
-                <input type="hidden" name="post" value="prolia-denosumab-explained">
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-question-prolia-denosumab-explained">Your question</label>
-                    <textarea
-                        class="ask-lisa-textarea"
-                        id="ask-lisa-question-prolia-denosumab-explained"
-                        name="question"
-                        placeholder="What's on your mind about bone health, osteoporosis, or anything I've written?"
-                        required
-                        rows="4"></textarea>
-                </div>
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-email-prolia-denosumab-explained">
-                        Your email <span class="ask-lisa-optional">(optional &mdash; only if you'd like a reply)</span>
-                    </label>
-                    <input
-                        class="ask-lisa-input"
-                        id="ask-lisa-email-prolia-denosumab-explained"
-                        type="email"
-                        name="email"
-                        placeholder="you@example.com">
-                </div>
-                <button type="submit" class="ask-lisa-button">Send my question</button>
-                <p class="ask-lisa-note">
-                    Your question goes straight to Lisa's inbox. Email is only used to reply &mdash; no newsletter signup, no sharing.
-                </p>
-                <div class="ask-lisa-error" role="alert">Something went wrong. Please try again in a moment, or email lisa@mybone.health directly.</div>
-            </form>
-            <div class="ask-lisa-thankyou" role="status">
-                <strong>Thank you.</strong> Your question is on its way. I read every message personally and will reply if you left an email.
-            </div>
-        </aside>
 
         <!-- Related Posts -->
         <aside class="related-posts" aria-label="Related posts">
@@ -317,46 +277,6 @@
 
         
         <!-- Ask Lisa: reader question form -->
-        <aside class="ask-lisa" aria-labelledby="ask-lisa-heading-frax-score-explained">
-            <h2 class="ask-lisa-heading" id="ask-lisa-heading-frax-score-explained">What would you like me to write about next?</h2>
-            <p class="ask-lisa-intro">
-                I'm writing this blog for people navigating osteoporosis, and I want to make sure I'm covering what actually matters to you.
-                Is there a question you wish someone would answer clearly? Send it my way &mdash; I read every one.
-            </p>
-            <form class="ask-lisa-form" action="https://formspree.io/f/xdaqlwzw" method="POST" data-post-slug="frax-score-explained">
-                <input type="hidden" name="_subject" value="Reader question from mybone.health blog">
-                <input type="hidden" name="post" value="frax-score-explained">
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-question-frax-score-explained">Your question</label>
-                    <textarea
-                        class="ask-lisa-textarea"
-                        id="ask-lisa-question-frax-score-explained"
-                        name="question"
-                        placeholder="What's on your mind about bone health, osteoporosis, or anything I've written?"
-                        required
-                        rows="4"></textarea>
-                </div>
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-email-frax-score-explained">
-                        Your email <span class="ask-lisa-optional">(optional &mdash; only if you'd like a reply)</span>
-                    </label>
-                    <input
-                        class="ask-lisa-input"
-                        id="ask-lisa-email-frax-score-explained"
-                        type="email"
-                        name="email"
-                        placeholder="you@example.com">
-                </div>
-                <button type="submit" class="ask-lisa-button">Send my question</button>
-                <p class="ask-lisa-note">
-                    Your question goes straight to Lisa's inbox. Email is only used to reply &mdash; no newsletter signup, no sharing.
-                </p>
-                <div class="ask-lisa-error" role="alert">Something went wrong. Please try again in a moment, or email lisa@mybone.health directly.</div>
-            </form>
-            <div class="ask-lisa-thankyou" role="status">
-                <strong>Thank you.</strong> Your question is on its way. I read every message personally and will reply if you left an email.
-            </div>
-        </aside>
 
         <!-- Related Posts -->
         <aside class="related-posts" aria-label="Related posts">
@@ -470,46 +390,6 @@
         
         
         <!-- Ask Lisa: reader question form -->
-        <aside class="ask-lisa" aria-labelledby="ask-lisa-heading-vitamin-d-and-sunshine">
-            <h2 class="ask-lisa-heading" id="ask-lisa-heading-vitamin-d-and-sunshine">What would you like me to write about next?</h2>
-            <p class="ask-lisa-intro">
-                I'm writing this blog for people navigating osteoporosis, and I want to make sure I'm covering what actually matters to you.
-                Is there a question you wish someone would answer clearly? Send it my way &mdash; I read every one.
-            </p>
-            <form class="ask-lisa-form" action="https://formspree.io/f/xdaqlwzw" method="POST" data-post-slug="vitamin-d-and-sunshine">
-                <input type="hidden" name="_subject" value="Reader question from mybone.health blog">
-                <input type="hidden" name="post" value="vitamin-d-and-sunshine">
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-question-vitamin-d-and-sunshine">Your question</label>
-                    <textarea
-                        class="ask-lisa-textarea"
-                        id="ask-lisa-question-vitamin-d-and-sunshine"
-                        name="question"
-                        placeholder="What's on your mind about bone health, osteoporosis, or anything I've written?"
-                        required
-                        rows="4"></textarea>
-                </div>
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-email-vitamin-d-and-sunshine">
-                        Your email <span class="ask-lisa-optional">(optional &mdash; only if you'd like a reply)</span>
-                    </label>
-                    <input
-                        class="ask-lisa-input"
-                        id="ask-lisa-email-vitamin-d-and-sunshine"
-                        type="email"
-                        name="email"
-                        placeholder="you@example.com">
-                </div>
-                <button type="submit" class="ask-lisa-button">Send my question</button>
-                <p class="ask-lisa-note">
-                    Your question goes straight to Lisa's inbox. Email is only used to reply &mdash; no newsletter signup, no sharing.
-                </p>
-                <div class="ask-lisa-error" role="alert">Something went wrong. Please try again in a moment, or email lisa@mybone.health directly.</div>
-            </form>
-            <div class="ask-lisa-thankyou" role="status">
-                <strong>Thank you.</strong> Your question is on its way. I read every message personally and will reply if you left an email.
-            </div>
-        </aside>
 
         <!-- Related Posts -->
         <aside class="related-posts" aria-label="Related posts">
@@ -618,46 +498,6 @@
         
         
         <!-- Ask Lisa: reader question form -->
-        <aside class="ask-lisa" aria-labelledby="ask-lisa-heading-posture-and-osteoporosis">
-            <h2 class="ask-lisa-heading" id="ask-lisa-heading-posture-and-osteoporosis">What would you like me to write about next?</h2>
-            <p class="ask-lisa-intro">
-                I'm writing this blog for people navigating osteoporosis, and I want to make sure I'm covering what actually matters to you.
-                Is there a question you wish someone would answer clearly? Send it my way &mdash; I read every one.
-            </p>
-            <form class="ask-lisa-form" action="https://formspree.io/f/xdaqlwzw" method="POST" data-post-slug="posture-and-osteoporosis">
-                <input type="hidden" name="_subject" value="Reader question from mybone.health blog">
-                <input type="hidden" name="post" value="posture-and-osteoporosis">
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-question-posture-and-osteoporosis">Your question</label>
-                    <textarea
-                        class="ask-lisa-textarea"
-                        id="ask-lisa-question-posture-and-osteoporosis"
-                        name="question"
-                        placeholder="What's on your mind about bone health, osteoporosis, or anything I've written?"
-                        required
-                        rows="4"></textarea>
-                </div>
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-email-posture-and-osteoporosis">
-                        Your email <span class="ask-lisa-optional">(optional &mdash; only if you'd like a reply)</span>
-                    </label>
-                    <input
-                        class="ask-lisa-input"
-                        id="ask-lisa-email-posture-and-osteoporosis"
-                        type="email"
-                        name="email"
-                        placeholder="you@example.com">
-                </div>
-                <button type="submit" class="ask-lisa-button">Send my question</button>
-                <p class="ask-lisa-note">
-                    Your question goes straight to Lisa's inbox. Email is only used to reply &mdash; no newsletter signup, no sharing.
-                </p>
-                <div class="ask-lisa-error" role="alert">Something went wrong. Please try again in a moment, or email lisa@mybone.health directly.</div>
-            </form>
-            <div class="ask-lisa-thankyou" role="status">
-                <strong>Thank you.</strong> Your question is on its way. I read every message personally and will reply if you left an email.
-            </div>
-        </aside>
 
         <!-- Related Posts -->
         <aside class="related-posts" aria-label="Related posts">
@@ -763,46 +603,6 @@
         
         
         <!-- Ask Lisa: reader question form -->
-        <aside class="ask-lisa" aria-labelledby="ask-lisa-heading-can-osteoporosis-be-reversed">
-            <h2 class="ask-lisa-heading" id="ask-lisa-heading-can-osteoporosis-be-reversed">What would you like me to write about next?</h2>
-            <p class="ask-lisa-intro">
-                I'm writing this blog for people navigating osteoporosis, and I want to make sure I'm covering what actually matters to you.
-                Is there a question you wish someone would answer clearly? Send it my way &mdash; I read every one.
-            </p>
-            <form class="ask-lisa-form" action="https://formspree.io/f/xdaqlwzw" method="POST" data-post-slug="can-osteoporosis-be-reversed">
-                <input type="hidden" name="_subject" value="Reader question from mybone.health blog">
-                <input type="hidden" name="post" value="can-osteoporosis-be-reversed">
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-question-can-osteoporosis-be-reversed">Your question</label>
-                    <textarea
-                        class="ask-lisa-textarea"
-                        id="ask-lisa-question-can-osteoporosis-be-reversed"
-                        name="question"
-                        placeholder="What's on your mind about bone health, osteoporosis, or anything I've written?"
-                        required
-                        rows="4"></textarea>
-                </div>
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-email-can-osteoporosis-be-reversed">
-                        Your email <span class="ask-lisa-optional">(optional &mdash; only if you'd like a reply)</span>
-                    </label>
-                    <input
-                        class="ask-lisa-input"
-                        id="ask-lisa-email-can-osteoporosis-be-reversed"
-                        type="email"
-                        name="email"
-                        placeholder="you@example.com">
-                </div>
-                <button type="submit" class="ask-lisa-button">Send my question</button>
-                <p class="ask-lisa-note">
-                    Your question goes straight to Lisa's inbox. Email is only used to reply &mdash; no newsletter signup, no sharing.
-                </p>
-                <div class="ask-lisa-error" role="alert">Something went wrong. Please try again in a moment, or email lisa@mybone.health directly.</div>
-            </form>
-            <div class="ask-lisa-thankyou" role="status">
-                <strong>Thank you.</strong> Your question is on its way. I read every message personally and will reply if you left an email.
-            </div>
-        </aside>
 
         <!-- Related Posts -->
         <aside class="related-posts" aria-label="Related posts">
@@ -914,46 +714,6 @@
         
         
         <!-- Ask Lisa: reader question form -->
-        <aside class="ask-lisa" aria-labelledby="ask-lisa-heading-calcium-vit-d-study-2026">
-            <h2 class="ask-lisa-heading" id="ask-lisa-heading-calcium-vit-d-study-2026">What would you like me to write about next?</h2>
-            <p class="ask-lisa-intro">
-                I'm writing this blog for people navigating osteoporosis, and I want to make sure I'm covering what actually matters to you.
-                Is there a question you wish someone would answer clearly? Send it my way &mdash; I read every one.
-            </p>
-            <form class="ask-lisa-form" action="https://formspree.io/f/xdaqlwzw" method="POST" data-post-slug="calcium-vit-d-study-2026">
-                <input type="hidden" name="_subject" value="Reader question from mybone.health blog">
-                <input type="hidden" name="post" value="calcium-vit-d-study-2026">
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-question-calcium-vit-d-study-2026">Your question</label>
-                    <textarea
-                        class="ask-lisa-textarea"
-                        id="ask-lisa-question-calcium-vit-d-study-2026"
-                        name="question"
-                        placeholder="What's on your mind about bone health, osteoporosis, or anything I've written?"
-                        required
-                        rows="4"></textarea>
-                </div>
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-email-calcium-vit-d-study-2026">
-                        Your email <span class="ask-lisa-optional">(optional &mdash; only if you'd like a reply)</span>
-                    </label>
-                    <input
-                        class="ask-lisa-input"
-                        id="ask-lisa-email-calcium-vit-d-study-2026"
-                        type="email"
-                        name="email"
-                        placeholder="you@example.com">
-                </div>
-                <button type="submit" class="ask-lisa-button">Send my question</button>
-                <p class="ask-lisa-note">
-                    Your question goes straight to Lisa's inbox. Email is only used to reply &mdash; no newsletter signup, no sharing.
-                </p>
-                <div class="ask-lisa-error" role="alert">Something went wrong. Please try again in a moment, or email lisa@mybone.health directly.</div>
-            </form>
-            <div class="ask-lisa-thankyou" role="status">
-                <strong>Thank you.</strong> Your question is on its way. I read every message personally and will reply if you left an email.
-            </div>
-        </aside>
 
         <!-- Related Posts -->
         <aside class="related-posts" aria-label="Related posts">
@@ -1124,46 +884,6 @@
         
         
         <!-- Ask Lisa: reader question form -->
-        <aside class="ask-lisa" aria-labelledby="ask-lisa-heading-first-osteoporosis-visit">
-            <h2 class="ask-lisa-heading" id="ask-lisa-heading-first-osteoporosis-visit">What would you like me to write about next?</h2>
-            <p class="ask-lisa-intro">
-                I'm writing this blog for people navigating osteoporosis, and I want to make sure I'm covering what actually matters to you.
-                Is there a question you wish someone would answer clearly? Send it my way &mdash; I read every one.
-            </p>
-            <form class="ask-lisa-form" action="https://formspree.io/f/xdaqlwzw" method="POST" data-post-slug="first-osteoporosis-visit">
-                <input type="hidden" name="_subject" value="Reader question from mybone.health blog">
-                <input type="hidden" name="post" value="first-osteoporosis-visit">
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-question-first-osteoporosis-visit">Your question</label>
-                    <textarea
-                        class="ask-lisa-textarea"
-                        id="ask-lisa-question-first-osteoporosis-visit"
-                        name="question"
-                        placeholder="What's on your mind about bone health, osteoporosis, or anything I've written?"
-                        required
-                        rows="4"></textarea>
-                </div>
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-email-first-osteoporosis-visit">
-                        Your email <span class="ask-lisa-optional">(optional &mdash; only if you'd like a reply)</span>
-                    </label>
-                    <input
-                        class="ask-lisa-input"
-                        id="ask-lisa-email-first-osteoporosis-visit"
-                        type="email"
-                        name="email"
-                        placeholder="you@example.com">
-                </div>
-                <button type="submit" class="ask-lisa-button">Send my question</button>
-                <p class="ask-lisa-note">
-                    Your question goes straight to Lisa's inbox. Email is only used to reply &mdash; no newsletter signup, no sharing.
-                </p>
-                <div class="ask-lisa-error" role="alert">Something went wrong. Please try again in a moment, or email lisa@mybone.health directly.</div>
-            </form>
-            <div class="ask-lisa-thankyou" role="status">
-                <strong>Thank you.</strong> Your question is on its way. I read every message personally and will reply if you left an email.
-            </div>
-        </aside>
 
         <!-- Related Posts -->
         <aside class="related-posts" aria-label="Related posts">
@@ -1312,46 +1032,6 @@
         
         
         <!-- Ask Lisa: reader question form -->
-        <aside class="ask-lisa" aria-labelledby="ask-lisa-heading-vitamin-d-bone-health">
-            <h2 class="ask-lisa-heading" id="ask-lisa-heading-vitamin-d-bone-health">What would you like me to write about next?</h2>
-            <p class="ask-lisa-intro">
-                I'm writing this blog for people navigating osteoporosis, and I want to make sure I'm covering what actually matters to you.
-                Is there a question you wish someone would answer clearly? Send it my way &mdash; I read every one.
-            </p>
-            <form class="ask-lisa-form" action="https://formspree.io/f/xdaqlwzw" method="POST" data-post-slug="vitamin-d-bone-health">
-                <input type="hidden" name="_subject" value="Reader question from mybone.health blog">
-                <input type="hidden" name="post" value="vitamin-d-bone-health">
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-question-vitamin-d-bone-health">Your question</label>
-                    <textarea
-                        class="ask-lisa-textarea"
-                        id="ask-lisa-question-vitamin-d-bone-health"
-                        name="question"
-                        placeholder="What's on your mind about bone health, osteoporosis, or anything I've written?"
-                        required
-                        rows="4"></textarea>
-                </div>
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-email-vitamin-d-bone-health">
-                        Your email <span class="ask-lisa-optional">(optional &mdash; only if you'd like a reply)</span>
-                    </label>
-                    <input
-                        class="ask-lisa-input"
-                        id="ask-lisa-email-vitamin-d-bone-health"
-                        type="email"
-                        name="email"
-                        placeholder="you@example.com">
-                </div>
-                <button type="submit" class="ask-lisa-button">Send my question</button>
-                <p class="ask-lisa-note">
-                    Your question goes straight to Lisa's inbox. Email is only used to reply &mdash; no newsletter signup, no sharing.
-                </p>
-                <div class="ask-lisa-error" role="alert">Something went wrong. Please try again in a moment, or email lisa@mybone.health directly.</div>
-            </form>
-            <div class="ask-lisa-thankyou" role="status">
-                <strong>Thank you.</strong> Your question is on its way. I read every message personally and will reply if you left an email.
-            </div>
-        </aside>
 
         <!-- Related Posts -->
         <aside class="related-posts" aria-label="Related posts">
@@ -1502,46 +1182,6 @@
         
         
         <!-- Ask Lisa: reader question form -->
-        <aside class="ask-lisa" aria-labelledby="ask-lisa-heading-asking-ai-about-osteoporosis">
-            <h2 class="ask-lisa-heading" id="ask-lisa-heading-asking-ai-about-osteoporosis">What would you like me to write about next?</h2>
-            <p class="ask-lisa-intro">
-                I'm writing this blog for people navigating osteoporosis, and I want to make sure I'm covering what actually matters to you.
-                Is there a question you wish someone would answer clearly? Send it my way &mdash; I read every one.
-            </p>
-            <form class="ask-lisa-form" action="https://formspree.io/f/xdaqlwzw" method="POST" data-post-slug="asking-ai-about-osteoporosis">
-                <input type="hidden" name="_subject" value="Reader question from mybone.health blog">
-                <input type="hidden" name="post" value="asking-ai-about-osteoporosis">
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-question-asking-ai-about-osteoporosis">Your question</label>
-                    <textarea
-                        class="ask-lisa-textarea"
-                        id="ask-lisa-question-asking-ai-about-osteoporosis"
-                        name="question"
-                        placeholder="What's on your mind about bone health, osteoporosis, or anything I've written?"
-                        required
-                        rows="4"></textarea>
-                </div>
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-email-asking-ai-about-osteoporosis">
-                        Your email <span class="ask-lisa-optional">(optional &mdash; only if you'd like a reply)</span>
-                    </label>
-                    <input
-                        class="ask-lisa-input"
-                        id="ask-lisa-email-asking-ai-about-osteoporosis"
-                        type="email"
-                        name="email"
-                        placeholder="you@example.com">
-                </div>
-                <button type="submit" class="ask-lisa-button">Send my question</button>
-                <p class="ask-lisa-note">
-                    Your question goes straight to Lisa's inbox. Email is only used to reply &mdash; no newsletter signup, no sharing.
-                </p>
-                <div class="ask-lisa-error" role="alert">Something went wrong. Please try again in a moment, or email lisa@mybone.health directly.</div>
-            </form>
-            <div class="ask-lisa-thankyou" role="status">
-                <strong>Thank you.</strong> Your question is on its way. I read every message personally and will reply if you left an email.
-            </div>
-        </aside>
 
         <!-- Related Posts -->
         <aside class="related-posts" aria-label="Related posts">
@@ -1675,46 +1315,6 @@
         
         
         <!-- Ask Lisa: reader question form -->
-        <aside class="ask-lisa" aria-labelledby="ask-lisa-heading-fall-proofing-whole-house">
-            <h2 class="ask-lisa-heading" id="ask-lisa-heading-fall-proofing-whole-house">What would you like me to write about next?</h2>
-            <p class="ask-lisa-intro">
-                I'm writing this blog for people navigating osteoporosis, and I want to make sure I'm covering what actually matters to you.
-                Is there a question you wish someone would answer clearly? Send it my way &mdash; I read every one.
-            </p>
-            <form class="ask-lisa-form" action="https://formspree.io/f/xdaqlwzw" method="POST" data-post-slug="fall-proofing-whole-house">
-                <input type="hidden" name="_subject" value="Reader question from mybone.health blog">
-                <input type="hidden" name="post" value="fall-proofing-whole-house">
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-question-fall-proofing-whole-house">Your question</label>
-                    <textarea
-                        class="ask-lisa-textarea"
-                        id="ask-lisa-question-fall-proofing-whole-house"
-                        name="question"
-                        placeholder="What's on your mind about bone health, osteoporosis, or anything I've written?"
-                        required
-                        rows="4"></textarea>
-                </div>
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-email-fall-proofing-whole-house">
-                        Your email <span class="ask-lisa-optional">(optional &mdash; only if you'd like a reply)</span>
-                    </label>
-                    <input
-                        class="ask-lisa-input"
-                        id="ask-lisa-email-fall-proofing-whole-house"
-                        type="email"
-                        name="email"
-                        placeholder="you@example.com">
-                </div>
-                <button type="submit" class="ask-lisa-button">Send my question</button>
-                <p class="ask-lisa-note">
-                    Your question goes straight to Lisa's inbox. Email is only used to reply &mdash; no newsletter signup, no sharing.
-                </p>
-                <div class="ask-lisa-error" role="alert">Something went wrong. Please try again in a moment, or email lisa@mybone.health directly.</div>
-            </form>
-            <div class="ask-lisa-thankyou" role="status">
-                <strong>Thank you.</strong> Your question is on its way. I read every message personally and will reply if you left an email.
-            </div>
-        </aside>
 
         <!-- Related Posts -->
         <aside class="related-posts" aria-label="Related posts">
@@ -1863,46 +1463,6 @@
         
         
         <!-- Ask Lisa: reader question form -->
-        <aside class="ask-lisa" aria-labelledby="ask-lisa-heading-dexa-tbs-vfa">
-            <h2 class="ask-lisa-heading" id="ask-lisa-heading-dexa-tbs-vfa">What would you like me to write about next?</h2>
-            <p class="ask-lisa-intro">
-                I'm writing this blog for people navigating osteoporosis, and I want to make sure I'm covering what actually matters to you.
-                Is there a question you wish someone would answer clearly? Send it my way &mdash; I read every one.
-            </p>
-            <form class="ask-lisa-form" action="https://formspree.io/f/xdaqlwzw" method="POST" data-post-slug="dexa-tbs-vfa">
-                <input type="hidden" name="_subject" value="Reader question from mybone.health blog">
-                <input type="hidden" name="post" value="dexa-tbs-vfa">
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-question-dexa-tbs-vfa">Your question</label>
-                    <textarea
-                        class="ask-lisa-textarea"
-                        id="ask-lisa-question-dexa-tbs-vfa"
-                        name="question"
-                        placeholder="What's on your mind about bone health, osteoporosis, or anything I've written?"
-                        required
-                        rows="4"></textarea>
-                </div>
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-email-dexa-tbs-vfa">
-                        Your email <span class="ask-lisa-optional">(optional &mdash; only if you'd like a reply)</span>
-                    </label>
-                    <input
-                        class="ask-lisa-input"
-                        id="ask-lisa-email-dexa-tbs-vfa"
-                        type="email"
-                        name="email"
-                        placeholder="you@example.com">
-                </div>
-                <button type="submit" class="ask-lisa-button">Send my question</button>
-                <p class="ask-lisa-note">
-                    Your question goes straight to Lisa's inbox. Email is only used to reply &mdash; no newsletter signup, no sharing.
-                </p>
-                <div class="ask-lisa-error" role="alert">Something went wrong. Please try again in a moment, or email lisa@mybone.health directly.</div>
-            </form>
-            <div class="ask-lisa-thankyou" role="status">
-                <strong>Thank you.</strong> Your question is on its way. I read every message personally and will reply if you left an email.
-            </div>
-        </aside>
 
         <!-- Related Posts -->
         <aside class="related-posts" aria-label="Related posts">
@@ -2032,46 +1592,6 @@
         
         
         <!-- Ask Lisa: reader question form -->
-        <aside class="ask-lisa" aria-labelledby="ask-lisa-heading-evenity-explained">
-            <h2 class="ask-lisa-heading" id="ask-lisa-heading-evenity-explained">What would you like me to write about next?</h2>
-            <p class="ask-lisa-intro">
-                I'm writing this blog for people navigating osteoporosis, and I want to make sure I'm covering what actually matters to you.
-                Is there a question you wish someone would answer clearly? Send it my way &mdash; I read every one.
-            </p>
-            <form class="ask-lisa-form" action="https://formspree.io/f/xdaqlwzw" method="POST" data-post-slug="evenity-explained">
-                <input type="hidden" name="_subject" value="Reader question from mybone.health blog">
-                <input type="hidden" name="post" value="evenity-explained">
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-question-evenity-explained">Your question</label>
-                    <textarea
-                        class="ask-lisa-textarea"
-                        id="ask-lisa-question-evenity-explained"
-                        name="question"
-                        placeholder="What's on your mind about bone health, osteoporosis, or anything I've written?"
-                        required
-                        rows="4"></textarea>
-                </div>
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-email-evenity-explained">
-                        Your email <span class="ask-lisa-optional">(optional &mdash; only if you'd like a reply)</span>
-                    </label>
-                    <input
-                        class="ask-lisa-input"
-                        id="ask-lisa-email-evenity-explained"
-                        type="email"
-                        name="email"
-                        placeholder="you@example.com">
-                </div>
-                <button type="submit" class="ask-lisa-button">Send my question</button>
-                <p class="ask-lisa-note">
-                    Your question goes straight to Lisa's inbox. Email is only used to reply &mdash; no newsletter signup, no sharing.
-                </p>
-                <div class="ask-lisa-error" role="alert">Something went wrong. Please try again in a moment, or email lisa@mybone.health directly.</div>
-            </form>
-            <div class="ask-lisa-thankyou" role="status">
-                <strong>Thank you.</strong> Your question is on its way. I read every message personally and will reply if you left an email.
-            </div>
-        </aside>
 
         <!-- Related Posts -->
         <aside class="related-posts" aria-label="Related posts">
@@ -2212,46 +1732,6 @@
         
         
         <!-- Ask Lisa: reader question form -->
-        <aside class="ask-lisa" aria-labelledby="ask-lisa-heading-protein-and-calcium">
-            <h2 class="ask-lisa-heading" id="ask-lisa-heading-protein-and-calcium">What would you like me to write about next?</h2>
-            <p class="ask-lisa-intro">
-                I'm writing this blog for people navigating osteoporosis, and I want to make sure I'm covering what actually matters to you.
-                Is there a question you wish someone would answer clearly? Send it my way &mdash; I read every one.
-            </p>
-            <form class="ask-lisa-form" action="https://formspree.io/f/xdaqlwzw" method="POST" data-post-slug="protein-and-calcium">
-                <input type="hidden" name="_subject" value="Reader question from mybone.health blog">
-                <input type="hidden" name="post" value="protein-and-calcium">
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-question-protein-and-calcium">Your question</label>
-                    <textarea
-                        class="ask-lisa-textarea"
-                        id="ask-lisa-question-protein-and-calcium"
-                        name="question"
-                        placeholder="What's on your mind about bone health, osteoporosis, or anything I've written?"
-                        required
-                        rows="4"></textarea>
-                </div>
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-email-protein-and-calcium">
-                        Your email <span class="ask-lisa-optional">(optional &mdash; only if you'd like a reply)</span>
-                    </label>
-                    <input
-                        class="ask-lisa-input"
-                        id="ask-lisa-email-protein-and-calcium"
-                        type="email"
-                        name="email"
-                        placeholder="you@example.com">
-                </div>
-                <button type="submit" class="ask-lisa-button">Send my question</button>
-                <p class="ask-lisa-note">
-                    Your question goes straight to Lisa's inbox. Email is only used to reply &mdash; no newsletter signup, no sharing.
-                </p>
-                <div class="ask-lisa-error" role="alert">Something went wrong. Please try again in a moment, or email lisa@mybone.health directly.</div>
-            </form>
-            <div class="ask-lisa-thankyou" role="status">
-                <strong>Thank you.</strong> Your question is on its way. I read every message personally and will reply if you left an email.
-            </div>
-        </aside>
 
         <!-- Related Posts -->
         <aside class="related-posts" aria-label="Related posts">
@@ -2370,46 +1850,6 @@
         
         
         <!-- Ask Lisa: reader question form -->
-        <aside class="ask-lisa" aria-labelledby="ask-lisa-heading-anabolic-medications">
-            <h2 class="ask-lisa-heading" id="ask-lisa-heading-anabolic-medications">What would you like me to write about next?</h2>
-            <p class="ask-lisa-intro">
-                I'm writing this blog for people navigating osteoporosis, and I want to make sure I'm covering what actually matters to you.
-                Is there a question you wish someone would answer clearly? Send it my way &mdash; I read every one.
-            </p>
-            <form class="ask-lisa-form" action="https://formspree.io/f/xdaqlwzw" method="POST" data-post-slug="anabolic-medications">
-                <input type="hidden" name="_subject" value="Reader question from mybone.health blog">
-                <input type="hidden" name="post" value="anabolic-medications">
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-question-anabolic-medications">Your question</label>
-                    <textarea
-                        class="ask-lisa-textarea"
-                        id="ask-lisa-question-anabolic-medications"
-                        name="question"
-                        placeholder="What's on your mind about bone health, osteoporosis, or anything I've written?"
-                        required
-                        rows="4"></textarea>
-                </div>
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-email-anabolic-medications">
-                        Your email <span class="ask-lisa-optional">(optional &mdash; only if you'd like a reply)</span>
-                    </label>
-                    <input
-                        class="ask-lisa-input"
-                        id="ask-lisa-email-anabolic-medications"
-                        type="email"
-                        name="email"
-                        placeholder="you@example.com">
-                </div>
-                <button type="submit" class="ask-lisa-button">Send my question</button>
-                <p class="ask-lisa-note">
-                    Your question goes straight to Lisa's inbox. Email is only used to reply &mdash; no newsletter signup, no sharing.
-                </p>
-                <div class="ask-lisa-error" role="alert">Something went wrong. Please try again in a moment, or email lisa@mybone.health directly.</div>
-            </form>
-            <div class="ask-lisa-thankyou" role="status">
-                <strong>Thank you.</strong> Your question is on its way. I read every message personally and will reply if you left an email.
-            </div>
-        </aside>
 
         <!-- Related Posts -->
         <aside class="related-posts" aria-label="Related posts">
@@ -2507,46 +1947,6 @@
         
         
         <!-- Ask Lisa: reader question form -->
-        <aside class="ask-lisa" aria-labelledby="ask-lisa-heading-balance-training">
-            <h2 class="ask-lisa-heading" id="ask-lisa-heading-balance-training">What would you like me to write about next?</h2>
-            <p class="ask-lisa-intro">
-                I'm writing this blog for people navigating osteoporosis, and I want to make sure I'm covering what actually matters to you.
-                Is there a question you wish someone would answer clearly? Send it my way &mdash; I read every one.
-            </p>
-            <form class="ask-lisa-form" action="https://formspree.io/f/xdaqlwzw" method="POST" data-post-slug="balance-training">
-                <input type="hidden" name="_subject" value="Reader question from mybone.health blog">
-                <input type="hidden" name="post" value="balance-training">
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-question-balance-training">Your question</label>
-                    <textarea
-                        class="ask-lisa-textarea"
-                        id="ask-lisa-question-balance-training"
-                        name="question"
-                        placeholder="What's on your mind about bone health, osteoporosis, or anything I've written?"
-                        required
-                        rows="4"></textarea>
-                </div>
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-email-balance-training">
-                        Your email <span class="ask-lisa-optional">(optional &mdash; only if you'd like a reply)</span>
-                    </label>
-                    <input
-                        class="ask-lisa-input"
-                        id="ask-lisa-email-balance-training"
-                        type="email"
-                        name="email"
-                        placeholder="you@example.com">
-                </div>
-                <button type="submit" class="ask-lisa-button">Send my question</button>
-                <p class="ask-lisa-note">
-                    Your question goes straight to Lisa's inbox. Email is only used to reply &mdash; no newsletter signup, no sharing.
-                </p>
-                <div class="ask-lisa-error" role="alert">Something went wrong. Please try again in a moment, or email lisa@mybone.health directly.</div>
-            </form>
-            <div class="ask-lisa-thankyou" role="status">
-                <strong>Thank you.</strong> Your question is on its way. I read every message personally and will reply if you left an email.
-            </div>
-        </aside>
 
         <!-- Related Posts -->
         <aside class="related-posts" aria-label="Related posts">
@@ -2655,46 +2055,6 @@
         
         
         <!-- Ask Lisa: reader question form -->
-        <aside class="ask-lisa" aria-labelledby="ask-lisa-heading-bisphosphonate-tips">
-            <h2 class="ask-lisa-heading" id="ask-lisa-heading-bisphosphonate-tips">What would you like me to write about next?</h2>
-            <p class="ask-lisa-intro">
-                I'm writing this blog for people navigating osteoporosis, and I want to make sure I'm covering what actually matters to you.
-                Is there a question you wish someone would answer clearly? Send it my way &mdash; I read every one.
-            </p>
-            <form class="ask-lisa-form" action="https://formspree.io/f/xdaqlwzw" method="POST" data-post-slug="bisphosphonate-tips">
-                <input type="hidden" name="_subject" value="Reader question from mybone.health blog">
-                <input type="hidden" name="post" value="bisphosphonate-tips">
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-question-bisphosphonate-tips">Your question</label>
-                    <textarea
-                        class="ask-lisa-textarea"
-                        id="ask-lisa-question-bisphosphonate-tips"
-                        name="question"
-                        placeholder="What's on your mind about bone health, osteoporosis, or anything I've written?"
-                        required
-                        rows="4"></textarea>
-                </div>
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-email-bisphosphonate-tips">
-                        Your email <span class="ask-lisa-optional">(optional &mdash; only if you'd like a reply)</span>
-                    </label>
-                    <input
-                        class="ask-lisa-input"
-                        id="ask-lisa-email-bisphosphonate-tips"
-                        type="email"
-                        name="email"
-                        placeholder="you@example.com">
-                </div>
-                <button type="submit" class="ask-lisa-button">Send my question</button>
-                <p class="ask-lisa-note">
-                    Your question goes straight to Lisa's inbox. Email is only used to reply &mdash; no newsletter signup, no sharing.
-                </p>
-                <div class="ask-lisa-error" role="alert">Something went wrong. Please try again in a moment, or email lisa@mybone.health directly.</div>
-            </form>
-            <div class="ask-lisa-thankyou" role="status">
-                <strong>Thank you.</strong> Your question is on its way. I read every message personally and will reply if you left an email.
-            </div>
-        </aside>
 
         <!-- Related Posts -->
         <aside class="related-posts" aria-label="Related posts">
@@ -2798,46 +2158,6 @@
         
         
         <!-- Ask Lisa: reader question form -->
-        <aside class="ask-lisa" aria-labelledby="ask-lisa-heading-bone-friendly-meals">
-            <h2 class="ask-lisa-heading" id="ask-lisa-heading-bone-friendly-meals">What would you like me to write about next?</h2>
-            <p class="ask-lisa-intro">
-                I'm writing this blog for people navigating osteoporosis, and I want to make sure I'm covering what actually matters to you.
-                Is there a question you wish someone would answer clearly? Send it my way &mdash; I read every one.
-            </p>
-            <form class="ask-lisa-form" action="https://formspree.io/f/xdaqlwzw" method="POST" data-post-slug="bone-friendly-meals">
-                <input type="hidden" name="_subject" value="Reader question from mybone.health blog">
-                <input type="hidden" name="post" value="bone-friendly-meals">
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-question-bone-friendly-meals">Your question</label>
-                    <textarea
-                        class="ask-lisa-textarea"
-                        id="ask-lisa-question-bone-friendly-meals"
-                        name="question"
-                        placeholder="What's on your mind about bone health, osteoporosis, or anything I've written?"
-                        required
-                        rows="4"></textarea>
-                </div>
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-email-bone-friendly-meals">
-                        Your email <span class="ask-lisa-optional">(optional &mdash; only if you'd like a reply)</span>
-                    </label>
-                    <input
-                        class="ask-lisa-input"
-                        id="ask-lisa-email-bone-friendly-meals"
-                        type="email"
-                        name="email"
-                        placeholder="you@example.com">
-                </div>
-                <button type="submit" class="ask-lisa-button">Send my question</button>
-                <p class="ask-lisa-note">
-                    Your question goes straight to Lisa's inbox. Email is only used to reply &mdash; no newsletter signup, no sharing.
-                </p>
-                <div class="ask-lisa-error" role="alert">Something went wrong. Please try again in a moment, or email lisa@mybone.health directly.</div>
-            </form>
-            <div class="ask-lisa-thankyou" role="status">
-                <strong>Thank you.</strong> Your question is on its way. I read every message personally and will reply if you left an email.
-            </div>
-        </aside>
 
         <!-- Related Posts -->
         <aside class="related-posts" aria-label="Related posts">
@@ -2958,46 +2278,6 @@
         
         
         <!-- Ask Lisa: reader question form -->
-        <aside class="ask-lisa" aria-labelledby="ask-lisa-heading-fall-risk-medications">
-            <h2 class="ask-lisa-heading" id="ask-lisa-heading-fall-risk-medications">What would you like me to write about next?</h2>
-            <p class="ask-lisa-intro">
-                I'm writing this blog for people navigating osteoporosis, and I want to make sure I'm covering what actually matters to you.
-                Is there a question you wish someone would answer clearly? Send it my way &mdash; I read every one.
-            </p>
-            <form class="ask-lisa-form" action="https://formspree.io/f/xdaqlwzw" method="POST" data-post-slug="fall-risk-medications">
-                <input type="hidden" name="_subject" value="Reader question from mybone.health blog">
-                <input type="hidden" name="post" value="fall-risk-medications">
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-question-fall-risk-medications">Your question</label>
-                    <textarea
-                        class="ask-lisa-textarea"
-                        id="ask-lisa-question-fall-risk-medications"
-                        name="question"
-                        placeholder="What's on your mind about bone health, osteoporosis, or anything I've written?"
-                        required
-                        rows="4"></textarea>
-                </div>
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-email-fall-risk-medications">
-                        Your email <span class="ask-lisa-optional">(optional &mdash; only if you'd like a reply)</span>
-                    </label>
-                    <input
-                        class="ask-lisa-input"
-                        id="ask-lisa-email-fall-risk-medications"
-                        type="email"
-                        name="email"
-                        placeholder="you@example.com">
-                </div>
-                <button type="submit" class="ask-lisa-button">Send my question</button>
-                <p class="ask-lisa-note">
-                    Your question goes straight to Lisa's inbox. Email is only used to reply &mdash; no newsletter signup, no sharing.
-                </p>
-                <div class="ask-lisa-error" role="alert">Something went wrong. Please try again in a moment, or email lisa@mybone.health directly.</div>
-            </form>
-            <div class="ask-lisa-thankyou" role="status">
-                <strong>Thank you.</strong> Your question is on its way. I read every message personally and will reply if you left an email.
-            </div>
-        </aside>
 
         <!-- Related Posts -->
         <aside class="related-posts" aria-label="Related posts">
@@ -3096,46 +2376,6 @@
         
         
         <!-- Ask Lisa: reader question form -->
-        <aside class="ask-lisa" aria-labelledby="ask-lisa-heading-identity-shift">
-            <h2 class="ask-lisa-heading" id="ask-lisa-heading-identity-shift">What would you like me to write about next?</h2>
-            <p class="ask-lisa-intro">
-                I'm writing this blog for people navigating osteoporosis, and I want to make sure I'm covering what actually matters to you.
-                Is there a question you wish someone would answer clearly? Send it my way &mdash; I read every one.
-            </p>
-            <form class="ask-lisa-form" action="https://formspree.io/f/xdaqlwzw" method="POST" data-post-slug="identity-shift">
-                <input type="hidden" name="_subject" value="Reader question from mybone.health blog">
-                <input type="hidden" name="post" value="identity-shift">
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-question-identity-shift">Your question</label>
-                    <textarea
-                        class="ask-lisa-textarea"
-                        id="ask-lisa-question-identity-shift"
-                        name="question"
-                        placeholder="What's on your mind about bone health, osteoporosis, or anything I've written?"
-                        required
-                        rows="4"></textarea>
-                </div>
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-email-identity-shift">
-                        Your email <span class="ask-lisa-optional">(optional &mdash; only if you'd like a reply)</span>
-                    </label>
-                    <input
-                        class="ask-lisa-input"
-                        id="ask-lisa-email-identity-shift"
-                        type="email"
-                        name="email"
-                        placeholder="you@example.com">
-                </div>
-                <button type="submit" class="ask-lisa-button">Send my question</button>
-                <p class="ask-lisa-note">
-                    Your question goes straight to Lisa's inbox. Email is only used to reply &mdash; no newsletter signup, no sharing.
-                </p>
-                <div class="ask-lisa-error" role="alert">Something went wrong. Please try again in a moment, or email lisa@mybone.health directly.</div>
-            </form>
-            <div class="ask-lisa-thankyou" role="status">
-                <strong>Thank you.</strong> Your question is on its way. I read every message personally and will reply if you left an email.
-            </div>
-        </aside>
 
         <!-- Related Posts -->
         <aside class="related-posts" aria-label="Related posts">
@@ -3234,46 +2474,6 @@
         
         
         <!-- Ask Lisa: reader question form -->
-        <aside class="ask-lisa" aria-labelledby="ask-lisa-heading-bisphosphonates-explained">
-            <h2 class="ask-lisa-heading" id="ask-lisa-heading-bisphosphonates-explained">What would you like me to write about next?</h2>
-            <p class="ask-lisa-intro">
-                I'm writing this blog for people navigating osteoporosis, and I want to make sure I'm covering what actually matters to you.
-                Is there a question you wish someone would answer clearly? Send it my way &mdash; I read every one.
-            </p>
-            <form class="ask-lisa-form" action="https://formspree.io/f/xdaqlwzw" method="POST" data-post-slug="bisphosphonates-explained">
-                <input type="hidden" name="_subject" value="Reader question from mybone.health blog">
-                <input type="hidden" name="post" value="bisphosphonates-explained">
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-question-bisphosphonates-explained">Your question</label>
-                    <textarea
-                        class="ask-lisa-textarea"
-                        id="ask-lisa-question-bisphosphonates-explained"
-                        name="question"
-                        placeholder="What's on your mind about bone health, osteoporosis, or anything I've written?"
-                        required
-                        rows="4"></textarea>
-                </div>
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-email-bisphosphonates-explained">
-                        Your email <span class="ask-lisa-optional">(optional &mdash; only if you'd like a reply)</span>
-                    </label>
-                    <input
-                        class="ask-lisa-input"
-                        id="ask-lisa-email-bisphosphonates-explained"
-                        type="email"
-                        name="email"
-                        placeholder="you@example.com">
-                </div>
-                <button type="submit" class="ask-lisa-button">Send my question</button>
-                <p class="ask-lisa-note">
-                    Your question goes straight to Lisa's inbox. Email is only used to reply &mdash; no newsletter signup, no sharing.
-                </p>
-                <div class="ask-lisa-error" role="alert">Something went wrong. Please try again in a moment, or email lisa@mybone.health directly.</div>
-            </form>
-            <div class="ask-lisa-thankyou" role="status">
-                <strong>Thank you.</strong> Your question is on its way. I read every message personally and will reply if you left an email.
-            </div>
-        </aside>
 
         <!-- Related Posts -->
         <aside class="related-posts" aria-label="Related posts">
@@ -3373,46 +2573,6 @@
         
         
         <!-- Ask Lisa: reader question form -->
-        <aside class="ask-lisa" aria-labelledby="ask-lisa-heading-weight-bearing-vs-resistance">
-            <h2 class="ask-lisa-heading" id="ask-lisa-heading-weight-bearing-vs-resistance">What would you like me to write about next?</h2>
-            <p class="ask-lisa-intro">
-                I'm writing this blog for people navigating osteoporosis, and I want to make sure I'm covering what actually matters to you.
-                Is there a question you wish someone would answer clearly? Send it my way &mdash; I read every one.
-            </p>
-            <form class="ask-lisa-form" action="https://formspree.io/f/xdaqlwzw" method="POST" data-post-slug="weight-bearing-vs-resistance">
-                <input type="hidden" name="_subject" value="Reader question from mybone.health blog">
-                <input type="hidden" name="post" value="weight-bearing-vs-resistance">
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-question-weight-bearing-vs-resistance">Your question</label>
-                    <textarea
-                        class="ask-lisa-textarea"
-                        id="ask-lisa-question-weight-bearing-vs-resistance"
-                        name="question"
-                        placeholder="What's on your mind about bone health, osteoporosis, or anything I've written?"
-                        required
-                        rows="4"></textarea>
-                </div>
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-email-weight-bearing-vs-resistance">
-                        Your email <span class="ask-lisa-optional">(optional &mdash; only if you'd like a reply)</span>
-                    </label>
-                    <input
-                        class="ask-lisa-input"
-                        id="ask-lisa-email-weight-bearing-vs-resistance"
-                        type="email"
-                        name="email"
-                        placeholder="you@example.com">
-                </div>
-                <button type="submit" class="ask-lisa-button">Send my question</button>
-                <p class="ask-lisa-note">
-                    Your question goes straight to Lisa's inbox. Email is only used to reply &mdash; no newsletter signup, no sharing.
-                </p>
-                <div class="ask-lisa-error" role="alert">Something went wrong. Please try again in a moment, or email lisa@mybone.health directly.</div>
-            </form>
-            <div class="ask-lisa-thankyou" role="status">
-                <strong>Thank you.</strong> Your question is on its way. I read every message personally and will reply if you left an email.
-            </div>
-        </aside>
 
         <!-- Related Posts -->
         <aside class="related-posts" aria-label="Related posts">
@@ -3514,46 +2674,6 @@
         
         
         <!-- Ask Lisa: reader question form -->
-        <aside class="ask-lisa" aria-labelledby="ask-lisa-heading-grocery-guide">
-            <h2 class="ask-lisa-heading" id="ask-lisa-heading-grocery-guide">What would you like me to write about next?</h2>
-            <p class="ask-lisa-intro">
-                I'm writing this blog for people navigating osteoporosis, and I want to make sure I'm covering what actually matters to you.
-                Is there a question you wish someone would answer clearly? Send it my way &mdash; I read every one.
-            </p>
-            <form class="ask-lisa-form" action="https://formspree.io/f/xdaqlwzw" method="POST" data-post-slug="grocery-guide">
-                <input type="hidden" name="_subject" value="Reader question from mybone.health blog">
-                <input type="hidden" name="post" value="grocery-guide">
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-question-grocery-guide">Your question</label>
-                    <textarea
-                        class="ask-lisa-textarea"
-                        id="ask-lisa-question-grocery-guide"
-                        name="question"
-                        placeholder="What's on your mind about bone health, osteoporosis, or anything I've written?"
-                        required
-                        rows="4"></textarea>
-                </div>
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-email-grocery-guide">
-                        Your email <span class="ask-lisa-optional">(optional &mdash; only if you'd like a reply)</span>
-                    </label>
-                    <input
-                        class="ask-lisa-input"
-                        id="ask-lisa-email-grocery-guide"
-                        type="email"
-                        name="email"
-                        placeholder="you@example.com">
-                </div>
-                <button type="submit" class="ask-lisa-button">Send my question</button>
-                <p class="ask-lisa-note">
-                    Your question goes straight to Lisa's inbox. Email is only used to reply &mdash; no newsletter signup, no sharing.
-                </p>
-                <div class="ask-lisa-error" role="alert">Something went wrong. Please try again in a moment, or email lisa@mybone.health directly.</div>
-            </form>
-            <div class="ask-lisa-thankyou" role="status">
-                <strong>Thank you.</strong> Your question is on its way. I read every message personally and will reply if you left an email.
-            </div>
-        </aside>
 
         <!-- Related Posts -->
         <aside class="related-posts" aria-label="Related posts">
