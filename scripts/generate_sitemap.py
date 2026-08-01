@@ -27,9 +27,10 @@ BASE_URL = "https://mybone.health"
 
 # Static pages that aren't blog posts. Add new top-level pages here if needed.
 STATIC_PAGES = [
-    {"loc": f"{BASE_URL}/",          "changefreq": "weekly",  "priority": "1.0"},
-    {"loc": f"{BASE_URL}/faq.html",  "changefreq": "monthly", "priority": "0.8"},
-    {"loc": f"{BASE_URL}/blog/",     "changefreq": "weekly",  "priority": "0.9"},
+    {"loc": f"{BASE_URL}/",           "changefreq": "weekly",  "priority": "1.0"},
+    {"loc": f"{BASE_URL}/about.html", "changefreq": "monthly", "priority": "0.8"},
+    {"loc": f"{BASE_URL}/faq.html",   "changefreq": "monthly", "priority": "0.8"},
+    {"loc": f"{BASE_URL}/blog/",      "changefreq": "weekly",  "priority": "0.9"},
 ]
 
 # Files in blog/ that aren't individual blog posts (the index, drafts, etc.)
