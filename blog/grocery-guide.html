@@ -557,100 +557,6 @@
             .related-card-image { height: 160px; }
         }
 
-        /* Ask-Lisa reader question */
-        .ask-lisa {
-            margin: 3.5rem 0 0;
-            padding: 2rem 1.75rem;
-            background: linear-gradient(135deg, #f8f5ef 0%, #f2ebe0 100%);
-            border-radius: 12px;
-            border: 1px solid #e5dccb;
-        }
-        .ask-lisa-heading {
-            font-family: var(--serif, Georgia, serif);
-            font-size: 1.4rem;
-            margin: 0 0 0.5rem;
-            color: var(--text, #2a2a2a);
-        }
-        .ask-lisa-intro {
-            font-size: 0.98rem;
-            line-height: 1.55;
-            color: #4a4a4a;
-            margin: 0 0 1.25rem;
-        }
-        .ask-lisa-form { display: block; }
-        .ask-lisa-field { margin-bottom: 1rem; }
-        .ask-lisa-label {
-            display: block;
-            font-size: 0.85rem;
-            font-weight: 600;
-            color: #3a3a3a;
-            margin-bottom: 0.35rem;
-        }
-        .ask-lisa-optional {
-            font-weight: 400;
-            color: #7a7a7a;
-            font-style: italic;
-        }
-        .ask-lisa-textarea,
-        .ask-lisa-input {
-            width: 100%;
-            font-family: inherit;
-            font-size: 0.95rem;
-            padding: 0.65rem 0.8rem;
-            border: 1px solid #d5c9b3;
-            border-radius: 6px;
-            background: #fff;
-            box-sizing: border-box;
-            color: #2a2a2a;
-        }
-        .ask-lisa-textarea { min-height: 90px; resize: vertical; }
-        .ask-lisa-textarea:focus,
-        .ask-lisa-input:focus {
-            outline: none;
-            border-color: #6b7f5b;
-            box-shadow: 0 0 0 3px rgba(107, 127, 91, 0.15);
-        }
-        .ask-lisa-button {
-            display: inline-block;
-            background: #2b4356;
-            color: #fff;
-            font-family: inherit;
-            font-size: 0.95rem;
-            font-weight: 600;
-            padding: 0.7rem 1.4rem;
-            border: none;
-            border-radius: 6px;
-            cursor: pointer;
-            transition: background 0.2s ease;
-        }
-        .ask-lisa-button:hover { background: #1e3243; }
-        .ask-lisa-button:disabled { opacity: 0.6; cursor: not-allowed; }
-        .ask-lisa-note {
-            font-size: 0.82rem;
-            color: #7a7a7a;
-            margin: 0.6rem 0 0;
-            line-height: 1.45;
-        }
-        .ask-lisa-thankyou {
-            display: none;
-            padding: 1.5rem;
-            background: #ecf1e6;
-            border-radius: 8px;
-            color: #2b4356;
-            font-size: 1rem;
-            line-height: 1.5;
-        }
-        .ask-lisa-thankyou.visible { display: block; }
-        .ask-lisa-error {
-            display: none;
-            padding: 0.8rem 1rem;
-            background: #fbeaea;
-            border-radius: 6px;
-            color: #7a1e1e;
-            font-size: 0.9rem;
-            margin-top: 0.75rem;
-        }
-        .ask-lisa-error.visible { display: block; }
 </style>
     <div class="preorder-banner">
         <div class="preorder-banner-inner">
@@ -733,46 +639,6 @@
         
         
         <!-- Ask Lisa: reader question form -->
-        <aside class="ask-lisa" aria-labelledby="ask-lisa-heading-grocery-guide">
-            <h2 class="ask-lisa-heading" id="ask-lisa-heading-grocery-guide">What would you like me to write about next?</h2>
-            <p class="ask-lisa-intro">
-                I'm writing this blog for people navigating osteoporosis, and I want to make sure I'm covering what actually matters to you.
-                Is there a question you wish someone would answer clearly? Send it my way &mdash; I read every one.
-            </p>
-            <form class="ask-lisa-form" action="https://formspree.io/f/xdaqlwzw" method="POST" data-post-slug="grocery-guide">
-                <input type="hidden" name="_subject" value="Reader question from mybone.health blog">
-                <input type="hidden" name="post" value="grocery-guide">
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-question-grocery-guide">Your question</label>
-                    <textarea
-                        class="ask-lisa-textarea"
-                        id="ask-lisa-question-grocery-guide"
-                        name="question"
-                        placeholder="What's on your mind about bone health, osteoporosis, or anything I've written?"
-                        required
-                        rows="4"></textarea>
-                </div>
-                <div class="ask-lisa-field">
-                    <label class="ask-lisa-label" for="ask-lisa-email-grocery-guide">
-                        Your email <span class="ask-lisa-optional">(optional &mdash; only if you'd like a reply)</span>
-                    </label>
-                    <input
-                        class="ask-lisa-input"
-                        id="ask-lisa-email-grocery-guide"
-                        type="email"
-                        name="email"
-                        placeholder="you@example.com">
-                </div>
-                <button type="submit" class="ask-lisa-button">Send my question</button>
-                <p class="ask-lisa-note">
-                    Your question goes straight to Lisa's inbox. Email is only used to reply &mdash; no newsletter signup, no sharing.
-                </p>
-                <div class="ask-lisa-error" role="alert">Something went wrong. Please try again in a moment, or email lisa@mybone.health directly.</div>
-            </form>
-            <div class="ask-lisa-thankyou" role="status">
-                <strong>Thank you.</strong> Your question is on its way. I read every message personally and will reply if you left an email.
-            </div>
-        </aside>
 
         <!-- Related Posts -->
         <aside class="related-posts" aria-label="Related posts">
@@ -835,36 +701,5 @@
         </p>
     </footer>
 
-        <script>
-        (function() {
-            document.querySelectorAll('form.ask-lisa-form').forEach(function(form) {
-                form.addEventListener('submit', function(e) {
-                    e.preventDefault();
-                    var btn = form.querySelector('.ask-lisa-button');
-                    var errorBox = form.querySelector('.ask-lisa-error');
-                    var thankYou = form.parentElement.querySelector('.ask-lisa-thankyou');
-                    errorBox.classList.remove('visible');
-                    btn.disabled = true;
-                    btn.textContent = 'Sending...';
-                    fetch(form.action, {
-                        method: 'POST',
-                        body: new FormData(form),
-                        headers: { 'Accept': 'application/json' }
-                    }).then(function(res) {
-                        if (res.ok) {
-                            form.style.display = 'none';
-                            thankYou.classList.add('visible');
-                        } else {
-                            throw new Error('Server error');
-                        }
-                    }).catch(function() {
-                        errorBox.classList.add('visible');
-                        btn.disabled = false;
-                        btn.textContent = 'Send my question';
-                    });
-                });
-            });
-        })();
-        </script>
 </body>
 </html>
