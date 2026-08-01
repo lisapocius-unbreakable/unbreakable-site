@@ -13,8 +13,9 @@ judgment about whether it matters. The judgment already happened.
 
 - **No em dashes.** Not the character (`—`), not the HTML entity (`&mdash;`), not
   en dashes standing in for them. The only permitted `&mdash;` on a post page is
-  inside the "Ask Lisa" boilerplate and the `post-meta` byline separator, which
-  are template furniture rather than prose.
+  the `post-meta` byline separator, which is template furniture rather than
+  prose. The "Ask Lisa" boilerplate used to be a second exception; it was removed
+  from every post in commit `e3e04ed` and must not come back.
 - **No AI cadence.** Avoid lists of three used for rhythm, "not just X but Y",
   "if not this, then that", "Here's the thing", "the bottom line", "it's
   important to note", "delve", "crucial", "robust", "leverage", "landscape",
@@ -24,9 +25,11 @@ judgment about whether it matters. The judgment already happened.
   are fine.
 - **First person, physician voice.** Lisa writes as a doctor who also has this
   disease. Both halves matter.
-- **Do not solicit medication questions from readers.** Inviting topic
-  suggestions is fine and the Ask Lisa box does that. Inviting questions about a
-  reader's own drugs edges toward individual medical advice.
+- **No reader-question forms.** The "Ask Lisa" box was removed from all 22 posts
+  in commit `e3e04ed`. Do not reintroduce a form, and do not invite readers to
+  send questions about their own medications. That edges toward individual
+  medical advice. If a call to action is ever wanted again, it collects topic
+  suggestions only, and Lisa approves the wording first.
 
 ## 2. Clinical accuracy, which is also legal exposure
 
@@ -161,6 +164,27 @@ The audit found 40 MB of PNG heroes on the blog index. Do not reintroduce that.
   the next push is rejected.
 - **Hostinger does not auto-deploy.** Lisa deploys manually. Say so explicitly
   every time; a pushed post is not a published post.
+- **After she deploys, ping IndexNow.** This tells Bing, DuckDuckGo, and Yandex
+  to fetch the new URL immediately. It is a plain POST, no account needed:
+
+  ```
+  POST https://api.indexnow.org/indexnow
+  Content-Type: application/json
+
+  {
+    "host": "mybone.health",
+    "key": "2691d745bd92b709999fd6d7293f27a7",
+    "keyLocation": "https://mybone.health/2691d745bd92b709999fd6d7293f27a7.txt",
+    "urlList": ["https://mybone.health/blog/the-new-post.html"]
+  }
+  ```
+
+  A 200 or 202 means accepted. Never delete
+  `2691d745bd92b709999fd6d7293f27a7.txt` from the repo root; the key stops
+  working the moment that file 404s.
+- Google has no equivalent. Its Indexing API returns access denied for ordinary
+  articles and officially covers only job postings and live events. Do not spend
+  time on it. The sitemap is the supported path.
 
 ## 10. Confirm in production
 
@@ -181,12 +205,32 @@ return 403 to command-line requests; those links are fine for readers.
 - Four older posts have `-fb.png` and `-pin.png` social variants. That belongs to
   a separate social workflow and is not part of publishing a post.
 
+## Where the traffic actually comes from
+
+Measured July 31, 2026. Worth knowing before deciding what to work on.
+
+Google sent 185 impressions and 10 clicks across all of 2026, and every one of
+those clicks landed on the homepage. No blog post has ever taken a Google click.
+Fourteen of the 22 posts have never recorded a single Google impression.
+
+July sessions in GA4 ran about 154: direct 75, DuckDuckGo 20, Facebook 19,
+Bing 10, Google 9, Yahoo 8, Ecosia 2. The Bing family (DuckDuckGo, Bing, Yahoo,
+Ecosia) is over four times Google. No AI chatbot referrals appear at all.
+
+The implication is that more structured data does not move this site right now.
+Google treats health content as high-scrutiny and favors already-trusted
+domains, so the lever there is author credibility and inbound links rather than
+markup. Bing-family indexing and the author entity page are the higher-value
+work.
+
 ## Audit items still outstanding
 
 Not yet approved or done, kept here so they are not forgotten:
 
+`/about.html` author entity page and `llms.txt` (highest value of this list);
 `MedicalWebPage` schema with `lastReviewed` and `reviewedBy`; `Drug` entities on
 medication posts; `FAQPage` markup on posts with question-shaped headings;
-`llms.txt`; `/about.html` author entity page; `BreadcrumbList`; privacy,
-editorial-policy, and medical-disclaimer pages; the `www` to non-www 301 at the
-Hostinger level.
+`BreadcrumbList`; privacy, editorial-policy, and medical-disclaimer pages; the
+`www` to non-www 301 at the Hostinger level, since `https://www.mybone.health/`
+currently returns 200 instead of redirecting (canonical tags mitigate this but
+do not fix it); Bing Webmaster Tools account setup and sitemap submission.
