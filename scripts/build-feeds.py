@@ -25,8 +25,8 @@ from pathlib import Path
 # Site configuration
 SITE_URL = "https://mybone.health"
 SITE_TITLE = "mybone.health Blog"
-SITE_DESCRIPTION = "Evidence-based articles on osteoporosis, bone health, and living well with bone loss, by Dr. Lisa Pocius."
-SITE_AUTHOR_NAME = "Dr. Lisa Pocius"
+SITE_DESCRIPTION = "Evidence-based articles on osteoporosis, bone health, and living well with bone loss, by Lisa Pocius, MD."
+SITE_AUTHOR_NAME = "Lisa Pocius, MD"
 SITE_AUTHOR_EMAIL = "lisa.pocius@gmail.com"
 SITE_LANGUAGE = "en-us"
 
