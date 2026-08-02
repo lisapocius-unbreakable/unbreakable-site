@@ -696,8 +696,23 @@
             flex: 1 1 auto;
             min-width: 0;
         }
-        .about-book-text p:last-of-type {
+        .about-book-text p:first-of-type {
             margin-bottom: 1.25rem;
+        }
+        .about-book-text .author-link {
+            margin: 1.15rem 0 0;
+            font-size: 0.92rem;
+        }
+        .about-book-text .author-link a {
+            color: var(--navy);
+            font-weight: 500;
+            text-decoration: underline;
+            text-decoration-color: var(--sky-accent);
+            text-underline-offset: 2px;
+            transition: text-decoration-color 0.3s ease;
+        }
+        .about-book-text .author-link a:hover {
+            text-decoration-color: var(--navy);
         }
         .about-book-text em {
             margin-right: 0.22em;
@@ -874,6 +889,7 @@
             <div class="about-book-text">
                 <p><em>Osteoporosis: The Book I Wish I&rsquo;d Had When I Was Diagnosed</em>&nbsp;is the longer version of everything on this site. It walks through diagnosis, medications, nutrition, exercise, and fracture prevention in plain language, and it includes the parts of my own story that do not fit on a web page.</p>
                 <a href="https://www.amazon.com/dp/B0GZ271ZWC" target="_blank" rel="noopener" class="cta-button">Get the Book on Amazon &rarr;</a>
+                <p class="author-link">Every edition is listed on my <a href="https://www.amazon.com/author/lisapociusmd" target="_blank" rel="noopener">Amazon author page</a>.</p>
             </div>
         </div>
 
