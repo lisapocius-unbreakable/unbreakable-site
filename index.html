@@ -320,6 +320,50 @@
             color: var(--white);
         }
 
+        .retailer-links {
+            margin-top: 1.25rem;
+            animation: fadeInUp 0.8s ease 0.5s both;
+        }
+        .retailer-links-label {
+            font-size: 0.85rem;
+            color: var(--gray);
+            margin-bottom: 0.55rem;
+            letter-spacing: 0.02em;
+            text-transform: uppercase;
+        }
+        .retailer-btn-row {
+            display: flex;
+            gap: 0.75rem;
+            flex-wrap: wrap;
+        }
+        .btn-retailer {
+            display: inline-block;
+            padding: 0.65rem 1.35rem;
+            border-radius: 8px;
+            border: 2px solid var(--navy);
+            background: var(--white);
+            color: var(--navy);
+            font-weight: 600;
+            font-size: 0.98rem;
+            text-decoration: none;
+            transition: background 0.2s ease, color 0.2s ease, transform 0.2s ease;
+        }
+        .btn-retailer:hover {
+            background: var(--navy);
+            color: var(--white);
+            transform: translateY(-1px);
+        }
+        .retailer-note {
+            font-size: 0.82rem;
+            color: var(--gray);
+            margin: 0.65rem 0 0;
+            font-style: italic;
+        }
+        .hero-subscribe {
+            margin-top: 1.5rem;
+            animation: fadeInUp 0.8s ease 0.6s both;
+        }
+
         .hero-image {
             display: flex;
             justify-content: center;
@@ -990,6 +1034,16 @@
                 <p>Written by a physician-author who lives with osteoporosis herself. Get the medical expertise and personal insights you need to protect your bones and reclaim your confidence.</p>
                 <div class="hero-buttons">
                     <a href="https://www.amazon.com/dp/B0GZ271ZWC" class="btn btn-primary" target="_blank" rel="noopener">Buy on Amazon</a>
+                </div>
+                <div class="retailer-links">
+                    <div class="retailer-links-label">Also available at</div>
+                    <div class="retailer-btn-row">
+                        <a href="https://www.barnesandnoble.com/w/osteoporosis-lisa-pocius-md/1150411353?ean=9798995564607" class="btn-retailer" target="_blank" rel="noopener">Barnes &amp; Noble</a>
+                        <a href="https://bookshop.org/p/books/osteoporosis-the-book-i-wish-i-d-had-when-i-was-diagnosed-lisa-pocius-md/2ab0c635e99ea154?ean=9798995564607" class="btn-retailer" target="_blank" rel="noopener">Bookshop.org</a>
+                    </div>
+                    <p class="retailer-note">Bookshop.org purchases support independent bookstores.</p>
+                </div>
+                <div class="hero-subscribe">
                     <a href="#newsletter" class="btn btn-secondary">Subscribe for Updates</a>
                 </div>
             </div>

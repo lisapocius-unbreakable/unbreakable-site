@@ -732,6 +732,45 @@
             background: var(--navy-light);
             transform: translateY(-1px);
         }
+        .about-book-text .retailer-row {
+            margin: 1rem 0 0;
+        }
+        .about-book-text .retailer-row .retailer-label {
+            text-transform: uppercase;
+            letter-spacing: 0.03em;
+            font-size: 0.78rem;
+            color: var(--gray);
+            display: block;
+            margin-bottom: 0.55rem;
+        }
+        .about-book-text .retailer-btn-row {
+            display: flex;
+            gap: 0.6rem;
+            flex-wrap: wrap;
+        }
+        .about-book-text .btn-retailer {
+            display: inline-block;
+            padding: 0.55rem 1.2rem;
+            border-radius: 8px;
+            border: 2px solid var(--navy);
+            background: var(--white);
+            color: var(--navy);
+            font-weight: 600;
+            font-size: 0.92rem;
+            text-decoration: none;
+            transition: background 0.2s ease, color 0.2s ease, transform 0.2s ease;
+        }
+        .about-book-text .btn-retailer:hover {
+            background: var(--navy);
+            color: var(--white);
+            transform: translateY(-1px);
+        }
+        .about-book-text .retailer-note {
+            font-size: 0.82rem;
+            color: var(--gray);
+            font-style: italic;
+            margin: 0.6rem 0 0;
+        }
         @media (max-width: 700px) {
             .about-hero h1 { font-size: 1.9rem; }
             .about-hero .subtitle { font-size: 1rem; }
@@ -889,6 +928,14 @@
             <div class="about-book-text">
                 <p><em>Osteoporosis: The Book I Wish I&rsquo;d Had When I Was Diagnosed</em>&nbsp;is the longer version of everything on this site. It walks through diagnosis, medications, nutrition, exercise, and fracture prevention in plain language, and it includes the parts of my own story that do not fit on a web page.</p>
                 <a href="https://www.amazon.com/dp/B0GZ271ZWC" target="_blank" rel="noopener" class="cta-button">Get the Book on Amazon &rarr;</a>
+                <div class="retailer-row">
+                    <span class="retailer-label">Also available at</span>
+                    <div class="retailer-btn-row">
+                        <a href="https://www.barnesandnoble.com/w/osteoporosis-lisa-pocius-md/1150411353?ean=9798995564607" class="btn-retailer" target="_blank" rel="noopener">Barnes &amp; Noble</a>
+                        <a href="https://bookshop.org/p/books/osteoporosis-the-book-i-wish-i-d-had-when-i-was-diagnosed-lisa-pocius-md/2ab0c635e99ea154?ean=9798995564607" class="btn-retailer" target="_blank" rel="noopener">Bookshop.org</a>
+                    </div>
+                    <p class="retailer-note">Bookshop.org purchases support independent bookstores.</p>
+                </div>
                 <p class="author-link">Every edition is listed on my <a href="https://www.amazon.com/author/lisapociusmd" target="_blank" rel="noopener">Amazon author page</a>.</p>
             </div>
         </div>
