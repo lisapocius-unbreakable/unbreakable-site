@@ -163,6 +163,11 @@
             color: var(--navy);
         }
 
+        /* Anchor scroll offset so the sticky nav doesn't cover section headers */
+        section[id] {
+            scroll-margin-top: 80px;
+        }
+
         /* Navigation */
         nav {
             position: fixed;
@@ -1057,55 +1062,71 @@
 
     <!-- Goodreads Reviews Widget -->
     <section class="goodreads-reviews-section" aria-label="Reader reviews from Goodreads">
+        <style>
+            .goodreads-reviews-section {
+                background: linear-gradient(180deg, #ffffff 0%, #e8f4fc 100%);
+                padding: 3.5rem 2rem 3rem;
+            }
+            .goodreads-container {
+                max-width: 720px;
+                margin: 0 auto;
+            }
+            .goodreads-header {
+                text-align: center;
+                margin-bottom: 2rem;
+            }
+            .goodreads-header h2 {
+                font-family: 'Libre Baskerville', Georgia, serif;
+                color: var(--navy);
+                font-size: 1.8rem;
+                font-weight: 700;
+                margin: 0;
+                line-height: 1.2;
+            }
+            #goodreads-widget {
+                font-family: inherit;
+                padding: 0;
+                width: 100%;
+                max-width: 100%;
+            }
+            #goodreads-widget #gr_header { display: none; }
+            #goodreads-widget a {
+                text-decoration: none;
+                color: var(--navy);
+            }
+            #goodreads-widget iframe {
+                background-color: #ffffff;
+                width: 100%;
+                max-width: 100%;
+                border: 0;
+                display: block;
+            }
+            #goodreads-widget a:hover { text-decoration: underline; }
+            #gr_footer {
+                width: 100%;
+                border-top: 1px solid #e2e8f0;
+                text-align: right;
+                padding-top: 0.5rem;
+                margin-top: 0.5rem;
+            }
+            #goodreads-widget .gr_branding {
+                color: #64748b;
+                font-size: 0.75rem;
+                text-decoration: none;
+                font-family: inherit;
+            }
+            @media (max-width: 600px) {
+                .goodreads-reviews-section { padding: 2.5rem 1.5rem 2rem; }
+                .goodreads-header h2 { font-size: 1.5rem; }
+            }
+        </style>
         <div class="goodreads-container">
-            <style>
-                .goodreads-reviews-section {
-                    background: linear-gradient(180deg, #ffffff 0%, #e8f4fc 100%);
-                    padding: 3rem 1.5rem;
-                }
-                .goodreads-container {
-                    max-width: 600px;
-                    margin: 0 auto;
-                }
-                #goodreads-widget {
-                    font-family: georgia, serif;
-                    padding: 18px 0;
-                    width: 100%;
-                    max-width: 100%;
-                }
-                #goodreads-widget h2 {
-                    font-weight: normal;
-                    font-size: 16px;
-                    border-bottom: 1px solid #BBB596;
-                    margin-bottom: 0;
-                }
-                #goodreads-widget a {
-                    text-decoration: none;
-                    color: #2c5282;
-                }
-                #goodreads-widget iframe {
-                    background-color: #ffffff;
-                    width: 100%;
-                    max-width: 100%;
-                    border: 0;
-                }
-                #goodreads-widget a:hover { text-decoration: underline; }
-                #goodreads-widget a:active { color: #2c5282; }
-                #gr_footer {
-                    width: 100%;
-                    border-top: 1px solid #BBB596;
-                    text-align: right;
-                }
-                #goodreads-widget .gr_branding {
-                    color: #382110;
-                    font-size: 11px;
-                    text-decoration: none;
-                    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-                }
-            </style>
+            <div class="goodreads-header">
+                <h2>What Readers Are Saying</h2>
+            </div>
             <div id="goodreads-widget">
                 <div id="gr_header"><h2><a rel="nofollow" href="https://www.goodreads.com/book/show/253580376-osteoporosis">Reader Reviews on Goodreads</a></h2></div>
-                <iframe sandbox id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&format=html&header_text=Reader+Reviews+on+Goodreads&isbn=9798995564607&links=1a365d&min_rating=4&num_reviews=&review_back=ffffff&stars=1a365d&stylesheet=&text=2d3748" width="565" height="400" frameborder="0"></iframe>
+                <iframe sandbox id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&format=html&header_text=Reader+Reviews+on+Goodreads&isbn=9798995564607&links=1a365d&min_rating=4&num_reviews=&review_back=ffffff&stars=1a365d&stylesheet=&text=2d3748" width="720" height="520" frameborder="0"></iframe>
                 <div id="gr_footer">
                     <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/253580376-osteoporosis?utm_medium=api&utm_source=reviews_widget">Reviews from Goodreads.com</a>
                 </div>
