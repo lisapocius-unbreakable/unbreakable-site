@@ -1161,6 +1161,93 @@
         </div>
     </section>
 
+    <!-- Free Resource Callout -->
+    <style>
+        .freebie {
+            background: linear-gradient(135deg, #e8f4fc 0%, #fafbfc 100%);
+            padding: 3.5rem 2rem;
+        }
+        .freebie-inner {
+            max-width: 1000px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: 1fr 1.2fr;
+            gap: 2.5rem;
+            align-items: center;
+            background: #ffffff;
+            border-radius: 12px;
+            padding: 2rem;
+            box-shadow: 0 10px 40px rgba(26, 54, 93, 0.08);
+        }
+        .freebie-image picture, .freebie-image img {
+            display: block;
+            width: 100%;
+            height: auto;
+            border-radius: 6px;
+            box-shadow: 0 6px 22px rgba(26, 54, 93, 0.12);
+            border: 1px solid rgba(26, 54, 93, 0.08);
+        }
+        .freebie-copy .freebie-tag {
+            display: inline-block;
+            background: #f9a825;
+            color: #1a3a52;
+            font-size: 0.75rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.12em;
+            padding: 0.3rem 0.75rem;
+            border-radius: 20px;
+            margin-bottom: 1rem;
+        }
+        .freebie-copy h2 {
+            font-family: 'Libre Baskerville', Georgia, serif;
+            font-size: 1.6rem;
+            color: #1a365d;
+            margin-bottom: 0.75rem;
+            line-height: 1.25;
+        }
+        .freebie-copy p {
+            color: #4a5568;
+            font-size: 1rem;
+            margin-bottom: 1.25rem;
+            line-height: 1.6;
+        }
+        .freebie-cta {
+            display: inline-block;
+            background: #1a365d;
+            color: #ffffff;
+            padding: 0.75rem 1.5rem;
+            border-radius: 6px;
+            font-weight: 600;
+            text-decoration: none;
+            transition: background 0.2s ease, transform 0.2s ease;
+        }
+        .freebie-cta:hover { background: #2c5282; transform: translateY(-1px); }
+        @media (max-width: 780px) {
+            .freebie-inner { grid-template-columns: 1fr; gap: 1.5rem; padding: 1.5rem; }
+            .freebie-image { max-width: 320px; margin: 0 auto; }
+            .freebie-copy h2 { font-size: 1.4rem; }
+        }
+    </style>
+    <section class="freebie">
+        <div class="freebie-inner">
+            <div class="freebie-image">
+                <a href="free/calcium-protein-cheat-sheet.html">
+                    <picture>
+                        <source type="image/webp" srcset="images/cheat-sheet-preview-400.webp 400w, images/cheat-sheet-preview-800.webp 800w" sizes="(max-width: 780px) 100vw, 380px">
+                        <img src="images/cheat-sheet-preview.png" alt="Preview of the free Calcium and Protein Cheat Sheet" width="800" height="1035" loading="lazy" decoding="async">
+                    </picture>
+                </a>
+            </div>
+            <div class="freebie-copy">
+                <span class="freebie-tag">Free Printable</span>
+                <h2>The Calcium and Protein Cheat Sheet for Bone Health</h2>
+                <p>A one-page reference of the best food sources for calcium and protein, with daily targets and the four foods that give you both in one bite. Fridge-worthy and physician-vetted, drawn from Chapter 8 of my book.</p>
+                <a href="free/calcium-protein-cheat-sheet.html" class="freebie-cta">Grab the free cheat sheet &rarr;</a>
+            </div>
+        </div>
+    </section>
+
     <!-- Blog Section -->
     <section class="blog" id="blog">
         <div class="section-container">
