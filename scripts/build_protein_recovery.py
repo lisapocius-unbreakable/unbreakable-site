@@ -27,7 +27,7 @@ DATE_PUBLISHED = "2026-08-29"
 DATE_MODIFIED = "2026-08-29"
 LAST_REVIEWED = "2026-08-29"
 SECTION = "Nutrition"
-CARD_BLURB = "Right after a fracture, protein needs go up and appetite usually drops. A physician who lives with osteoporosis walks through what the evidence says, why plant and animal protein both work, and easy food ideas for when cooking is off the table."  # ~265 chars, matches neighbours
+CARD_BLURB = "Right after a fracture, protein needs go up and appetite usually drops. A physician who lives with osteoporosis walks through what the evidence says, why plant and animal protein both work, and easy food ideas for when you're not up to cooking."  # ~265 chars, matches neighbours
 HERO_ALT = "Overhead flat lay of bone-friendly protein foods including Greek yogurt with raspberries and almonds, grilled salmon, aged parmesan, white beans, eggs, sliced roasted chicken, and a protein smoothie on a cream linen tablecloth"
 
 # ============================================================================
