@@ -1,6 +1,6 @@
 // Render the built new post + updated listing + updated homepage
 // at 1440px and 390px per publishing checklist. Save to /tmp/screens/.
-import { chromium } from '/root/.openclaw/plugin-runtime-deps/openclaw-2026.4.23-4eca5026e977/node_modules/playwright-core/index.mjs';
+import { chromium } from '/home/user/node_modules/playwright/index.mjs';
 import { fileURLToPath } from 'url';
 import { dirname, resolve } from 'path';
 import { mkdirSync, existsSync } from 'fs';
@@ -11,7 +11,7 @@ const OUT = '/tmp/screens';
 mkdirSync(OUT, { recursive: true });
 
 const pages = [
-  { name: 'post', path: 'blog/protein-and-fracture-recovery.html' },
+  { name: 'post', path: 'blog/glp1-and-bone-health.html' },
   { name: 'blog-list', path: 'blog/index.html' },
   { name: 'home', path: 'index.html' },
 ];
