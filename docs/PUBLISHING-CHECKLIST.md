@@ -223,14 +223,41 @@ domains, so the lever there is author credibility and inbound links rather than
 markup. Bing-family indexing and the author entity page are the higher-value
 work.
 
+## Audit items now done
+
+Verified September 23, 2026. Listed so nobody redoes them, and so a new post
+knows what standard it is joining.
+
+- `/about.html` author entity page, with `ProfilePage`, `Person`, `Book`, and
+  `BreadcrumbList`.
+- `llms.txt`, grouped by topic. **It lives in the repo now.** It used to exist
+  only on the server, untracked, which made it stale and put it one full-folder
+  deploy away from disappearing. Add new cornerstone posts to it.
+- `BreadcrumbList` on every post plus about, editorial policy, medical
+  disclaimer, and the free download page.
+- `MedicalWebPage` with `lastReviewed`, `reviewedBy`, `medicalAudience`, and
+  per-post `about` terms on 23 posts. Set `lastReviewed` to a date a review
+  actually happened. Do not set it to today because today is when you edited the
+  markup.
+- `Drug` entities on all six medication posts.
+- `FAQPage` on the two posts built from question headings,
+  `vitamin-d-and-sunshine` and `dexa-tbs-vfa`. Extract the questions and answers
+  verbatim from the visible prose so the markup cannot drift from the page.
+- `/editorial-policy.html` and `/medical-disclaimer.html`, both indexable, both
+  linked from every page footer. The editorial page is where the sourcing
+  standard in section 2 is stated publicly. If that standard ever changes, change
+  it there too.
+- `/privacy.html`.
+- The `www` to non-www 301 at the Hostinger level. `https://www.mybone.health/`
+  now returns 301 to the apex.
+- `test.html` carries `noindex, nofollow`. A `robots.txt` disallow alone does not
+  keep a linked page out of an index.
+
 ## Audit items still outstanding
 
-Not yet approved or done, kept here so they are not forgotten:
-
-`/about.html` author entity page and `llms.txt` (highest value of this list);
-`MedicalWebPage` schema with `lastReviewed` and `reviewedBy`; `Drug` entities on
-medication posts; `FAQPage` markup on posts with question-shaped headings;
-`BreadcrumbList`; privacy, editorial-policy, and medical-disclaimer pages; the
-`www` to non-www 301 at the Hostinger level, since `https://www.mybone.health/`
-currently returns 200 instead of redirecting (canonical tags mitigate this but
-do not fix it); Bing Webmaster Tools account setup and sitemap submission.
+- **Bing Webmaster Tools account setup and sitemap submission.** The largest
+  unclaimed item. The Bing family sends over four times the traffic Google does.
+- `identity-shift` and `asking-ai-about-osteoporosis` each have one inbound
+  internal link and no unlinked natural mention anywhere else on the blog.
+  Fixing them takes new prose or a related-posts slot, so it is a content
+  decision rather than a markup one.

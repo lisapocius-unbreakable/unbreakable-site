@@ -16,6 +16,8 @@ Lisa Pocius, MD is a board-certified family medicine physician. After vertebral 
 
 - [Home](https://mybone.health/): book, buy links, recent articles
 - [About Lisa Pocius, MD](https://mybone.health/about.html): credentials, why she writes, how the site is sourced
+- [Editorial policy and sourcing standards](https://mybone.health/editorial-policy.html): primary sources only, absolute alongside relative risk, named reviewer, disclosed AI use
+- [Medical disclaimer](https://mybone.health/medical-disclaimer.html): education, not medical care
 - [Osteoporosis FAQ](https://mybone.health/faq.html): 31 common questions on diagnosis, treatment, exercise, and nutrition
 - [Blog index](https://mybone.health/blog/): Bone Health Insights
 - [Free calcium and protein cheat sheet](https://mybone.health/free/calcium-protein-cheat-sheet.html)
