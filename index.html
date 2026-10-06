@@ -123,6 +123,19 @@
               "@type": "Book",
               "isbn": "979-8-9955646-1-4",
               "bookFormat": "https://schema.org/EBook"
+            },
+            {
+              "@type": "Audiobook",
+              "name": "Osteoporosis: The Book I Wish I'd Had When I Was Diagnosed (Audiobook)",
+              "bookFormat": "https://schema.org/AudiobookFormat",
+              "datePublished": "2026-10-04",
+              "url": "https://open.spotify.com/show/0w1TsVRbId0lJZXqPdtJAb",
+              "description": "Narrated by a digital clone of the author's own voice.",
+              "image": "https://mybone.health/images/audiobook-cover.jpg",
+              "potentialAction": {
+                "@type": "ListenAction",
+                "target": "https://open.spotify.com/show/0w1TsVRbId0lJZXqPdtJAb"
+              }
             }
           ]
         }
@@ -1078,6 +1091,25 @@
         </div>
     </section>
 
+    <!-- Audiobook -->
+    <section class="audiobook" id="audiobook" aria-label="The audiobook on Spotify">
+        <div class="audiobook-inner">
+            <div class="audiobook-cover">
+                <a href="https://open.spotify.com/show/0w1TsVRbId0lJZXqPdtJAb" target="_blank" rel="noopener" aria-label="Listen to the audiobook on Spotify">
+                    <picture><source type="image/webp" srcset="images/audiobook-cover-400.webp 400w, images/audiobook-cover-640.webp 640w" sizes="(max-width: 780px) 240px, 260px"><img src="images/audiobook-cover.jpg" alt="Audiobook cover of Osteoporosis: The Book I Wish I'd Had When I Was Diagnosed by Lisa Pocius, MD" width="640" height="640" loading="lazy" decoding="async"></picture>
+                </a>
+            </div>
+            <div class="audiobook-copy">
+                <span class="audiobook-tag">New: the audiobook</span>
+                <h2>Prefer to listen? The book is now on Spotify.</h2>
+                <p>It's narrated by a digital clone of my own voice. Some things in the book were meant to be seen, so the audiobook comes with a companion PDF. It has all 18 tables and 16 illustrations, along with the glossary, the sources, and the 30-day plan as a checklist.</p>
+                <div class="audiobook-actions">
+                    <a href="https://open.spotify.com/show/0w1TsVRbId0lJZXqPdtJAb" class="btn btn-primary" target="_blank" rel="noopener">Listen on Spotify</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <!-- Goodreads Reviews Widget -->
     <section class="goodreads-reviews-section" aria-label="Reader reviews from Goodreads">
         <style>
@@ -1181,6 +1213,70 @@
 
     <!-- Free Resource Callout -->
     <style>
+        .audiobook {
+            background: #ffffff;
+            padding: 3rem 2rem 3.5rem;
+        }
+        .audiobook-inner {
+            max-width: 1000px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: 260px 1fr;
+            gap: 2.5rem;
+            align-items: center;
+            background: linear-gradient(135deg, #e8f4fc 0%, #fafbfc 100%);
+            border-radius: 12px;
+            padding: 2rem;
+            box-shadow: 0 10px 40px rgba(26, 54, 93, 0.08);
+        }
+        .audiobook-cover img {
+            display: block;
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+            box-shadow: 0 6px 22px rgba(26, 54, 93, 0.18);
+        }
+        .audiobook-tag {
+            display: inline-block;
+            background: #1a365d;
+            color: #ffffff;
+            font-size: 0.75rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.12em;
+            padding: 0.3rem 0.75rem;
+            border-radius: 20px;
+            margin-bottom: 1rem;
+        }
+        .audiobook-copy h2 {
+            font-family: 'Libre Baskerville', Georgia, serif;
+            font-size: 1.6rem;
+            color: #1a365d;
+            margin-bottom: 0.75rem;
+            line-height: 1.25;
+        }
+        .audiobook-copy p {
+            color: #4a5568;
+            font-size: 1rem;
+            margin-bottom: 1.25rem;
+            line-height: 1.6;
+        }
+        .audiobook-actions {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.75rem;
+            align-items: center;
+        }
+        .audiobook-actions .btn { padding: 0.8rem 1.6rem; }
+        .audiobook-note {
+            font-size: 0.85rem !important;
+            margin: 1rem 0 0 !important;
+        }
+        @media (max-width: 780px) {
+            .audiobook-inner { grid-template-columns: 1fr; gap: 1.5rem; padding: 1.5rem; }
+            .audiobook-cover { max-width: 240px; margin: 0 auto; }
+            .audiobook-copy h2 { font-size: 1.4rem; }
+        }
         .freebie {
             background: linear-gradient(135deg, #e8f4fc 0%, #fafbfc 100%);
             padding: 3.5rem 2rem;
