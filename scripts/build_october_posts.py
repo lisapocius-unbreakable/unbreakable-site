@@ -23,6 +23,8 @@ TEMPLATE = REPO / "blog/protein-and-fracture-recovery.html"
 T_SLUG = "protein-and-fracture-recovery"
 T_H1 = "Protein After a Fracture: What Your Recovery Actually Needs"
 BODIES = pathlib.Path("/home/user/workspace/posts")
+# If the sandbox copy is gone, restore it with:
+#   git show origin/october-posts:scripts/october-bodies/<slug>.html
 
 POSTS = [
     dict(
@@ -47,7 +49,7 @@ POSTS = [
     ),
     dict(
         slug="medications-that-weaken-bone",
-        date="2026-10-20",
+        date="2026-10-13",
         section="Medication",
         h1="Medications That Can Quietly Weaken Your Bones",
         seo="Medications That Can Quietly Weaken Your Bones",
@@ -70,7 +72,7 @@ POSTS = [
     dict(
         slug="osteoporosis-in-men",
         hero_pos="22%",
-        date="2026-10-27",
+        date="2026-10-20",
         section="Patient Education",
         h1="Men Get Osteoporosis Too: What Every Man Over 50 Should Know",
         seo="Men Get Osteoporosis Too: What Every Man Over 50 Should Know",
@@ -85,7 +87,7 @@ POSTS = [
     ),
     dict(
         slug="first-30-days-osteoporosis",
-        date="2026-11-03",
+        date="2026-10-27",
         section="Patient Education",
         h1="Just Diagnosed? Your First 30 Days With Osteoporosis",
         seo="Just Diagnosed? Your First 30 Days With Osteoporosis",
