@@ -27,7 +27,7 @@ BODIES = pathlib.Path("/home/user/workspace/posts")
 POSTS = [
     dict(
         slug="squats-lifting-bending-osteoporosis",
-        date="2026-10-13",
+        date="2026-10-06",
         section="Exercise",
         hero_pos="12%",
         h1="Can I Do Squats With Osteoporosis? Lifting, Bending, and Twisting Safely",
