@@ -24,24 +24,24 @@ TODAY = date.today().isoformat()
 # (nonproprietaryName for generic, name for brand).
 POSTS = {
     "prolia-denosumab-explained.html": [
-        {"@type": "Drug", "name": "Prolia", "nonproprietaryName": "denosumab"},
+        {"@type": "Substance", "name": "Prolia", "alternateName": "denosumab"},
     ],
     "bisphosphonates-explained.html": [
-        {"@type": "Drug", "name": "Fosamax", "nonproprietaryName": "alendronate"},
-        {"@type": "Drug", "name": "Actonel", "nonproprietaryName": "risedronate"},
-        {"@type": "Drug", "name": "Boniva", "nonproprietaryName": "ibandronate"},
-        {"@type": "Drug", "name": "Reclast", "nonproprietaryName": "zoledronic acid"},
+        {"@type": "Substance", "name": "Fosamax", "alternateName": "alendronate"},
+        {"@type": "Substance", "name": "Actonel", "alternateName": "risedronate"},
+        {"@type": "Substance", "name": "Boniva", "alternateName": "ibandronate"},
+        {"@type": "Substance", "name": "Reclast", "alternateName": "zoledronic acid"},
     ],
     "bisphosphonate-tips.html": [
-        {"@type": "Drug", "name": "Fosamax", "nonproprietaryName": "alendronate"},
-        {"@type": "Drug", "name": "Actonel", "nonproprietaryName": "risedronate"},
+        {"@type": "Substance", "name": "Fosamax", "alternateName": "alendronate"},
+        {"@type": "Substance", "name": "Actonel", "alternateName": "risedronate"},
     ],
     "evenity-explained.html": [
-        {"@type": "Drug", "name": "Evenity", "nonproprietaryName": "romosozumab"},
+        {"@type": "Substance", "name": "Evenity", "alternateName": "romosozumab"},
     ],
     "anabolic-medications.html": [
-        {"@type": "Drug", "name": "Forteo", "nonproprietaryName": "teriparatide"},
-        {"@type": "Drug", "name": "Tymlos", "nonproprietaryName": "abaloparatide"},
+        {"@type": "Substance", "name": "Forteo", "alternateName": "teriparatide"},
+        {"@type": "Substance", "name": "Tymlos", "alternateName": "abaloparatide"},
     ],
 }
 
