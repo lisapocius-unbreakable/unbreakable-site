@@ -33,6 +33,8 @@ jobs:
         with:
           # Need write token to push the regenerated files back
           token: ${{ secrets.GITHUB_TOKEN }}
+          # Full history so the sitemap can use each page's real last-commit date
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5

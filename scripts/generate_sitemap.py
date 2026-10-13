@@ -15,9 +15,10 @@ If sitemap.xml does not change, the file is left untouched (no spurious commits)
 
 from __future__ import annotations
 
+import json
 import re
+import subprocess
 import sys
-from datetime import date
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -42,6 +43,72 @@ BLOG_EXCLUDES = {"index.html"}
 
 # Date regex: matches "2026-06-02" inside `"datePublished": "2026-06-02..."`
 DATE_RE = re.compile(r'"datePublished"\s*:\s*"(\d{4}-\d{2}-\d{2})')
+LD_RE = re.compile(r'<script type="application/ld\+json">(.*?)</script>', re.S)
+
+# Node types that describe the page itself (as opposed to a Book or Person
+# that happens to be embedded on the page).
+PAGE_TYPES = {"BlogPosting", "MedicalWebPage", "WebPage", "AboutPage", "FAQPage",
+              "CollectionPage", "Article"}
+
+
+def page_dates(text: str) -> dict:
+    """Return the datePublished/dateModified/lastReviewed of the page-level node."""
+    for block in LD_RE.findall(text):
+        try:
+            data = json.loads(block)
+        except Exception:
+            continue
+        stack = [data]
+        while stack:
+            n = stack.pop()
+            if isinstance(n, list):
+                stack.extend(n)
+                continue
+            if not isinstance(n, dict):
+                continue
+            t = n.get("@type")
+            types = set(t if isinstance(t, list) else [t])
+            if types & PAGE_TYPES and any(k in n for k in ("datePublished", "dateModified", "lastReviewed")):
+                return {k: str(n[k])[:10] for k in ("datePublished", "dateModified", "lastReviewed") if n.get(k)}
+            stack.extend(n.get("@graph", []) if isinstance(n.get("@graph"), list) else [])
+    return {}
+
+
+def git_date(path: Path) -> str | None:
+    """Date of the last commit that touched this file (needs full git history)."""
+    try:
+        out = subprocess.run(["git", "log", "-1", "--format=%cs", "--", str(path)],
+                             cwd=REPO_ROOT, capture_output=True, text=True, timeout=20)
+        d = out.stdout.strip()
+        return d if re.fullmatch(r"\d{4}-\d{2}-\d{2}", d) else None
+    except Exception:
+        return None
+
+
+def static_lastmod(loc: str, newest_post: str | None) -> str | None:
+    """Real last-modified date for a static page instead of today's date.
+
+    Homepage and blog index change whenever a post is added, so they use the
+    newest post date. Other pages use their own JSON-LD dateModified, then the
+    file's last git commit. If nothing is known, lastmod is omitted, which is
+    better for search engines than a date that changes every day.
+    """
+    rel = loc.replace(BASE_URL + "/", "") or "index.html"
+    if rel.endswith("/"):
+        rel += "index.html"
+    path = REPO_ROOT / rel
+    candidates = []
+    if rel in ("index.html", "blog/index.html") and newest_post:
+        candidates.append(newest_post)
+    if path.exists():
+        d = page_dates(path.read_text(encoding="utf-8"))
+        if d.get("dateModified") or d.get("datePublished"):
+            candidates.append(d.get("dateModified") or d.get("datePublished"))
+        elif rel not in ("index.html", "blog/index.html"):
+            g = git_date(path)
+            if g:
+                candidates.append(g)
+    return max(candidates) if candidates else None
 
 
 def extract_post_date(html_path: Path) -> str | None:
@@ -70,29 +137,36 @@ def collect_blog_posts() -> list[dict]:
         d = extract_post_date(html)
         if not d:
             continue
+        # lastmod = the most recent real content date: dateModified or
+        # lastReviewed when the post has been updated or medically re-reviewed.
+        pd = page_dates(html.read_text(encoding="utf-8"))
+        lastmod = max([d] + [v for k, v in pd.items() if k in ("dateModified", "lastReviewed")])
         posts.append({
             "loc": f"{BASE_URL}/blog/{html.name}",
-            "lastmod": d,
+            "published": d,
+            "lastmod": lastmod,
         })
-    # newest first
-    posts.sort(key=lambda p: p["lastmod"], reverse=True)
+    # newest first (by publication date, so the order stays stable)
+    posts.sort(key=lambda p: p["published"], reverse=True)
     return posts
 
 
 def build_sitemap() -> str:
-    today = date.today().isoformat()
     posts = collect_blog_posts()
+    newest_post = max((p["lastmod"] for p in posts), default=None)
 
     lines = [
         '<?xml version="1.0" encoding="UTF-8"?>',
         '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
     ]
 
-    # Static pages: use today's date as a reasonable "the site is alive" signal.
+    # Static pages: use each page's real last-modified date (see static_lastmod).
     for p in STATIC_PAGES:
         lines.append("  <url>")
         lines.append(f'    <loc>{p["loc"]}</loc>')
-        lines.append(f"    <lastmod>{today}</lastmod>")
+        lm = static_lastmod(p["loc"], newest_post)
+        if lm:
+            lines.append(f"    <lastmod>{lm}</lastmod>")
         lines.append(f'    <changefreq>{p["changefreq"]}</changefreq>')
         lines.append(f'    <priority>{p["priority"]}</priority>')
         lines.append("  </url>")
