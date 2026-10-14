@@ -762,7 +762,7 @@
 
         <p>Beyond the first clearance, ask for a referral to a physical therapist who specifically works with osteoporosis patients. The <a href="https://pubmed.ncbi.nlm.nih.gov/24281053/">Too Fit To Fracture consensus panel</a> recommends this for anyone at high fracture risk who is starting a new program, and I would extend that to at least one session for anyone with a fracture history, even if you have been exercising for years. Form is what makes these programs safe. A trained set of eyes on your squat, your hinge, and your posture during a loaded carry is worth more than any article I can write.</p>
 
-        <h2>When Is It Safe to Start Again</h2>
+        <h2>When Is It Safe to Exercise After a Fracture?</h2>
 
         <p>There is no single number that applies to every fracture. Doctors and physical therapists give ranges, and they let your healing and your pain, not the calendar, tell them when to move you along. Here is a reasonable frame, and all of it assumes your doctor has already given you the go-ahead.</p>
 
@@ -1485,7 +1485,7 @@
 
         <p>That framing does not feel like giving up. To me, it feels like taking the condition seriously enough to actually do something about it, for as long as it takes. Which, for osteoporosis, is the rest of your life.</p>
 
-        <p>If you are newly diagnosed and trying to understand where to start, the <a href="../faq.html">FAQ page</a> covers the most common questions I hear. And if you want a fuller picture of the medications mentioned here, the posts on <a href="bisphosphonates-explained.html">bisphosphonates</a>, <a href="anabolic-medications.html">anabolic medications</a>, and <a href="evenity-explained.html">Evenity</a> are good places to go next.</p>
+        <p>If you are newly diagnosed and trying to understand where to start, the <a href="../faq.html">FAQ page</a> covers the most common questions I hear. And if you want a fuller picture of the medications mentioned here, the posts on <a href="bisphosphonates-explained.html">bisphosphonates</a> (and, if you have already been prescribed one, <a href="bisphosphonate-tips.html">how to actually take it</a>), <a href="anabolic-medications.html">anabolic medications</a>, and <a href="evenity-explained.html">Evenity</a> are good places to go next.</p>
 
         
         
@@ -1504,13 +1504,13 @@
                     <h3 class="related-card-title">What Should Happen at Your First Osteoporosis Visit (and What to Ask If It Doesn&#x27;t)</h3>
                 </div>
             </a>
-            <a href="calcium-vit-d-study-2026.html" class="related-card">
+            <a href="asking-ai-about-osteoporosis.html" class="related-card">
                 <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-calcium-vit-d-study-2026-400.webp 400w, ../images/blog-calcium-vit-d-study-2026-800.webp 800w, ../images/blog-calcium-vit-d-study-2026-1536.webp 1536w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-calcium-vit-d-study-2026.png" alt="A woman in her fifties sitting at a sunny kitchen table reading a tablet, with supplements and fresh vegetables visible nearby" width="1536" height="1024" loading="lazy" decoding="async"></picture>
+                    <picture><source type="image/webp" srcset="../images/blog-asking-ai-400.webp 400w, ../images/blog-asking-ai-800.webp 800w, ../images/blog-asking-ai-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-asking-ai.png" alt="Older woman in glasses at a sunlit kitchen table reading her laptop with a thoughtful, slightly skeptical expression, notebook and mug beside her" width="1749" height="899" loading="lazy" decoding="async"></picture>
                 </div>
                 <div class="related-card-body">
-                    <span class="related-card-tag">Recent Developments</span>
-                    <h3 class="related-card-title">What That New Calcium and Vitamin D Study Actually Means If You Have Osteoporosis</h3>
+                    <span class="related-card-tag">AI &amp; Patient Tools</span>
+                    <h3 class="related-card-title">How to Ask an AI About Your Osteoporosis Questions (Without Getting Burned)</h3>
                 </div>
             </a>
             <a href="dexa-tbs-vfa.html" class="related-card">
@@ -1620,13 +1620,13 @@
                     <h3 class="related-card-title">Beyond the T-Score: What TBS and VFA on Your DEXA Report Really Mean</h3>
                 </div>
             </a>
-            <a href="can-osteoporosis-be-reversed.html" class="related-card">
+            <a href="asking-ai-about-osteoporosis.html" class="related-card">
                 <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-can-osteoporosis-be-reversed-400.webp 400w, ../images/blog-can-osteoporosis-be-reversed-800.webp 800w, ../images/blog-can-osteoporosis-be-reversed-1536.webp 1536w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-can-osteoporosis-be-reversed.png" alt="A woman in her late sixties with silver hair sits at a bright kitchen table writing in a notebook, morning light coming through a window" width="1536" height="1024" loading="lazy" decoding="async"></picture>
+                    <picture><source type="image/webp" srcset="../images/blog-asking-ai-400.webp 400w, ../images/blog-asking-ai-800.webp 800w, ../images/blog-asking-ai-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-asking-ai.png" alt="Older woman in glasses at a sunlit kitchen table reading her laptop with a thoughtful, slightly skeptical expression, notebook and mug beside her" width="1749" height="899" loading="lazy" decoding="async"></picture>
                 </div>
                 <div class="related-card-body">
-                    <span class="related-card-tag">Patient Education</span>
-                    <h3 class="related-card-title">Can Osteoporosis Be Reversed?</h3>
+                    <span class="related-card-tag">AI &amp; Patient Tools</span>
+                    <h3 class="related-card-title">How to Ask an AI About Your Osteoporosis Questions (Without Getting Burned)</h3>
                 </div>
             </a>
             <a href="first-osteoporosis-visit.html" class="related-card">
@@ -1797,13 +1797,13 @@
                     <h3 class="related-card-title">Can Osteoporosis Be Reversed?</h3>
                 </div>
             </a>
-            <a href="calcium-vit-d-study-2026.html" class="related-card">
+            <a href="identity-shift.html" class="related-card">
                 <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-calcium-vit-d-study-2026-400.webp 400w, ../images/blog-calcium-vit-d-study-2026-800.webp 800w, ../images/blog-calcium-vit-d-study-2026-1536.webp 1536w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-calcium-vit-d-study-2026.png" alt="A woman in her fifties sitting at a sunny kitchen table reading a tablet, with supplements and fresh vegetables visible nearby" width="1536" height="1024" loading="lazy" decoding="async"></picture>
+                    <picture><source type="image/webp" srcset="../images/blog-identity-400.webp 400w, ../images/blog-identity-800.webp 800w, ../images/blog-identity-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-identity.png" alt="Woman sitting by window with coffee, reflecting peacefully" width="2752" height="1536" loading="lazy" decoding="async"></picture>
                 </div>
                 <div class="related-card-body">
-                    <span class="related-card-tag">Recent Developments</span>
-                    <h3 class="related-card-title">What That New Calcium and Vitamin D Study Actually Means If You Have Osteoporosis</h3>
+                    <span class="related-card-tag">Emotional</span>
+                    <h3 class="related-card-title">When Osteoporosis Changes How You See Yourself</h3>
                 </div>
             </a>
             <a href="dexa-tbs-vfa.html" class="related-card">
@@ -1983,7 +1983,7 @@
     <published>2026-06-02T00:00:00Z</published>
     <category term="AI &amp;amp; Patient Tools" />
     <summary>A physician's guide to using AI for osteoporosis questions: how to spot training-data vs. real-time answers, why sources matter, and 5 rules to follow.</summary>
-    <content type="html"><![CDATA[<p>A patient asked me recently if it was safe to ask ChatGPT for advice about her new bisphosphonate prescription. She had a long list of questions, her appointment was three weeks away, and she wanted something to do in the meantime.</p>
+    <content type="html"><![CDATA[<p>Someone asked me recently if it was safe to ask ChatGPT for advice about her <a href="bisphosphonate-tips.html">new bisphosphonate prescription</a>. She had a long list of questions, her appointment was three weeks away, and she wanted something to do in the meantime.</p>
 
         <p>It is a fair question, and one I think more of us should be asking out loud.</p>
 
@@ -2480,7 +2480,7 @@
 
         <p>The clearest evidence comes from sequential therapy studies. Women who completed a year of Evenity and then transitioned to either denosumab or a bisphosphonate continued to gain bone density and had fewer fractures over the following years compared to women who never received the anabolic agent (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8567484/">Romosozumab Followed by Antiresorptive Treatment, PMC</a>). A 2024 meta-analysis confirmed that this anabolic-first, antiresorptive-second sequence significantly reduces fractures of the spine, hip, and other major sites (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11036926/">sequential antifracturative treatment meta-analysis, PMC</a>).</p>
 
-        <p>The standard sequence is twelve months of Evenity, then a transition to either a bisphosphonate (oral or IV) or denosumab. The transition should not be delayed. Without the follow-up, the gains erode quickly, and the year of treatment loses much of its value.</p>
+        <p>The standard sequence is twelve months of Evenity, then a transition to either a bisphosphonate (oral or IV) or denosumab. The transition should not be delayed. Without the follow-up, the gains erode quickly, and the year of treatment loses much of its value. If your follow-on is an oral bisphosphonate, I put together <a href="bisphosphonate-tips.html">the practical tips that make the weekly routine livable</a>.</p>
 
         <h2>Who Is a Good Candidate</h2>
 
@@ -2995,7 +2995,7 @@
 
         <p>Your doctor will likely recommend a bone density scan after a year or two to check progress. That feedback can be motivating. In the meantime, the consistency matters more than anything else.</p>
 
-        <h2>The Bottom Line</h2>
+        <h2>The Best Medication Is the One You Take</h2>
 
 
         <p>Bisphosphonates are not the most user-friendly medications. I get it. But with a few adjustments to your morning routine, they become manageable. And the fracture protection they provide is real and meaningful.</p>
@@ -3412,7 +3412,7 @@
 
         <h2>Taking Them Correctly Matters</h2>
 
-        <p>Oral bisphosphonates can irritate the esophagus, which is why the instructions sound so specific. Take the pill first thing in the morning on an empty stomach with a full glass of plain water (not coffee, not juice, not sparkling water). Stay upright for at least 30 minutes afterward and don't eat or drink anything else during that time.</p>
+        <p>Oral bisphosphonates can irritate the esophagus, which is why the instructions sound so specific. Take the pill first thing in the morning on an empty stomach with a full glass of plain water (not coffee, not juice, not sparkling water). Stay upright for at least 30 minutes afterward and don't eat or drink anything else during that time. If you're already on one and struggling to fit the routine into your morning, I put together <a href="bisphosphonate-tips.html">the practical tips that make it livable</a> in a separate post.</p>
 
         <p>It requires a small restructuring of your morning routine. But the reason for these rules is practical: food and other beverages dramatically reduce absorption, and lying down can cause the pill to sit in your esophagus and irritate the tissue. Follow the instructions, and side effects are far less likely.</p>
 
@@ -3517,7 +3517,7 @@
 
         <p>One advantage resistance training has over weight-bearing cardio: it can specifically target the bones most vulnerable to osteoporotic fracture. Exercises for the upper back, hips, and wrists directly load the skeletal sites where fractures are most common. Walking is wonderful, but it primarily loads your legs and hips. Resistance training lets you protect your spine and wrists too.</p>
 
-        <h2>They're Complementary, Not Competing</h2>
+        <h2>Which One Is Better for Your Bones?</h2>
 
         <p>The short answer to "which one is better?" is that you need both. Weight-bearing exercise provides the ground-reaction forces and overall skeletal loading that maintain bone density throughout your lower body. Resistance training adds targeted loading to specific vulnerable bones and builds the muscle strength that keeps you steady on your feet.</p>
 
