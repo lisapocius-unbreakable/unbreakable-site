@@ -48,6 +48,9 @@
       content_name: 'Calcium Protein Cheat Sheet',
       content_category: 'Freebie'
     });
+    // Meta blocks the standard Lead event on health sites, so also send a
+    // plain custom event (no parameters) that Meta can optimize ads toward.
+    if (typeof fbq === 'function') fbq('trackCustom', 'CheatSheetSignup');
     ga('sign_up', {
       method: 'kit_form',
       content_name: 'Calcium Protein Cheat Sheet',
