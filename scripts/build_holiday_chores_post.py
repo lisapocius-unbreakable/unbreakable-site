@@ -30,7 +30,7 @@ BODIES = REPO / "scripts/november-bodies"
 POSTS = [
     dict(
         slug="holiday-chores-lifting-osteoporosis",
-        hero_pos="12%",
+        hero_pos="25%",
         date="2026-11-10",
         reviewed="2026-11-06",
         section="Exercise",
@@ -39,7 +39,7 @@ POSTS = [
         title="Holiday Chores With Osteoporosis: Lift and Bend Safely",
         meta="Turkey pans, heavy pots, high cabinets, decoration bins, and grocery bags. How to handle holiday chores with osteoporosis, and when back pain needs a call.",
         blurb="The holidays bring the heaviest housework of the year. How to handle the turkey pan, heavy pots, high cabinets, vacuuming, decoration bins, and grocery bags with osteoporosis, what to make of the 10-pound rule, and when back pain after lifting needs a call.",
-        alt="A smiling woman with silver hair, wearing oven mitts, stands upright as she slides a roasting pan with a turkey from a waist-high wall oven toward the counter, while a younger man sets out serving dishes in the background",
+        alt="A smiling young man in oven mitts slides a roasting pan with a turkey out of a waist-high wall oven, keeping it close to his body, while his silver-haired mother stands beside him with her hands clasped, watching gratefully",
         about=["Osteoporosis", "Safe lifting", "Vertebral fracture", "Fall prevention", "Body mechanics"],
         disclaimer="This blog post is for educational purposes only and isn't intended as medical advice. Always consult with your healthcare provider or a physical therapist about what's safe for you to lift, especially if you've had a spine fracture.",
         related=["squats-lifting-bending-osteoporosis.html", "fall-proofing-whole-house.html", "exercise-after-fracture.html"],
