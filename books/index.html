@@ -27,7 +27,7 @@
       <!-- End Meta Pixel Code -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Every place to buy or listen to Osteoporosis: The Book I Wish I'd Had When I Was Diagnosed by Lisa Pocius, MD, including a discounted paperback ordered directly from the author.">
+    <meta name="description" content="Every store and format for the books by Lisa Pocius, MD: the osteoporosis patient guide and the new illustrated 12-week exercise program for beginners.">
     <title>Where to Buy My Books | Lisa Pocius, MD</title>
 
     <script type="application/ld+json">
@@ -37,7 +37,7 @@
       "@id": "https://mybone.health/books/#page",
       "url": "https://mybone.health/books/",
       "name": "Where to Buy My Books",
-      "description": "Every place to buy or listen to Osteoporosis: The Book I Wish I'd Had When I Was Diagnosed by Lisa Pocius, MD, including a discounted paperback ordered directly from the author.",
+      "description": "Every store and format for the books by Lisa Pocius, MD: the osteoporosis patient guide and the new illustrated 12-week exercise program for beginners.",
       "inLanguage": "en",
       "isPartOf": { "@id": "https://mybone.health/#website" },
       "primaryImageOfPage": "https://mybone.health/images/book-cover.png",
@@ -71,6 +71,37 @@
                 }
               ]
             }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@type": "Book",
+              "@id": "https://mybone.health/books/osteoporosis-exercises-for-beginners/#book",
+              "name": "Osteoporosis Exercises for Beginners: A Safe, Illustrated 12-Week Program You Can Do at Home",
+              "url": "https://mybone.health/books/osteoporosis-exercises-for-beginners/",
+              "author": { "@id": "https://mybone.health/#lisa-pocius" },
+              "image": "https://mybone.health/images/exercise-book-cover.jpg",
+              "workExample": [
+                {
+                  "@type": "Book",
+                  "isbn": "979-8-9955646-4-5",
+                  "bookFormat": "https://schema.org/Paperback"
+                },
+                {
+                  "@type": "Book",
+                  "isbn": "979-8-9955646-5-2",
+                  "bookFormat": "https://schema.org/EBook",
+                  "offers": {
+                    "@type": "Offer",
+                    "price": "7.99",
+                    "priceCurrency": "USD",
+                    "url": "https://www.amazon.com/dp/B0HPMLLXGR",
+                    "availability": "https://schema.org/InStock"
+                  }
+                }
+              ]
+            }
           }
         ]
       }
@@ -82,13 +113,13 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="mybone.health">
     <meta property="og:title" content="Where to Buy My Books">
-    <meta property="og:description" content="Every place to buy or listen to Osteoporosis: The Book I Wish I'd Had When I Was Diagnosed by Lisa Pocius, MD, including a discounted paperback ordered directly from the author.">
+    <meta property="og:description" content="Every store and format for the books by Lisa Pocius, MD: the osteoporosis patient guide and the new illustrated 12-week exercise program for beginners.">
     <meta property="og:url" content="https://mybone.health/books/">
     <meta property="og:image" content="https://mybone.health/images/book-cover.png">
     <meta property="og:locale" content="en_US">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Where to Buy My Books">
-    <meta name="twitter:description" content="Every place to buy or listen to Osteoporosis: The Book I Wish I'd Had When I Was Diagnosed by Lisa Pocius, MD, including a discounted paperback ordered directly from the author.">
+    <meta name="twitter:description" content="Every store and format for the books by Lisa Pocius, MD: the osteoporosis patient guide and the new illustrated 12-week exercise program for beginners.">
     <meta name="twitter:image" content="https://mybone.health/images/book-cover.png">
 
     <!-- Fonts -->
@@ -571,6 +602,8 @@
         .store-btn { display: inline-block; padding: 0.7rem 1.3rem; border: 2px solid var(--navy); border-radius: 6px; color: var(--navy); font-weight: 600; text-decoration: none; background: #fff; transition: background 0.2s; }
         .store-btn:hover { background: var(--sky); }
         .store-note { font-size: 0.93rem; color: var(--text-muted); margin-top: 0.6rem; }
+        .companion-line { font-size: 0.98rem; margin: 0; }
+        .companion-line a, .book-card p a:not(.store-btn):not(.btn) { color: var(--navy-light); font-weight: 600; }
         .listen-hero-inner.single { grid-template-columns: 1fr; max-width: 860px; }
         /* No announcement banner on this page, so undo its offsets. */
         nav { top: 0 !important; }
@@ -652,12 +685,43 @@
                         </div>
                         <p class="store-note">The audiobook is narrated by a digital clone of my own voice, and it comes with a companion PDF of the book's tables and illustrations.</p>
                     </div>
+
+                    <p class="companion-line">Ready to start moving? My new book, <a href="osteoporosis-exercises-for-beginners/">Osteoporosis Exercises for Beginners</a>, is the exercise companion to this one.</p>
                 </div>
             </div>
         </div>
     </section>
 
-    <!-- Book 2 (Osteoporosis Exercises for Beginners) goes here once it's live in stores. -->
+    <!-- Book 2 -->
+    <section class="band band-warm" id="exercise-book">
+        <div class="wrap">
+            <div class="book-card">
+                <div class="cover">
+                    <a href="osteoporosis-exercises-for-beginners/"><picture><source type="image/webp" srcset="../images/exercise-book-cover-400.webp 400w, ../images/exercise-book-cover-800.webp 800w" sizes="(max-width: 760px) 200px, 240px"><img src="../images/exercise-book-cover.jpg" alt="Cover of Osteoporosis Exercises for Beginners by Lisa Pocius, MD" width="1080" height="1728" loading="lazy" decoding="async"></picture></a>
+                </div>
+                <div>
+                    <h2>Osteoporosis Exercises for Beginners</h2>
+                    <p class="formats">A safe, illustrated 12-week program you can do at home. Kindle ebook now, paperback coming soon.</p>
+                    <p>40 illustrated exercises for strength, posture, balance, and safe impact, with a no-floor version of every floor exercise. All you need is a sturdy chair, a wall, and a kitchen counter. <a href="osteoporosis-exercises-for-beginners/">More about this book</a></p>
+
+                    <div class="buy-group">
+                        <h3>Buy the book</h3>
+                        <div class="store-row">
+                            <a href="https://www.amazon.com/dp/B0HPMLLXGR" class="store-btn" target="_blank" rel="noopener" data-store="amazon-kindle" data-book="exercises">Kindle ebook on Amazon</a>
+                            <!-- PAPERBACK (Amazon): goes live Nov 11. Replace PAPERBACK_ASIN, then uncomment.
+                            <a href="https://www.amazon.com/dp/PAPERBACK_ASIN" class="store-btn" target="_blank" rel="noopener" data-store="amazon" data-book="exercises">Paperback on Amazon</a>
+                            -->
+                            <!-- INGRAMSPARK: link TBD. Replace INGRAM_URL, then uncomment.
+                            <a href="INGRAM_URL" class="store-btn" target="_blank" rel="noopener" data-store="direct-ingram" data-book="exercises">Order the paperback from me</a>
+                            -->
+                        </div>
+                        <p class="store-note">The Kindle ebook is $7.99. The paperback ($14.95) will be on Amazon soon.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
 
     <!-- Author strip -->
     <section class="author-strip">
