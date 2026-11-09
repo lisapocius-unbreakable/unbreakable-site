@@ -32,7 +32,7 @@ POSTS = [
         hero_pos="45%",
         date="2026-12-15",
         reviewed="2026-11-09",
-        section="Research News",
+        section="Recent Developments",
         h1="Stem Cells for Osteoporosis: What the New Study Shows, and Why You Shouldn't Wait",
         seo="Stem Cells for Osteoporosis: What the New Study Shows, and Why You Shouldn't Wait",
         title="Stem Cells for Osteoporosis: What the Study Shows",
@@ -45,7 +45,7 @@ POSTS = [
         inbound=[
             ("blog/prolia-denosumab-explained.html",
              "with nineteen months being the average timing.",
-             '<p>That rebound turned up in a small 2026 stem-cell study, too. The only fracture after treatment came in a woman who had missed her next Prolia shot, which I cover in <a href="stem-cell-osteoporosis-study-2026.html">what the stem-cell study shows</a>.</p>'),
+             '<p>A small 2026 stem-cell study may have seen that rebound, too. The only fracture after treatment came in a woman who had missed her next Prolia shot, which I cover in <a href="stem-cell-osteoporosis-study-2026.html">what the stem-cell study shows</a>.</p>'),
             ("blog/can-osteoporosis-be-reversed.html",
              "It is something you manage, consistently, over the long arc of your life.",
              '<p>If you\'ve seen recent headlines about a stem-cell treatment that rebuilds bone, I looked at <a href="stem-cell-osteoporosis-study-2026.html">what that 2026 study actually showed</a>. It\'s promising early research, and it isn\'t a reason to put off a treatment that works now.</p>'),
