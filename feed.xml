@@ -329,7 +329,7 @@
 
         <h2>Testing in Men</h2>
 
-        <p>Testing works the same way it does for women. A DEXA scan of the spine and hips measures bone density. FRAX, the fracture risk calculator, works for men too, and the 2024 guideline recommends it as the main tool for deciding who needs treatment. My post on <a href="frax-score-explained.html">FRAX and FRAX-plus</a> explains how it works.</p>
+        <p>Testing works the same way it does for women. A DEXA scan of the spine and hips measures bone density. FRAX, the fracture risk calculator, works for men too, and the 2024 guideline recommends it as the main tool for deciding who needs treatment. My post on <a href="frax-score-explained.html">FRAX and FRAXplus</a> explains how it works.</p>
 
         <p>Your doctor should also look for other causes. Both the Endocrine Society and the 2024 guideline recommend checking testosterone as part of the workup, along with basic blood tests like vitamin D, calcium, and kidney function. If a man might have spine fractures he doesn't know about, a quick extra scan called VFA can check during the same DEXA visit. I explain it in my post on <a href="dexa-tbs-vfa.html">TBS and VFA</a>.</p>
 
@@ -382,7 +382,7 @@
 
         <p>The good news is that protection works. The same guideline found high-certainty evidence that oral bisphosphonates, the most common osteoporosis pills, prevent spine fractures in people taking steroids. If you're on a steroid for months, ask your doctor whether your bones have been checked.</p>
 
-        <p>One more thing about steroids. The standard FRAX calculator only asks whether you take them, not how much. My post on <a href="frax-score-explained.html">FRAX and FRAX-plus</a> explains why that can underestimate risk at higher doses.</p>
+        <p>One more thing about steroids. The standard FRAX calculator only asks whether you take them, not how much. My post on <a href="frax-score-explained.html">FRAX and FRAXplus</a> explains why that can underestimate risk at higher doses.</p>
 
         <h2>Hormone-Blocking Cancer Treatments</h2>
 
@@ -1145,12 +1145,12 @@
 <!-- mbh:body:end -->]]></content:encoded>
     </item>
     <item>
-      <title>FRAX vs FRAX-plus: A Physician's Guide to Your Score</title>
+      <title>FRAXplus vs FRAX: A Physician's Guide to Your Score</title>
       <link>https://mybone.health/blog/frax-score-explained.html</link>
       <guid isPermaLink="true">https://mybone.health/blog/frax-score-explained.html</guid>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
       <category>Diagnosis, tests and risk</category>
-      <description>FRAX-plus is the newer fracture-risk tool your doctor may mention. What it adds to the original FRAX, and how to read your 10-year risk score.</description>
+      <description>What FRAXplus adds to the original FRAX score, how to run standard FRAX yourself for free, and when to ask your doctor about a FRAXplus adjustment.</description>
       <content:encoded><![CDATA[<!-- mbh:body:start -->
         <p>Your T-score describes what your bones look like right now. Your FRAX score tries to answer a different question: what is likely to happen over the next ten years. Those are not the same thing, and in most treatment conversations, the second question is the one that actually decides what happens next.</p>
 
@@ -1214,9 +1214,9 @@
 
         <p>Every one of those gaps pushes in the same direction. When FRAX is wrong about someone, it's usually wrong by underestimating.</p>
 
-        <h2>Where FRAX-plus Comes In</h2>
+        <h2>Where FRAXplus Comes In</h2>
 
-        <p>FRAX-plus, written FRAXplus, is a newer layer built on top of the same calculation. It lets a doctor take the standard FRAX result and adjust it for one specific factor the basic tool couldn't account for. The available adjustments are (<a href="https://www.fraxplus.org/frax-plus">FRAXplus, University of Sheffield</a>):</p>
+        <p>FRAXplus is a newer layer built on top of the same calculation. It lets a doctor take the standard FRAX result and adjust it for one specific factor the basic tool couldn't account for. The available adjustments are (<a href="https://www.fraxplus.org/frax-plus">FRAXplus, University of Sheffield</a>):</p>
 
         <ul>
             <li>Recency of a prior osteoporotic fracture</li>
