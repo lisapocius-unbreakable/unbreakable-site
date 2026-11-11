@@ -16,9 +16,10 @@
     <id>https://mybone.health/blog/holiday-chores-lifting-osteoporosis.html</id>
     <updated>2026-11-10T00:00:00Z</updated>
     <published>2026-11-10T00:00:00Z</published>
-    <category term="Exercise" />
+    <category term="Falls, safety and everyday life" />
     <summary>Turkey pans, heavy pots, high cabinets, decoration bins, and grocery bags. How to handle holiday chores with osteoporosis, and when back pain needs a call.</summary>
-    <content type="html"><![CDATA[<p>The holidays are hard on backs. In a normal week, most of us lift a bag of groceries and maybe a laundry basket. Then late November arrives, and suddenly there's a heavy roasting pan going in and out of the oven, a big platter hiding in the cabinet over the refrigerator, and bins of decorations waiting in the basement. It's the heaviest housework of the year, packed into a few weeks and often done in a hurry.</p>
+    <content type="html"><![CDATA[<!-- mbh:body:start -->
+        <p>The holidays are hard on backs. In a normal week, most of us lift a bag of groceries and maybe a laundry basket. Then late November arrives, and suddenly there's a heavy roasting pan going in and out of the oven, a big platter hiding in the cabinet over the refrigerator, and bins of decorations waiting in the basement. It's the heaviest housework of the year, packed into a few weeks and often done in a hurry.</p>
 
         <p>None of that means you should sit the season out. Heavy housework, gardening, and carrying shopping are everyday activities that can <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9304091/" target="_blank" rel="noopener noreferrer">help build muscle strength</a>, as long as you avoid bending all the way forward over and over. The goal is to do these jobs in a way your spine can handle, and to know which ones to hand off.</p>
 
@@ -163,41 +164,8 @@
 
         <p>You'll still be the one who made it all happen.</p>
 
-        <!-- Ask Lisa: reader question form -->
-
-        <!-- Related Posts -->
-        <aside class="related-posts" aria-label="Related posts">
-            <h2 class="related-heading">Keep reading</h2>
-            <div class="related-grid">
-            <a href="squats-lifting-bending-osteoporosis.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-squats-lifting-bending-osteoporosis-400.webp 400w, ../images/blog-squats-lifting-bending-osteoporosis-800.webp 800w, ../images/blog-squats-lifting-bending-osteoporosis-1536.webp 1536w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-squats-lifting-bending-osteoporosis.png" alt="A woman in her sixties with silver hair doing a controlled chair squat in a bright living room, hips pushed back toward a wooden chair with her back long and arms reaching forward" width="1536" height="1024" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Exercise</span>
-                    <h4 class="related-card-title">Can I Do Squats With Osteoporosis? Lifting, Bending, and Twisting Safely</h4>
-                </div>
-            </a>
-            <a href="fall-proofing-whole-house.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-fall-proofing-whole-house-400.webp 400w, ../images/blog-fall-proofing-whole-house-800.webp 800w, ../images/blog-fall-proofing-whole-house-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-fall-proofing-whole-house.png" alt="A warmly lit modern home interior showing low-pile carpet transitioning to wood flooring, a staircase with a sturdy handrail, a curbless walk-in shower visible through a doorway, and a pair of supportive house shoes by the door" width="1672" height="941" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Fall Prevention</span>
-                    <h4 class="related-card-title">Fall-Proofing Isn't Just for Seniors: A Whole-House Guide</h4>
-                </div>
-            </a>
-            <a href="exercise-after-fracture.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-exercise-after-fracture-400.webp 400w, ../images/blog-exercise-after-fracture-800.webp 800w, ../images/blog-exercise-after-fracture-1536.webp 1536w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-exercise-after-fracture.png" alt="A woman in her sixties performing a modified wall-supported squat in a bright gym with a physical therapist standing nearby for form guidance" width="1536" height="1024" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Exercise</span>
-                    <h4 class="related-card-title">Exercise After a Fracture: How to Modify Safely</h4>
-                </div>
-            </a>
-            </div>
-        </aside>]]></content>
+        
+<!-- mbh:body:end -->]]></content>
     <author>
       <name>Lisa Pocius, MD</name>
       <email>lisa.pocius@gmail.com</email>
@@ -209,9 +177,10 @@
     <id>https://mybone.health/blog/first-30-days-osteoporosis.html</id>
     <updated>2026-10-27T00:00:00Z</updated>
     <published>2026-10-27T00:00:00Z</published>
-    <category term="Patient Education" />
+    <category term="Diagnosis, tests and risk" />
     <summary>Just diagnosed with osteoporosis? A week-by-week plan for your first month: get your numbers, make your home safer, prepare for your visit, build your team.</summary>
-    <content type="html"><![CDATA[<p>Maybe it was a phone call from your doctor's office. Maybe it was a message in your patient portal, with a T-score and a word you'd been hoping not to see. However it arrived, you now have a diagnosis of osteoporosis, and a question that people type into search engines every day: now what?</p>
+    <content type="html"><![CDATA[<!-- mbh:body:start -->
+        <p>Maybe it was a phone call from your doctor's office. Maybe it was a message in your patient portal, with a T-score and a word you'd been hoping not to see. However it arrived, you now have a diagnosis of osteoporosis, and a question that people type into search engines every day: now what?</p>
 
         <p>I've been there, though I came at it from a harder direction. My diagnosis came after spine fractures, not a routine scan. What I wanted most in those early weeks was a sense of order. What should I do first? What could wait?</p>
 
@@ -299,41 +268,8 @@
 
         <p>Managing osteoporosis is a long project. The first 30 days won't solve everything, and they don't have to. They lay the foundation for everything that comes after. Be patient with yourself, and keep going one step at a time.</p>
 
-        <!-- Ask Lisa: reader question form -->
-
-        <!-- Related Posts -->
-        <aside class="related-posts" aria-label="Related posts">
-            <h2 class="related-heading">Keep reading</h2>
-            <div class="related-grid">
-            <a href="first-osteoporosis-visit.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-first-osteoporosis-visit-400.webp 400w, ../images/blog-first-osteoporosis-visit-800.webp 800w, ../images/blog-first-osteoporosis-visit-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-first-osteoporosis-visit.png" alt="An older Black woman with silver and black hair, wearing a teal cardigan, sitting across from her physician in a sunlit exam room as they review her DEXA report together" width="1672" height="941" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Self-Advocacy</span>
-                    <h4 class="related-card-title">What Should Happen at Your First Osteoporosis Visit (and What to Ask If It Doesn't)</h4>
-                </div>
-            </a>
-            <a href="identity-shift.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-identity-400.webp 400w, ../images/blog-identity-800.webp 800w, ../images/blog-identity-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-identity.png" alt="Reflective woman by a window" width="2752" height="1536" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Emotional</span>
-                    <h4 class="related-card-title">When Osteoporosis Changes How You See Yourself</h4>
-                </div>
-            </a>
-            <a href="fall-proofing-whole-house.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-fall-proofing-whole-house-400.webp 400w, ../images/blog-fall-proofing-whole-house-800.webp 800w, ../images/blog-fall-proofing-whole-house-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-fall-proofing-whole-house.png" alt="A warmly lit modern home interior showing low-pile carpet transitioning to wood flooring, a staircase with a sturdy handrail, a curbless walk-in shower visible through a doorway, and a pair of supportive house shoes by the door" width="1672" height="941" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Fall Prevention</span>
-                    <h4 class="related-card-title">Fall-Proofing Isn't Just for Seniors: A Whole-House Guide</h4>
-                </div>
-            </a>
-            </div>
-        </aside>]]></content>
+        
+<!-- mbh:body:end -->]]></content>
     <author>
       <name>Lisa Pocius, MD</name>
       <email>lisa.pocius@gmail.com</email>
@@ -345,9 +281,10 @@
     <id>https://mybone.health/blog/osteoporosis-in-men.html</id>
     <updated>2026-10-20T00:00:00Z</updated>
     <published>2026-10-20T00:00:00Z</published>
-    <category term="Patient Education" />
+    <category term="Diagnosis, tests and risk" />
     <summary>About one in five men over 50 will break a bone from osteoporosis, yet few are tested. Risk factors, when men should be screened, and treatments for men.</summary>
-    <content type="html"><![CDATA[<p>Most of the people who read this blog are women, and most of what I write assumes that. This post is different. It's for the men in your life: your husband, your brother, your father, the neighbor who just broke his wrist slipping on the ice. If one of them comes to mind as you read, please send it to him.</p>
+    <content type="html"><![CDATA[<!-- mbh:body:start -->
+        <p>Most of the people who read this blog are women, and most of what I write assumes that. This post is different. It's for the men in your life: your husband, your brother, your father, the neighbor who just broke his wrist slipping on the ice. If one of them comes to mind as you read, please send it to him.</p>
 
         <p>Osteoporosis is often thought of as a women's disease. It isn't. Men do get it less often than women. They're also much less likely to be diagnosed, and they tend to do worse once a fracture happens.</p>
 
@@ -429,41 +366,8 @@
 
         <p>You can be the reason a man gets tested before his first fracture rather than after it.</p>
 
-        <!-- Ask Lisa: reader question form -->
-
-        <!-- Related Posts -->
-        <aside class="related-posts" aria-label="Related posts">
-            <h2 class="related-heading">Keep reading</h2>
-            <div class="related-grid">
-            <a href="medications-that-weaken-bone.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-medications-that-weaken-bone-400.webp 400w, ../images/blog-medications-that-weaken-bone-800.webp 800w, ../images/blog-medications-that-weaken-bone-1536.webp 1536w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-medications-that-weaken-bone.png" alt="Amber prescription bottles and a weekly pill organizer on a kitchen counter beside a handwritten medication list and reading glasses" width="1536" height="1024" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Medication</span>
-                    <h4 class="related-card-title">Medications That Can Quietly Weaken Your Bones</h4>
-                </div>
-            </a>
-            <a href="frax-score-explained.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-frax-score-explained-400.webp 400w, ../images/blog-frax-score-explained-800.webp 800w, ../images/blog-frax-score-explained-1200.webp 1200w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-frax-score-explained.png" alt="A view through an open doorway into a bone density scanning room where a woman in her sixties lies on the DXA table while a technologist works at a nearby monitor" width="1200" height="671" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Self-Advocacy</span>
-                    <h4 class="related-card-title">Your FRAX Score: What It Means and When to Ask About FRAX-plus</h4>
-                </div>
-            </a>
-            <a href="osteoporosis-injections-compared.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-osteoporosis-injections-compared-400.webp 400w, ../images/blog-osteoporosis-injections-compared-800.webp 800w, ../images/blog-osteoporosis-injections-compared-1536.webp 1536w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-osteoporosis-injections-compared.png" alt="An infusion bottle with tubing, a prefilled syringe, and two injection pens on a wood counter in a bright exam room" width="1536" height="1024" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Medication</span>
-                    <h4 class="related-card-title">Osteoporosis Injections Compared: Prolia, Reclast, Forteo, Tymlos, and Evenity</h4>
-                </div>
-            </a>
-            </div>
-        </aside>]]></content>
+        
+<!-- mbh:body:end -->]]></content>
     <author>
       <name>Lisa Pocius, MD</name>
       <email>lisa.pocius@gmail.com</email>
@@ -475,9 +379,10 @@
     <id>https://mybone.health/blog/medications-that-weaken-bone.html</id>
     <updated>2026-10-13T00:00:00Z</updated>
     <published>2026-10-13T00:00:00Z</published>
-    <category term="Medication" />
+    <category term="Medicines and treatments" />
     <summary>Steroids, some cancer drugs, acid reflux pills, and too much thyroid hormone can weaken bone. What the evidence shows, and why not to stop on your own.</summary>
-    <content type="html"><![CDATA[<p>After my own diagnosis, I had to take an honest inventory of everything that might be working against my bones. In my book I call the things that quietly cost you bone "hidden thieves," and some of the most common ones come from the pharmacy.</p>
+    <content type="html"><![CDATA[<!-- mbh:body:start -->
+        <p>After my own diagnosis, I had to take an honest inventory of everything that might be working against my bones. In my book I call the things that quietly cost you bone "hidden thieves," and some of the most common ones come from the pharmacy.</p>
 
         <p>This post walks through the medications with the best evidence for weakening bone or raising fracture risk. I've written separately about <a href="fall-risk-medications.html">medications that increase your fall risk</a>. That's a different list with some overlap, and both are worth reviewing with your doctor.</p>
 
@@ -563,41 +468,8 @@
             <a href="https://www.amazon.com/dp/B0GZ271ZWC" target="_blank" rel="noopener" class="book-cta-link">Get the book on Amazon</a>
         </aside>
 
-        <!-- Ask Lisa: reader question form -->
-
-        <!-- Related Posts -->
-        <aside class="related-posts" aria-label="Related posts">
-            <h2 class="related-heading">Keep reading</h2>
-            <div class="related-grid">
-            <a href="fall-risk-medications.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-fall-risk-meds-400.webp 400w, ../images/blog-fall-risk-meds-800.webp 800w, ../images/blog-fall-risk-meds-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-fall-risk-meds.png" alt="Medication bottles on a kitchen counter" width="2752" height="1536" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Fall Prevention</span>
-                    <h4 class="related-card-title">The Medications That Might Be Increasing Your Fall Risk</h4>
-                </div>
-            </a>
-            <a href="first-osteoporosis-visit.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-first-osteoporosis-visit-400.webp 400w, ../images/blog-first-osteoporosis-visit-800.webp 800w, ../images/blog-first-osteoporosis-visit-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-first-osteoporosis-visit.png" alt="An older Black woman with silver and black hair, wearing a teal cardigan, sitting across from her physician in a sunlit exam room as they review her DEXA report together" width="1672" height="941" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Self-Advocacy</span>
-                    <h4 class="related-card-title">What Should Happen at Your First Osteoporosis Visit (and What to Ask If It Doesn't)</h4>
-                </div>
-            </a>
-            <a href="frax-score-explained.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-frax-score-explained-400.webp 400w, ../images/blog-frax-score-explained-800.webp 800w, ../images/blog-frax-score-explained-1200.webp 1200w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-frax-score-explained.png" alt="A view through an open doorway into a bone density scanning room where a woman in her sixties lies on the DXA table while a technologist works at a nearby monitor" width="1200" height="671" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Self-Advocacy</span>
-                    <h4 class="related-card-title">Your FRAX Score: What It Means and When to Ask About FRAX-plus</h4>
-                </div>
-            </a>
-            </div>
-        </aside>]]></content>
+        
+<!-- mbh:body:end -->]]></content>
     <author>
       <name>Lisa Pocius, MD</name>
       <email>lisa.pocius@gmail.com</email>
@@ -609,9 +481,10 @@
     <id>https://mybone.health/blog/squats-lifting-bending-osteoporosis.html</id>
     <updated>2026-10-06T00:00:00Z</updated>
     <published>2026-10-06T00:00:00Z</published>
-    <category term="Exercise" />
+    <category term="Exercise and movement" />
     <summary>Squats, lifting, and gardening are usually safe with osteoporosis. The one movement to avoid, how to do a hip hinge, and when to see a physical therapist.</summary>
-    <content type="html"><![CDATA[<p>Can I still do squats? Can I pick up my grandson? Is gardening off the table now? Should I give up golf?</p>
+    <content type="html"><![CDATA[<!-- mbh:body:start -->
+        <p>Can I still do squats? Can I pick up my grandson? Is gardening off the table now? Should I give up golf?</p>
 
         <p>These are some of the most common questions people ask after an osteoporosis diagnosis, and they show up in search data for this site week after week. I understand why. After my own spine fractures, I had the same questions. I remember holding a two-pound dumbbell and honestly not knowing whether lifting it would help my bones or break another one.</p>
 
@@ -740,41 +613,8 @@
             <a href="https://www.amazon.com/dp/B0GZ271ZWC" target="_blank" rel="noopener" class="book-cta-link">Get the book on Amazon</a>
         </aside>
 
-        <!-- Ask Lisa: reader question form -->
-
-        <!-- Related Posts -->
-        <aside class="related-posts" aria-label="Related posts">
-            <h2 class="related-heading">Keep reading</h2>
-            <div class="related-grid">
-            <a href="exercise-after-fracture.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-exercise-after-fracture-400.webp 400w, ../images/blog-exercise-after-fracture-800.webp 800w, ../images/blog-exercise-after-fracture-1536.webp 1536w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-exercise-after-fracture.png" alt="A woman in her sixties performing a modified wall-supported squat in a bright gym with a physical therapist standing nearby for form guidance" width="1536" height="1024" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Exercise</span>
-                    <h4 class="related-card-title">Exercise After a Fracture: How to Modify Safely</h4>
-                </div>
-            </a>
-            <a href="weight-bearing-vs-resistance.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-exercise-400.webp 400w, ../images/blog-exercise-800.webp 800w, ../images/blog-exercise-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-exercise.png" alt="Weight-bearing and resistance exercises for bone health" width="2752" height="1536" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Exercise</span>
-                    <h4 class="related-card-title">Weight-Bearing vs. Resistance Training: Which One Builds Bone Better?</h4>
-                </div>
-            </a>
-            <a href="posture-and-osteoporosis.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-posture-and-osteoporosis-400.webp 400w, ../images/blog-posture-and-osteoporosis-800.webp 800w, ../images/blog-posture-and-osteoporosis-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-posture-and-osteoporosis.png" alt="A woman in her late fifties with silver hair sits at a wooden desk in profile with upright posture, back straight and shoulders back, near a sunny window" width="1774" height="887" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Exercise</span>
-                    <h4 class="related-card-title">Posture and Osteoporosis: Why It Matters More Than You Think</h4>
-                </div>
-            </a>
-            </div>
-        </aside>]]></content>
+        
+<!-- mbh:body:end -->]]></content>
     <author>
       <name>Lisa Pocius, MD</name>
       <email>lisa.pocius@gmail.com</email>
@@ -786,9 +626,10 @@
     <id>https://mybone.health/blog/osteoporosis-injections-compared.html</id>
     <updated>2026-09-28T00:00:00Z</updated>
     <published>2026-09-28T00:00:00Z</published>
-    <category term="Medication" />
+    <category term="Medicines and treatments" />
     <summary>All five osteoporosis injections compared by a physician: schedule, refrigeration, cost, coverage, side effects, and why a doctor picks one over another.</summary>
-    <content type="html"><![CDATA[<p>If you have osteoporosis, sooner or later someone mentions &ldquo;the shot.&rdquo; A friend gets one twice a year. Your doctor brings up an injection as the next step after pills. A neighbor says hers is a daily pen she keeps in the fridge. It&rsquo;s easy to assume these are all the same treatment. They aren&rsquo;t.</p>
+    <content type="html"><![CDATA[<!-- mbh:body:start -->
+        <p>If you have osteoporosis, sooner or later someone mentions &ldquo;the shot.&rdquo; A friend gets one twice a year. Your doctor brings up an injection as the next step after pills. A neighbor says hers is a daily pen she keeps in the fridge. It&rsquo;s easy to assume these are all the same treatment. They aren&rsquo;t.</p>
 
         <p>There are five injectable osteoporosis medications in the United States, and they work in very different ways. Your skeleton is constantly being remodeled. One set of cells clears away old bone while another lays down new bone, and osteoporosis develops when the clearing gets ahead of the building. Two of the shots, Reclast and Prolia, slow the cells that break bone down. Two others, Forteo and Tymlos, push your body to build new bone. The fifth, Evenity, does some of both.</p>
 
@@ -922,43 +763,7 @@
         <p>None of these five is the best injection. There is a best fit for your bones, your health history, and your life, including travel, insurance, and how easily you can get to appointments. Bring those practical details into the room. They are part of the medical decision.</p>
 
         <p><em>If you are weighing pills against injections, my post on <a href="bisphosphonates-explained.html">bisphosphonates</a> covers the oral side of the same question.</em></p>
-
-
-<!-- Ask Lisa: reader question form -->
-
-        <!-- Related Posts -->
-        <aside class="related-posts" aria-label="Related posts">
-            <h2 class="related-heading">Keep reading</h2>
-            <div class="related-grid">
-            <a href="prolia-denosumab-explained.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-prolia-denosumab-explained-400.webp 400w, ../images/blog-prolia-denosumab-explained-800.webp 800w, ../images/blog-prolia-denosumab-explained-1536.webp 1536w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-prolia-denosumab-explained.png" alt="Nurse giving an injection in the back of a woman&rsquo;s upper arm in a bright exam room" width="1536" height="1024" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Medication</span>
-                    <h3 class="related-card-title">Prolia (Denosumab): What It Does Well, and Why You Cannot Simply Stop</h3>
-                </div>
-            </a>
-            <a href="anabolic-medications.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-anabolic-meds-400.webp 400w, ../images/blog-anabolic-meds-800.webp 800w, ../images/blog-anabolic-meds-1376.webp 1376w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-anabolic-meds.png" alt="Woman at a sunlit kitchen table preparing a daily bone-building injection" width="1376" height="768" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Medication</span>
-                    <h3 class="related-card-title">Daily Injections That Build Bone: Understanding Forteo and Tymlos</h3>
-                </div>
-            </a>
-            <a href="evenity-explained.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-evenity-400.webp 400w, ../images/blog-evenity-800.webp 800w, ../images/blog-evenity-1536.webp 1536w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-evenity.png" alt="Tablet calendar showing a Bone Health Injection reminder on the 15th of the month" width="1536" height="1024" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Medication</span>
-                    <h3 class="related-card-title">Evenity: The Once-a-Month Bone Builder That Works Differently</h3>
-                </div>
-            </a>
-            </div>
-        </aside>]]></content>
+<!-- mbh:body:end -->]]></content>
     <author>
       <name>Lisa Pocius, MD</name>
       <email>lisa.pocius@gmail.com</email>
@@ -970,9 +775,10 @@
     <id>https://mybone.health/blog/glp1-and-bone-health.html</id>
     <updated>2026-09-13T00:00:00Z</updated>
     <published>2026-09-13T00:00:00Z</published>
-    <category term="Medication" />
+    <category term="Medicines and treatments" />
     <summary>Current research does not show GLP-1 drugs harming bone directly. The rapid weight loss they cause is the real risk, and exercise blunts it.</summary>
-    <content type="html"><![CDATA[<p>This has become the question I get asked more than almost any other, and it usually arrives in some version of the same sentence. My doctor just recommended Wegovy, and I already have osteopenia, so is this going to wreck my bones?</p>
+    <content type="html"><![CDATA[<!-- mbh:body:start -->
+        <p>This has become the question I get asked more than almost any other, and it usually arrives in some version of the same sentence. My doctor just recommended Wegovy, and I already have osteopenia, so is this going to wreck my bones?</p>
 
         <p>I want to be straight with you about the state of the evidence before I say anything else. It's thin, and it doesn't all point the same way. The large fracture studies look reassuring, the smaller bone density studies do not, and none of them were done in the people most likely to be reading this. The question isn't settled, and I'm not going to pretend otherwise.</p>
 
@@ -1050,41 +856,8 @@
 
         <p><em>If you are weighing a bone drug alongside all of this, my posts on <a href="bisphosphonates-explained.html">bisphosphonates</a> and <a href="anabolic-medications.html">bone-building injections</a> cover the ones that treat osteoporosis directly.</em></p>
 
-        <!-- Ask Lisa: reader question form -->
-
-        <!-- Related Posts -->
-        <aside class="related-posts" aria-label="Related posts">
-            <h2 class="related-heading">Keep reading</h2>
-            <div class="related-grid">
-            <a href="weight-bearing-vs-resistance.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-exercise-400.webp 400w, ../images/blog-exercise-800.webp 800w, ../images/blog-exercise-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-exercise.png" alt="Person doing weight-bearing and resistance exercises for bone health" width="2752" height="1536" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Exercise</span>
-                    <h3 class="related-card-title">Weight-Bearing vs. Resistance Training: Which One Builds Bone Better?</h3>
-                </div>
-            </a>
-            <a href="protein-and-calcium.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-protein-400.webp 400w, ../images/blog-protein-800.webp 800w, ../images/blog-protein-1536.webp 1536w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-protein.png" alt="Overhead view of bone-supportive foods including salmon, Greek yogurt with almonds, milk, soft-boiled egg, kale with white beans, and aged cheese" width="1536" height="1024" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Nutrition</span>
-                    <h3 class="related-card-title">Protein, Calcium, and the Mistake of Picking One: What Your Bones Actually Need at Once</h3>
-                </div>
-            </a>
-            <a href="fall-risk-medications.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-fall-risk-meds-400.webp 400w, ../images/blog-fall-risk-meds-800.webp 800w, ../images/blog-fall-risk-meds-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-fall-risk-meds.png" alt="Medication bottles on a kitchen counter with notepad" width="2752" height="1536" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Medication</span>
-                    <h3 class="related-card-title">The Medications That Might Be Increasing Your Fall Risk</h3>
-                </div>
-            </a>
-            </div>
-        </aside>]]></content>
+        
+<!-- mbh:body:end -->]]></content>
     <author>
       <name>Lisa Pocius, MD</name>
       <email>lisa.pocius@gmail.com</email>
@@ -1096,9 +869,10 @@
     <id>https://mybone.health/blog/protein-and-fracture-recovery.html</id>
     <updated>2026-08-29T00:00:00Z</updated>
     <published>2026-08-29T00:00:00Z</published>
-    <category term="Nutrition" />
+    <category term="Food, calcium and vitamin D" />
     <summary>Protein demand goes up after a fracture and appetite often drops. What the evidence says, why plant and animal protein both work, and easy food ideas.</summary>
-    <content type="html"><![CDATA[<p>If you've just fractured, or you love someone who has, this post is about the part of recovery that gets almost no attention: what you eat.</p>
+    <content type="html"><![CDATA[<!-- mbh:body:start -->
+        <p>If you've just fractured, or you love someone who has, this post is about the part of recovery that gets almost no attention: what you eat.</p>
 
         <p>The bracing, the physical therapy, the follow-up appointments, the medication conversations, all of that gets covered. Protein rarely comes up until someone in the hospital hands you a printed sheet on the way out the door, and by then you're exhausted and your appetite is gone and the sheet ends up on the counter under the mail.</p>
 
@@ -1186,41 +960,8 @@
 
         <p>Bones heal slowly. Muscles rebuild slowly. Both of them reward the person who feeds them, most days, even in small ways, through the whole recovery, not just the first week.</p>
 
-        <!-- Ask Lisa: reader question form -->
-
-        <!-- Related Posts -->
-        <aside class="related-posts" aria-label="Related posts">
-            <h2 class="related-heading">Keep reading</h2>
-            <div class="related-grid">
-            <a href="protein-and-calcium.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-protein-400.webp 400w, ../images/blog-protein-800.webp 800w, ../images/blog-protein-1536.webp 1536w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-protein.png" alt="Overhead view of bone-supportive foods including salmon, Greek yogurt, milk, egg, kale and white beans, and aged cheese" width="1536" height="1024" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Nutrition</span>
-                    <h3 class="related-card-title">Protein, Calcium, and the Mistake of Picking One: What Your Bones Actually Need at Once</h3>
-                </div>
-            </a>
-            <a href="exercise-after-fracture.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-exercise-after-fracture-400.webp 400w, ../images/blog-exercise-after-fracture-800.webp 800w, ../images/blog-exercise-after-fracture-1536.webp 1536w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-exercise-after-fracture.png" alt="A woman in her sixties performing a modified wall-supported squat in a bright gym with a physical therapist standing nearby for form guidance" width="1536" height="1024" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Exercise</span>
-                    <h3 class="related-card-title">Exercise After a Fracture: How to Modify Safely</h3>
-                </div>
-            </a>
-            <a href="bone-friendly-meals.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-meals-400.webp 400w, ../images/blog-meals-800.webp 800w, ../images/blog-meals-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-meals.png" alt="Overhead view of a bone-friendly meal with salmon, greens, and beans" width="2752" height="1536" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Nutrition</span>
-                    <h3 class="related-card-title">5 Bone-Friendly Meals You Can Make in 20 Minutes</h3>
-                </div>
-            </a>
-            </div>
-        </aside>]]></content>
+        
+<!-- mbh:body:end -->]]></content>
     <author>
       <name>Lisa Pocius, MD</name>
       <email>lisa.pocius@gmail.com</email>
@@ -1232,9 +973,10 @@
     <id>https://mybone.health/blog/exercise-after-fracture.html</id>
     <updated>2026-08-11T00:00:00Z</updated>
     <published>2026-08-11T00:00:00Z</published>
-    <category term="Exercise" />
+    <category term="Exercise and movement" />
     <summary>When can you exercise after a spine or hip fracture? A physician who has had vertebral fractures explains clearance, timing, and safer ways to lift and squat.</summary>
-    <content type="html"><![CDATA[<p>An earlier post here compared <a href="weight-bearing-vs-resistance.html">weight-bearing exercise and resistance training</a> and concluded, correctly, that you need both. What that post did not answer is what changes once you have a fracture behind you. That is a different question, and it is the one readers keep asking me.</p>
+    <content type="html"><![CDATA[<!-- mbh:body:start -->
+        <p>An earlier post here compared <a href="weight-bearing-vs-resistance.html">weight-bearing exercise and resistance training</a> and concluded, correctly, that you need both. What that post did not answer is what changes once you have a fracture behind you. That is a different question, and it is the one readers keep asking me.</p>
 
         <p>I ask it too. I have had multiple vertebral compression fractures, and I remember standing in my kitchen a few weeks after the first one, holding a two-pound dumbbell, not sure whether picking it up was going to help my bones or break another one. Both were possible. What tips the balance is the modifications you make and the person guiding you through them.</p>
 
@@ -1332,41 +1074,8 @@
             <a href="https://www.amazon.com/dp/B0GZ271ZWC" target="_blank" rel="noopener" class="book-cta-link">Get the book on Amazon</a>
         </aside>
 
-        <!-- Ask Lisa: reader question form -->
-
-        <!-- Related Posts -->
-        <aside class="related-posts" aria-label="Related posts">
-            <h2 class="related-heading">Keep reading</h2>
-            <div class="related-grid">
-            <a href="weight-bearing-vs-resistance.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-exercise-400.webp 400w, ../images/blog-exercise-800.webp 800w, ../images/blog-exercise-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-exercise.png" alt="Person doing weight-bearing and resistance exercises for bone health" width="2752" height="1536" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Exercise</span>
-                    <h3 class="related-card-title">Weight-Bearing vs. Resistance Training: Which One Builds Bone Better?</h3>
-                </div>
-            </a>
-            <a href="posture-and-osteoporosis.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-posture-and-osteoporosis-400.webp 400w, ../images/blog-posture-and-osteoporosis-800.webp 800w, ../images/blog-posture-and-osteoporosis-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-posture-and-osteoporosis.png" alt="A woman in her late fifties with silver hair sits at a wooden desk in profile with upright posture, back straight and shoulders back, near a sunny window" width="1774" height="887" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Exercise</span>
-                    <h3 class="related-card-title">Posture and Osteoporosis: Why It Matters More Than You Think</h3>
-                </div>
-            </a>
-            <a href="balance-training.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-balance-400.webp 400w, ../images/blog-balance-800.webp 800w, ../images/blog-balance-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-balance.png" alt="Older man practicing balance exercise in a garden" width="2752" height="1536" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Exercise</span>
-                    <h3 class="related-card-title">Balance Training for Osteoporosis: Prevent Falls</h3>
-                </div>
-            </a>
-            </div>
-        </aside>]]></content>
+        
+<!-- mbh:body:end -->]]></content>
     <author>
       <name>Lisa Pocius, MD</name>
       <email>lisa.pocius@gmail.com</email>
@@ -1378,9 +1087,10 @@
     <id>https://mybone.health/blog/prolia-denosumab-explained.html</id>
     <updated>2026-07-30T00:00:00Z</updated>
     <published>2026-07-30T00:00:00Z</published>
-    <category term="Medication" />
+    <category term="Medicines and treatments" />
     <summary>Prolia (denosumab) explained by a physician who has osteoporosis: what it does, side effects, and the critical rebound risk if you stop without a plan.</summary>
-    <content type="html"><![CDATA[<p>There is a warning that follows this medication around, and most people run into it somewhere between the doctor's office and the pharmacy counter. It usually arrives as some version of "once you start it, you can never stop." That claim is close enough to true that it deserves a real explanation rather than a pat on the hand, and it is also incomplete enough that it frightens people away from a drug that might be a good fit for them.</p>
+    <content type="html"><![CDATA[<!-- mbh:body:start -->
+        <p>There is a warning that follows this medication around, and most people run into it somewhere between the doctor's office and the pharmacy counter. It usually arrives as some version of "once you start it, you can never stop." That claim is close enough to true that it deserves a real explanation rather than a pat on the hand, and it is also incomplete enough that it frightens people away from a drug that might be a good fit for them.</p>
 
         <p><strong>Prolia</strong> is the brand name for a medication called <strong>denosumab</strong>. It is given as a single injection under the skin, once every six months. It is a genuinely effective treatment, and it is also the one where stopping without a plan carries the clearest danger. Both of those things are true at the same time, and I do not think anyone can make a good decision about this drug while holding only one of them.</p>
 
@@ -1477,41 +1187,8 @@
 
         <p><em>For a closer look at the medication family denosumab gets compared with most often, you can read my post on <a href="bisphosphonates-explained.html">bisphosphonates</a>.</em></p>
 
-        <!-- Ask Lisa: reader question form -->
-
-        <!-- Related Posts -->
-        <aside class="related-posts" aria-label="Related posts">
-            <h2 class="related-heading">Keep reading</h2>
-            <div class="related-grid">
-            <a href="bisphosphonates-explained.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-medication-400.webp 400w, ../images/blog-medication-800.webp 800w, ../images/blog-medication-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-medication.png" alt="Bisphosphonates and osteoporosis medication" width="2752" height="1536" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Medication</span>
-                    <h3 class="related-card-title">Bisphosphonates Explained: What Your Doctor May Not Have Time to Tell You</h3>
-                </div>
-            </a>
-            <a href="evenity-explained.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-evenity-400.webp 400w, ../images/blog-evenity-800.webp 800w, ../images/blog-evenity-1536.webp 1536w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-evenity.png" alt="Tablet calendar showing a Bone Health Injection reminder on the 15th of the month" width="1536" height="1024" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Medication</span>
-                    <h3 class="related-card-title">Evenity: The Once-a-Month Bone Builder That Works Differently</h3>
-                </div>
-            </a>
-            <a href="anabolic-medications.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-anabolic-meds-400.webp 400w, ../images/blog-anabolic-meds-800.webp 800w, ../images/blog-anabolic-meds-1376.webp 1376w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-anabolic-meds.png" alt="Woman at a sunlit kitchen table preparing a daily bone-building injection" width="1376" height="768" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Medication</span>
-                    <h3 class="related-card-title">Daily Injections That Build Bone: Understanding Forteo and Tymlos</h3>
-                </div>
-            </a>
-            </div>
-        </aside>]]></content>
+        
+<!-- mbh:body:end -->]]></content>
     <author>
       <name>Lisa Pocius, MD</name>
       <email>lisa.pocius@gmail.com</email>
@@ -1523,9 +1200,10 @@
     <id>https://mybone.health/blog/frax-score-explained.html</id>
     <updated>2026-07-27T00:00:00Z</updated>
     <published>2026-07-27T00:00:00Z</published>
-    <category term="Self-Advocacy" />
+    <category term="Diagnosis, tests and risk" />
     <summary>FRAX-plus is the newer fracture-risk tool your doctor may mention. What it adds to the original FRAX, and how to read your 10-year risk score.</summary>
-    <content type="html"><![CDATA[<p>Your T-score describes what your bones look like right now. Your FRAX score tries to answer a different question: what is likely to happen over the next ten years. Those are not the same thing, and in most treatment conversations, the second question is the one that actually decides what happens next.</p>
+    <content type="html"><![CDATA[<!-- mbh:body:start -->
+        <p>Your T-score describes what your bones look like right now. Your FRAX score tries to answer a different question: what is likely to happen over the next ten years. Those are not the same thing, and in most treatment conversations, the second question is the one that actually decides what happens next.</p>
 
         <p>I get a lot of reader questions about FRAX, and almost all of them come down to three things. What is this number? Can I run it myself? And why did my doctor mention a version of it I've never heard of? Let's take them in order.</p>
 
@@ -1644,41 +1322,8 @@
 
 
         
-        <!-- Ask Lisa: reader question form -->
-
-        <!-- Related Posts -->
-        <aside class="related-posts" aria-label="Related posts">
-            <h2 class="related-heading">Keep reading</h2>
-            <div class="related-grid">
-            <a href="dexa-tbs-vfa.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-dexa-tbs-vfa-400.webp 400w, ../images/blog-dexa-tbs-vfa-800.webp 800w, ../images/blog-dexa-tbs-vfa-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-dexa-tbs-vfa.png" alt="A clinician reviewing a DEXA scan report on a tablet, with the lumbar spine image and a Trabecular Bone Score value visible" width="1672" height="941" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Recent Developments</span>
-                    <h3 class="related-card-title">Beyond the T-Score: What TBS and VFA on Your DEXA Report Really Mean</h3>
-                </div>
-            </a>
-            <a href="first-osteoporosis-visit.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-first-osteoporosis-visit-400.webp 400w, ../images/blog-first-osteoporosis-visit-800.webp 800w, ../images/blog-first-osteoporosis-visit-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-first-osteoporosis-visit.png" alt="An older Black woman with silver and black hair, wearing a teal cardigan, sitting across from her physician in a sunlit exam room as they review her DEXA report together" width="1672" height="941" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Self-Advocacy</span>
-                    <h3 class="related-card-title">What Should Happen at Your First Osteoporosis Visit (and What to Ask If It Doesn&#x27;t)</h3>
-                </div>
-            </a>
-            <a href="can-osteoporosis-be-reversed.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-can-osteoporosis-be-reversed-400.webp 400w, ../images/blog-can-osteoporosis-be-reversed-800.webp 800w, ../images/blog-can-osteoporosis-be-reversed-1536.webp 1536w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-can-osteoporosis-be-reversed.png" alt="A woman in her late sixties with silver hair sits at a bright kitchen table writing in a notebook, morning light coming through a window" width="1536" height="1024" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Patient Education</span>
-                    <h3 class="related-card-title">Can Osteoporosis Be Reversed?</h3>
-                </div>
-            </a>
-            </div>
-        </aside>]]></content>
+        
+<!-- mbh:body:end -->]]></content>
     <author>
       <name>Lisa Pocius, MD</name>
       <email>lisa.pocius@gmail.com</email>
@@ -1690,9 +1335,10 @@
     <id>https://mybone.health/blog/vitamin-d-and-sunshine.html</id>
     <updated>2026-07-19T00:00:00Z</updated>
     <published>2026-07-19T00:00:00Z</published>
-    <category term="Nutrition" />
+    <category term="Food, calcium and vitamin D" />
     <summary>A physician on sunshine and vitamin D: is sun-made D different from a supplement, do windows and sunscreen block it, and how skin, age, and season change it.</summary>
-    <content type="html"><![CDATA[<p>Few questions come up as often in bone health as the one about sunshine. People want to know whether they can skip the supplement if they just get outside more, and whether the vitamin D they make in the sun is somehow better than what comes in a capsule. These are good questions, and the honest answers are more interesting than a simple yes or no. So let me walk through the ones I hear most, one at a time.</p>
+    <content type="html"><![CDATA[<!-- mbh:body:start -->
+        <p>Few questions come up as often in bone health as the one about sunshine. People want to know whether they can skip the supplement if they just get outside more, and whether the vitamin D they make in the sun is somehow better than what comes in a capsule. These are good questions, and the honest answers are more interesting than a simple yes or no. So let me walk through the ones I hear most, one at a time.</p>
 
         <p>A quick word on why this matters for your bones. Vitamin D is what lets your body absorb the calcium you eat. Without enough of it, even a calcium-rich diet cannot do its job, and your bones pay the price. That is why getting your vitamin D right sits near the center of any real plan for osteoporosis.</p>
 
@@ -1762,41 +1408,8 @@
 
         
         
-        <!-- Ask Lisa: reader question form -->
-
-        <!-- Related Posts -->
-        <aside class="related-posts" aria-label="Related posts">
-            <h2 class="related-heading">Keep reading</h2>
-            <div class="related-grid">
-            <a href="vitamin-d-bone-health.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-vitamin-d-bone-health-400.webp 400w, ../images/blog-vitamin-d-bone-health-800.webp 800w, ../images/blog-vitamin-d-bone-health-1536.webp 1536w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-vitamin-d-bone-health.png" alt="A man in his fifties sitting on a wooden garden bench in warm afternoon sunlight, wearing shorts and a short-sleeve shirt, with bare arms and legs exposed to the sun" width="1536" height="1024" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Nutrition</span>
-                    <h3 class="related-card-title">Vitamin D and Your Bones: What Actually Matters</h3>
-                </div>
-            </a>
-            <a href="protein-and-calcium.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-protein-400.webp 400w, ../images/blog-protein-800.webp 800w, ../images/blog-protein-1536.webp 1536w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-protein.png" alt="Overhead view of bone-supportive foods including salmon, Greek yogurt, milk, egg, kale and white beans, and aged cheese" width="1536" height="1024" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Nutrition</span>
-                    <h3 class="related-card-title">Protein, Calcium, and the Mistake of Picking One: What Your Bones Actually Need at Once</h3>
-                </div>
-            </a>
-            <a href="bone-friendly-meals.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-meals-400.webp 400w, ../images/blog-meals-800.webp 800w, ../images/blog-meals-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-meals.png" alt="Bone-healthy meals on a rustic table" width="2752" height="1536" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Nutrition</span>
-                    <h3 class="related-card-title">5 Bone-Friendly Meals You Can Make in 20 Minutes</h3>
-                </div>
-            </a>
-            </div>
-        </aside>]]></content>
+        
+<!-- mbh:body:end -->]]></content>
     <author>
       <name>Lisa Pocius, MD</name>
       <email>lisa.pocius@gmail.com</email>
@@ -1808,9 +1421,10 @@
     <id>https://mybone.health/blog/posture-and-osteoporosis.html</id>
     <updated>2026-07-12T00:00:00Z</updated>
     <published>2026-07-12T00:00:00Z</published>
-    <category term="Exercise" />
+    <category term="Exercise and movement" />
     <summary>Why posture matters with osteoporosis: how strong back muscles lower fracture risk, which movements to avoid, and when a support or weighted vest helps.</summary>
-    <content type="html"><![CDATA[<p>When I talk with patients about protecting their bones, the conversation almost always goes straight to medication and calcium. Those matter, and I have written about both. But posture is the piece that gets left out of the discussion far too often, and it deserves a seat at the table. How you hold yourself, how strong the muscles along your back are, and how you move through an ordinary day all affect your chances of breaking a bone, and most people are never told this.</p>
+    <content type="html"><![CDATA[<!-- mbh:body:start -->
+        <p>When I talk with patients about protecting their bones, the conversation almost always goes straight to medication and calcium. Those matter, and I have written about both. But posture is the piece that gets left out of the discussion far too often, and it deserves a seat at the table. How you hold yourself, how strong the muscles along your back are, and how you move through an ordinary day all affect your chances of breaking a bone, and most people are never told this.</p>
 
         <p>I want to walk through what we actually know, because this is one of the areas where you have real power to help yourself, no prescription required.</p>
 
@@ -1882,41 +1496,8 @@
             <a href="../books/osteoporosis-exercises-for-beginners/" class="exbook-cta-link">See the exercise book</a>
         </aside>
 
-        <!-- Ask Lisa: reader question form -->
-
-        <!-- Related Posts -->
-        <aside class="related-posts" aria-label="Related posts">
-            <h2 class="related-heading">Keep reading</h2>
-            <div class="related-grid">
-            <a href="weight-bearing-vs-resistance.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-exercise-400.webp 400w, ../images/blog-exercise-800.webp 800w, ../images/blog-exercise-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-exercise.png" alt="Weight-bearing and resistance exercises for bone health" width="2752" height="1536" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Exercise</span>
-                    <h3 class="related-card-title">Weight-Bearing vs. Resistance Training: Which One Builds Bone Better?</h3>
-                </div>
-            </a>
-            <a href="fall-proofing-whole-house.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-fall-proofing-whole-house-400.webp 400w, ../images/blog-fall-proofing-whole-house-800.webp 800w, ../images/blog-fall-proofing-whole-house-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-fall-proofing-whole-house.png" alt="A warmly lit modern home interior showing low-pile carpet transitioning to wood flooring, a staircase with a sturdy handrail, a curbless walk-in shower visible through a doorway, and a pair of supportive house shoes by the door" width="1672" height="941" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Fall Prevention</span>
-                    <h3 class="related-card-title">Fall-Proofing Isn&#x27;t Just for Seniors: A Whole-House Guide</h3>
-                </div>
-            </a>
-            <a href="fall-risk-medications.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-fall-risk-meds-400.webp 400w, ../images/blog-fall-risk-meds-800.webp 800w, ../images/blog-fall-risk-meds-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-fall-risk-meds.png" alt="Medication bottles on a kitchen counter" width="2752" height="1536" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Fall Prevention</span>
-                    <h3 class="related-card-title">The Medications That Might Be Increasing Your Fall Risk</h3>
-                </div>
-            </a>
-            </div>
-        </aside>]]></content>
+        
+<!-- mbh:body:end -->]]></content>
     <author>
       <name>Lisa Pocius, MD</name>
       <email>lisa.pocius@gmail.com</email>
@@ -1928,9 +1509,10 @@
     <id>https://mybone.health/blog/can-osteoporosis-be-reversed.html</id>
     <updated>2026-06-29T00:00:00Z</updated>
     <published>2026-06-29T00:00:00Z</published>
-    <category term="Patient Education" />
+    <category term="Diagnosis, tests and risk" />
     <summary>Can osteoporosis be reversed? A physician's honest answer: what treatment really does to bone, and why lifelong management matters more than a cure.</summary>
-    <content type="html"><![CDATA[<p>It is one of the most common questions I hear, and one of the most loaded. Can osteoporosis be reversed? The answer is not a simple yes or no, and I want to give you the honest version, because I think the honest version is actually more encouraging than a false promise would be.</p>
+    <content type="html"><![CDATA[<!-- mbh:body:start -->
+        <p>It is one of the most common questions I hear, and one of the most loaded. Can osteoporosis be reversed? The answer is not a simple yes or no, and I want to give you the honest version, because I think the honest version is actually more encouraging than a false promise would be.</p>
 
         <p>The short answer is this: for most people, osteoporosis cannot be fully reversed. But it can be meaningfully treated, bone density can be rebuilt to a real degree, and fracture risk can be substantially reduced. Understanding the difference between those things is, in my view, one of the most important things a person newly diagnosed with osteoporosis can learn.</p>
 
@@ -1992,41 +1574,8 @@
 
         
         
-        <!-- Ask Lisa: reader question form -->
-
-        <!-- Related Posts -->
-        <aside class="related-posts" aria-label="Related posts">
-            <h2 class="related-heading">Keep reading</h2>
-            <div class="related-grid">
-            <a href="first-osteoporosis-visit.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-first-osteoporosis-visit-400.webp 400w, ../images/blog-first-osteoporosis-visit-800.webp 800w, ../images/blog-first-osteoporosis-visit-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-first-osteoporosis-visit.png" alt="An older Black woman with silver and black hair, wearing a teal cardigan, sitting across from her physician in a sunlit exam room as they review her DEXA report together" width="1672" height="941" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Self-Advocacy</span>
-                    <h3 class="related-card-title">What Should Happen at Your First Osteoporosis Visit (and What to Ask If It Doesn&#x27;t)</h3>
-                </div>
-            </a>
-            <a href="asking-ai-about-osteoporosis.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-asking-ai-400.webp 400w, ../images/blog-asking-ai-800.webp 800w, ../images/blog-asking-ai-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-asking-ai.png" alt="Older woman in glasses at a sunlit kitchen table reading her laptop with a thoughtful, slightly skeptical expression, notebook and mug beside her" width="1749" height="899" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">AI &amp; Patient Tools</span>
-                    <h3 class="related-card-title">How to Ask an AI About Your Osteoporosis Questions (Without Getting Burned)</h3>
-                </div>
-            </a>
-            <a href="dexa-tbs-vfa.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-dexa-tbs-vfa-400.webp 400w, ../images/blog-dexa-tbs-vfa-800.webp 800w, ../images/blog-dexa-tbs-vfa-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-dexa-tbs-vfa.png" alt="A clinician reviewing a DEXA scan report on a tablet, with the lumbar spine image and a Trabecular Bone Score value visible" width="1672" height="941" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Recent Developments</span>
-                    <h3 class="related-card-title">Beyond the T-Score: What TBS and VFA on Your DEXA Report Really Mean</h3>
-                </div>
-            </a>
-            </div>
-        </aside>]]></content>
+        
+<!-- mbh:body:end -->]]></content>
     <author>
       <name>Lisa Pocius, MD</name>
       <email>lisa.pocius@gmail.com</email>
@@ -2038,9 +1587,10 @@
     <id>https://mybone.health/blog/calcium-vit-d-study-2026.html</id>
     <updated>2026-06-21T00:00:00Z</updated>
     <published>2026-06-21T00:00:00Z</published>
-    <category term="Recent Developments" />
+    <category term="Food, calcium and vitamin D" />
     <summary>A physician breaks down the 2026 BMJ calcium and vitamin D meta-analysis: what it actually found, and what it means if you already have osteoporosis.</summary>
-    <content type="html"><![CDATA[<p>If you follow bone health news, you may have seen headlines in the past few weeks along the lines of "Supplements Don't Prevent Fractures" or "Calcium and Vitamin D Found to Be Useless." A major new study published in <em>The BMJ</em> has been making the rounds, and patients have been understandably confused and anxious about what it means for them.</p>
+    <content type="html"><![CDATA[<!-- mbh:body:start -->
+        <p>If you follow bone health news, you may have seen headlines in the past few weeks along the lines of "Supplements Don't Prevent Fractures" or "Calcium and Vitamin D Found to Be Useless." A major new study published in <em>The BMJ</em> has been making the rounds, and patients have been understandably confused and anxious about what it means for them.</p>
 
         <p>I want to walk through what the study actually found, why it is a good study that deserves to be taken seriously, and why the headlines may be sending the wrong message to exactly the people who need to hear clearly.</p>
 
@@ -2108,41 +1658,8 @@
 
         
         
-        <!-- Ask Lisa: reader question form -->
-
-        <!-- Related Posts -->
-        <aside class="related-posts" aria-label="Related posts">
-            <h2 class="related-heading">Keep reading</h2>
-            <div class="related-grid">
-            <a href="dexa-tbs-vfa.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-dexa-tbs-vfa-400.webp 400w, ../images/blog-dexa-tbs-vfa-800.webp 800w, ../images/blog-dexa-tbs-vfa-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-dexa-tbs-vfa.png" alt="A clinician reviewing a DEXA scan report on a tablet, with the lumbar spine image and a Trabecular Bone Score value visible" width="1672" height="941" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Recent Developments</span>
-                    <h3 class="related-card-title">Beyond the T-Score: What TBS and VFA on Your DEXA Report Really Mean</h3>
-                </div>
-            </a>
-            <a href="asking-ai-about-osteoporosis.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-asking-ai-400.webp 400w, ../images/blog-asking-ai-800.webp 800w, ../images/blog-asking-ai-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-asking-ai.png" alt="Older woman in glasses at a sunlit kitchen table reading her laptop with a thoughtful, slightly skeptical expression, notebook and mug beside her" width="1749" height="899" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">AI &amp; Patient Tools</span>
-                    <h3 class="related-card-title">How to Ask an AI About Your Osteoporosis Questions (Without Getting Burned)</h3>
-                </div>
-            </a>
-            <a href="first-osteoporosis-visit.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-first-osteoporosis-visit-400.webp 400w, ../images/blog-first-osteoporosis-visit-800.webp 800w, ../images/blog-first-osteoporosis-visit-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-first-osteoporosis-visit.png" alt="An older Black woman with silver and black hair, wearing a teal cardigan, sitting across from her physician in a sunlit exam room as they review her DEXA report together" width="1672" height="941" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Self-Advocacy</span>
-                    <h3 class="related-card-title">What Should Happen at Your First Osteoporosis Visit (and What to Ask If It Doesn&#x27;t)</h3>
-                </div>
-            </a>
-            </div>
-        </aside>]]></content>
+        
+<!-- mbh:body:end -->]]></content>
     <author>
       <name>Lisa Pocius, MD</name>
       <email>lisa.pocius@gmail.com</email>
@@ -2154,9 +1671,10 @@
     <id>https://mybone.health/blog/first-osteoporosis-visit.html</id>
     <updated>2026-06-14T00:00:00Z</updated>
     <published>2026-06-14T00:00:00Z</published>
-    <category term="Self-Advocacy" />
+    <category term="Diagnosis, tests and risk" />
     <summary>A physician's six-step guide to your first osteoporosis visit: history, labs, fracture-risk calculation, and how to leave with a real treatment plan.</summary>
-    <content type="html"><![CDATA[<p>The DEXA report is in. The number is lower than you hoped. Your doctor's office calls and offers you an appointment in two or three weeks.</p>
+    <content type="html"><![CDATA[<!-- mbh:body:start -->
+        <p>The DEXA report is in. The number is lower than you hoped. Your doctor's office calls and offers you an appointment in two or three weeks.</p>
 
         <p>Now what.</p>
 
@@ -2287,41 +1805,8 @@
 
         
         
-        <!-- Ask Lisa: reader question form -->
-
-        <!-- Related Posts -->
-        <aside class="related-posts" aria-label="Related posts">
-            <h2 class="related-heading">Keep reading</h2>
-            <div class="related-grid">
-            <a href="can-osteoporosis-be-reversed.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-can-osteoporosis-be-reversed-400.webp 400w, ../images/blog-can-osteoporosis-be-reversed-800.webp 800w, ../images/blog-can-osteoporosis-be-reversed-1536.webp 1536w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-can-osteoporosis-be-reversed.png" alt="A woman in her late sixties with silver hair sits at a bright kitchen table writing in a notebook, morning light coming through a window" width="1536" height="1024" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Patient Education</span>
-                    <h3 class="related-card-title">Can Osteoporosis Be Reversed?</h3>
-                </div>
-            </a>
-            <a href="identity-shift.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-identity-400.webp 400w, ../images/blog-identity-800.webp 800w, ../images/blog-identity-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-identity.png" alt="Woman sitting by window with coffee, reflecting peacefully" width="2752" height="1536" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Emotional</span>
-                    <h3 class="related-card-title">When Osteoporosis Changes How You See Yourself</h3>
-                </div>
-            </a>
-            <a href="dexa-tbs-vfa.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-dexa-tbs-vfa-400.webp 400w, ../images/blog-dexa-tbs-vfa-800.webp 800w, ../images/blog-dexa-tbs-vfa-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-dexa-tbs-vfa.png" alt="A clinician reviewing a DEXA scan report on a tablet, with the lumbar spine image and a Trabecular Bone Score value visible" width="1672" height="941" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Recent Developments</span>
-                    <h3 class="related-card-title">Beyond the T-Score: What TBS and VFA on Your DEXA Report Really Mean</h3>
-                </div>
-            </a>
-            </div>
-        </aside>]]></content>
+        
+<!-- mbh:body:end -->]]></content>
     <author>
       <name>Lisa Pocius, MD</name>
       <email>lisa.pocius@gmail.com</email>
@@ -2333,9 +1818,10 @@
     <id>https://mybone.health/blog/vitamin-d-bone-health.html</id>
     <updated>2026-06-07T00:00:00Z</updated>
     <published>2026-06-07T00:00:00Z</published>
-    <category term="Nutrition" />
+    <category term="Food, calcium and vitamin D" />
     <summary>A physician's plain-language guide to vitamin D and bone health: how it works, who should test, food vs. sun vs. supplement, and what the evidence shows.</summary>
-    <content type="html"><![CDATA[<p>If you have osteoporosis, or you are trying to prevent it, vitamin D has probably come up at every visit. Most of us have been told to take it. Many of us have been told a number. Far fewer of us have been told what it actually does, why the dose is the dose, or whether the bottle on the kitchen counter is really helping.</p>
+    <content type="html"><![CDATA[<!-- mbh:body:start -->
+        <p>If you have osteoporosis, or you are trying to prevent it, vitamin D has probably come up at every visit. Most of us have been told to take it. Many of us have been told a number. Far fewer of us have been told what it actually does, why the dose is the dose, or whether the bottle on the kitchen counter is really helping.</p>
 
         <p>I want to walk through what vitamin D is, how your body uses it, why measuring it sometimes makes sense, and where the evidence is honestly weaker than the supplement aisle would have you believe.</p>
 
@@ -2440,41 +1926,8 @@
 
         
         
-        <!-- Ask Lisa: reader question form -->
-
-        <!-- Related Posts -->
-        <aside class="related-posts" aria-label="Related posts">
-            <h2 class="related-heading">Keep reading</h2>
-            <div class="related-grid">
-            <a href="vitamin-d-and-sunshine.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-vitamin-d-and-sunshine-400.webp 400w, ../images/blog-vitamin-d-and-sunshine-800.webp 800w, ../images/blog-vitamin-d-and-sunshine-1536.webp 1536w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-vitamin-d-and-sunshine.png" alt="A woman in her late fifties with silver hair sits on a garden bench in gentle morning sunlight with her forearms bare and eyes softly closed" width="1536" height="1024" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Nutrition</span>
-                    <h3 class="related-card-title">Sunshine and Vitamin D: What Actually Works, and What Does Not</h3>
-                </div>
-            </a>
-            <a href="protein-and-calcium.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-protein-400.webp 400w, ../images/blog-protein-800.webp 800w, ../images/blog-protein-1536.webp 1536w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-protein.png" alt="Overhead view of bone-supportive foods including salmon, Greek yogurt, milk, egg, kale and white beans, and aged cheese" width="1536" height="1024" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Nutrition</span>
-                    <h3 class="related-card-title">Protein, Calcium, and the Mistake of Picking One: What Your Bones Actually Need at Once</h3>
-                </div>
-            </a>
-            <a href="bone-friendly-meals.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-meals-400.webp 400w, ../images/blog-meals-800.webp 800w, ../images/blog-meals-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-meals.png" alt="Bone-healthy meals on a rustic table" width="2752" height="1536" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Nutrition</span>
-                    <h3 class="related-card-title">5 Bone-Friendly Meals You Can Make in 20 Minutes</h3>
-                </div>
-            </a>
-            </div>
-        </aside>]]></content>
+        
+<!-- mbh:body:end -->]]></content>
     <author>
       <name>Lisa Pocius, MD</name>
       <email>lisa.pocius@gmail.com</email>
@@ -2486,9 +1939,10 @@
     <id>https://mybone.health/blog/asking-ai-about-osteoporosis.html</id>
     <updated>2026-06-02T00:00:00Z</updated>
     <published>2026-06-02T00:00:00Z</published>
-    <category term="AI &amp;amp; Patient Tools" />
+    <category term="Falls, safety and everyday life" />
     <summary>A physician's guide to using AI for osteoporosis questions: how to spot training-data vs. real-time answers, why sources matter, and 5 rules to follow.</summary>
-    <content type="html"><![CDATA[<p>Someone asked me recently if it was safe to ask ChatGPT for advice about her <a href="bisphosphonate-tips.html">new bisphosphonate prescription</a>. She had a long list of questions, her appointment was three weeks away, and she wanted something to do in the meantime.</p>
+    <content type="html"><![CDATA[<!-- mbh:body:start -->
+        <p>Someone asked me recently if it was safe to ask ChatGPT for advice about her <a href="bisphosphonate-tips.html">new bisphosphonate prescription</a>. She had a long list of questions, her appointment was three weeks away, and she wanted something to do in the meantime.</p>
 
         <p>It is a fair question, and one I think more of us should be asking out loud.</p>
 
@@ -2595,41 +2049,8 @@
 
         
         
-        <!-- Ask Lisa: reader question form -->
-
-        <!-- Related Posts -->
-        <aside class="related-posts" aria-label="Related posts">
-            <h2 class="related-heading">Keep reading</h2>
-            <div class="related-grid">
-            <a href="first-osteoporosis-visit.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-first-osteoporosis-visit-400.webp 400w, ../images/blog-first-osteoporosis-visit-800.webp 800w, ../images/blog-first-osteoporosis-visit-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-first-osteoporosis-visit.png" alt="An older Black woman with silver and black hair, wearing a teal cardigan, sitting across from her physician in a sunlit exam room as they review her DEXA report together" width="1672" height="941" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Self-Advocacy</span>
-                    <h3 class="related-card-title">What Should Happen at Your First Osteoporosis Visit (and What to Ask If It Doesn&#x27;t)</h3>
-                </div>
-            </a>
-            <a href="can-osteoporosis-be-reversed.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-can-osteoporosis-be-reversed-400.webp 400w, ../images/blog-can-osteoporosis-be-reversed-800.webp 800w, ../images/blog-can-osteoporosis-be-reversed-1536.webp 1536w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-can-osteoporosis-be-reversed.png" alt="A woman in her late sixties with silver hair sits at a bright kitchen table writing in a notebook, morning light coming through a window" width="1536" height="1024" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Patient Education</span>
-                    <h3 class="related-card-title">Can Osteoporosis Be Reversed?</h3>
-                </div>
-            </a>
-            <a href="vitamin-d-and-sunshine.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-vitamin-d-and-sunshine-400.webp 400w, ../images/blog-vitamin-d-and-sunshine-800.webp 800w, ../images/blog-vitamin-d-and-sunshine-1536.webp 1536w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-vitamin-d-and-sunshine.png" alt="A woman in her late fifties with silver hair sits on a garden bench in gentle morning sunlight with her forearms bare and eyes softly closed" width="1536" height="1024" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Nutrition</span>
-                    <h3 class="related-card-title">Sunshine and Vitamin D: What Actually Works, and What Does Not</h3>
-                </div>
-            </a>
-            </div>
-        </aside>]]></content>
+        
+<!-- mbh:body:end -->]]></content>
     <author>
       <name>Lisa Pocius, MD</name>
       <email>lisa.pocius@gmail.com</email>
@@ -2641,9 +2062,10 @@
     <id>https://mybone.health/blog/fall-proofing-whole-house.html</id>
     <updated>2026-05-25T00:00:00Z</updated>
     <published>2026-05-25T00:00:00Z</published>
-    <category term="Fall Prevention" />
-    <summary>Fall prevention isn't just for seniors. A whole-house guide to fewer falls at every age: flooring, footwear, bathrooms, and future-proof home design.</summary>
-    <content type="html"><![CDATA[<p>When I talk with patients about fall prevention, two things tend to happen. The older ones brace themselves, expecting a lecture about throw rugs and night lights. The younger ones tune out, because none of this feels like it's about them yet. Both reactions miss the point. Fall prevention isn't a senior topic. It's a house topic, a habits topic, and an "I'd rather not break a hip in my sixties because of a choice I made in my forties" topic.</p>
+    <category term="Falls, safety and everyday life" />
+    <summary>A room-by-room guide to fewer falls at every age: flooring, footwear, bathrooms, and future-proof home design.</summary>
+    <content type="html"><![CDATA[<!-- mbh:body:start -->
+        <p>When I talked with patients about fall prevention, two things tended to happen. The older ones braced themselves, expecting a lecture about throw rugs and night lights. The younger ones tuned out, because none of this felt like it was about them yet. Both reactions miss the point. Fall prevention isn't just for older people. It's a house topic, a habits topic, and an "I'd rather not break a hip in my sixties because of a choice I made in my forties" topic.</p>
 
         <p>Here's the number that reframes the whole conversation: <strong>about 95% of hip fractures in older adults are caused by falls</strong>, usually a sideways fall onto the hip (<a href="https://www.osteoporosis.foundation/facts-statistics/epidemiology-of-osteoporosis-and-fragility-fractures">International Osteoporosis Foundation</a>). Wrist, shoulder, and many spine fractures follow the same pattern. Bone density gets a lot of attention, and it should, but the event that turns low bone density into a fracture is almost always a fall. Which means the floor you walk on, the shoes you walk in, and the house you live in are part of your bone-health plan whether you've thought about them that way or not.</p>
 
@@ -2729,47 +2151,14 @@
 
         <h2>The Bigger Picture</h2>
 
-        <p>The reason I wanted to write this post is that fall prevention gets framed as a senior topic, and that framing costs us. The choices that protect your future self get made decades earlier, in the kitchen you're remodeling, the house you're touring, the shoes you keep by the back door. None of it requires fear. It just requires noticing.</p>
+        <p>The reason I wanted to write this post is that fall prevention gets framed as something only for older people, and that framing costs us. The choices that protect your future self get made decades earlier, in the kitchen you're remodeling, the house you're touring, the shoes you keep by the back door. None of it requires fear. It just requires noticing.</p>
 
         <p>If you have osteoporosis or osteopenia, this matters now. If you don't, it matters for the version of you who might. The house you walk through every day is either quietly working with you or quietly working against you. It's worth knowing which.</p>
 
         
         
-        <!-- Ask Lisa: reader question form -->
-
-        <!-- Related Posts -->
-        <aside class="related-posts" aria-label="Related posts">
-            <h2 class="related-heading">Keep reading</h2>
-            <div class="related-grid">
-            <a href="fall-risk-medications.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-fall-risk-meds-400.webp 400w, ../images/blog-fall-risk-meds-800.webp 800w, ../images/blog-fall-risk-meds-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-fall-risk-meds.png" alt="Medication bottles on a kitchen counter" width="2752" height="1536" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Fall Prevention</span>
-                    <h3 class="related-card-title">The Medications That Might Be Increasing Your Fall Risk</h3>
-                </div>
-            </a>
-            <a href="balance-training.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-balance-400.webp 400w, ../images/blog-balance-800.webp 800w, ../images/blog-balance-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-balance.png" alt="Balance training for fall prevention" width="2752" height="1536" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Fall Prevention</span>
-                    <h3 class="related-card-title">Balance Training: The Exercise Nobody Talks About for Osteoporosis</h3>
-                </div>
-            </a>
-            <a href="posture-and-osteoporosis.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-posture-and-osteoporosis-400.webp 400w, ../images/blog-posture-and-osteoporosis-800.webp 800w, ../images/blog-posture-and-osteoporosis-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-posture-and-osteoporosis.png" alt="A woman in her late fifties with silver hair sits at a wooden desk in profile with upright posture, back straight and shoulders back, near a sunny window" width="1774" height="887" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Exercise</span>
-                    <h3 class="related-card-title">Posture and Osteoporosis: Why It Matters More Than You Think</h3>
-                </div>
-            </a>
-            </div>
-        </aside>]]></content>
+        
+<!-- mbh:body:end -->]]></content>
     <author>
       <name>Lisa Pocius, MD</name>
       <email>lisa.pocius@gmail.com</email>
@@ -2781,9 +2170,10 @@
     <id>https://mybone.health/blog/dexa-tbs-vfa.html</id>
     <updated>2026-05-17T00:00:00Z</updated>
     <published>2026-05-17T00:00:00Z</published>
-    <category term="Recent Developments" />
+    <category term="Diagnosis, tests and risk" />
     <summary>Your DEXA report is more than a T-score. A patient-friendly guide to TBS and VFA: what they measure and when they change your treatment plan.</summary>
-    <content type="html"><![CDATA[<p>When most people get their DEXA results, they look for one number, the T-score, and try to figure out whether it puts them in the osteopenia or osteoporosis range. If your report stopped there a few years ago, that was reasonable. Today, many modern DEXA reports include two additional pieces of information that can meaningfully change a treatment decision: <strong>Trabecular Bone Score (TBS)</strong> and <strong>Vertebral Fracture Assessment (VFA)</strong>. They look like extras, but in the right patient they are not extras at all. They are the parts of the report that sometimes flip the answer.</p>
+    <content type="html"><![CDATA[<!-- mbh:body:start -->
+        <p>When most people get their DEXA results, they look for one number, the T-score, and try to figure out whether it puts them in the osteopenia or osteoporosis range. If your report stopped there a few years ago, that was reasonable. Today, many modern DEXA reports include two additional pieces of information that can meaningfully change a treatment decision: <strong>Trabecular Bone Score (TBS)</strong> and <strong>Vertebral Fracture Assessment (VFA)</strong>. They look like extras, but in the right patient they are not extras at all. They are the parts of the report that sometimes flip the answer.</p>
 
         <p>I want to walk you through what each one is, when it matters, and what to ask your doctor if your report includes them.</p>
 
@@ -2888,41 +2278,8 @@
 
         
         
-        <!-- Ask Lisa: reader question form -->
-
-        <!-- Related Posts -->
-        <aside class="related-posts" aria-label="Related posts">
-            <h2 class="related-heading">Keep reading</h2>
-            <div class="related-grid">
-            <a href="frax-score-explained.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-frax-score-explained-400.webp 400w, ../images/blog-frax-score-explained-800.webp 800w, ../images/blog-frax-score-explained-1200.webp 1200w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-frax-score-explained.png" alt="A view through an open doorway into a bone density scanning room where a woman in her sixties lies on the DXA table while a technologist works at a nearby monitor" width="1200" height="671" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Self-Advocacy</span>
-                    <h3 class="related-card-title">Your FRAX Score: What It Means, How to Run It Yourself, and When to Ask About FRAX-plus</h3>
-                </div>
-            </a>
-            <a href="can-osteoporosis-be-reversed.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-can-osteoporosis-be-reversed-400.webp 400w, ../images/blog-can-osteoporosis-be-reversed-800.webp 800w, ../images/blog-can-osteoporosis-be-reversed-1536.webp 1536w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-can-osteoporosis-be-reversed.png" alt="A woman in her late sixties with silver hair sits at a bright kitchen table writing in a notebook, morning light coming through a window" width="1536" height="1024" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Patient Education</span>
-                    <h3 class="related-card-title">Can Osteoporosis Be Reversed?</h3>
-                </div>
-            </a>
-            <a href="first-osteoporosis-visit.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-first-osteoporosis-visit-400.webp 400w, ../images/blog-first-osteoporosis-visit-800.webp 800w, ../images/blog-first-osteoporosis-visit-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-first-osteoporosis-visit.png" alt="An older Black woman with silver and black hair, wearing a teal cardigan, sitting across from her physician in a sunlit exam room as they review her DEXA report together" width="1672" height="941" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Self-Advocacy</span>
-                    <h3 class="related-card-title">What Should Happen at Your First Osteoporosis Visit (and What to Ask If It Doesn&#x27;t)</h3>
-                </div>
-            </a>
-            </div>
-        </aside>]]></content>
+        
+<!-- mbh:body:end -->]]></content>
     <author>
       <name>Lisa Pocius, MD</name>
       <email>lisa.pocius@gmail.com</email>
@@ -2934,9 +2291,10 @@
     <id>https://mybone.health/blog/evenity-explained.html</id>
     <updated>2026-05-09T00:00:00Z</updated>
     <published>2026-05-09T00:00:00Z</published>
-    <category term="Medication" />
+    <category term="Medicines and treatments" />
     <summary>A patient-friendly guide to Evenity (romosozumab): how the once-a-month bone-builder works, the 12-month cap, the heart warning, and next steps.</summary>
-    <content type="html"><![CDATA[<p>In the last post we walked through Forteo and Tymlos, the two daily injection medications that build new bone. There is a third anabolic option, and it works through an entirely different pathway. <strong>Evenity (romosozumab)</strong> earns its own post because the differences are not minor: different mechanism, different schedule, different cap, and a boxed warning that needs careful, honest discussion. If your doctor has mentioned Evenity, here is what I want you to understand before you decide.</p>
+    <content type="html"><![CDATA[<!-- mbh:body:start -->
+        <p>In the last post we walked through Forteo and Tymlos, the two daily injection medications that build new bone. There is a third anabolic option, and it works through an entirely different pathway. <strong>Evenity (romosozumab)</strong> earns its own post because the differences are not minor: different mechanism, different schedule, different cap, and a boxed warning that needs careful, honest discussion. If your doctor has mentioned Evenity, here is what I want you to understand before you decide.</p>
 
         <h2>A Different Mechanism Entirely</h2>
 
@@ -3022,41 +2380,8 @@
 
         
         
-        <!-- Ask Lisa: reader question form -->
-
-        <!-- Related Posts -->
-        <aside class="related-posts" aria-label="Related posts">
-            <h2 class="related-heading">Keep reading</h2>
-            <div class="related-grid">
-            <a href="anabolic-medications.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-anabolic-meds-400.webp 400w, ../images/blog-anabolic-meds-800.webp 800w, ../images/blog-anabolic-meds-1376.webp 1376w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-anabolic-meds.png" alt="Woman at a sunlit kitchen table preparing a daily bone-building injection" width="1376" height="768" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Medication</span>
-                    <h3 class="related-card-title">Daily Injections That Build Bone: Understanding Forteo and Tymlos</h3>
-                </div>
-            </a>
-            <a href="bisphosphonate-tips.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-bisphosphonate-tips-400.webp 400w, ../images/blog-bisphosphonate-tips-800.webp 800w, ../images/blog-bisphosphonate-tips-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-bisphosphonate-tips.png" alt="Nightstand with water glass and pill organizer" width="2752" height="1536" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Medication</span>
-                    <h3 class="related-card-title">Tips and Tricks for Actually Taking Your Bisphosphonate</h3>
-                </div>
-            </a>
-            <a href="bisphosphonates-explained.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-medication-400.webp 400w, ../images/blog-medication-800.webp 800w, ../images/blog-medication-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-medication.png" alt="Bisphosphonates and osteoporosis medication" width="2752" height="1536" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Medication</span>
-                    <h3 class="related-card-title">Bisphosphonates Explained: What Your Doctor May Not Have Time to Tell You</h3>
-                </div>
-            </a>
-            </div>
-        </aside>]]></content>
+        
+<!-- mbh:body:end -->]]></content>
     <author>
       <name>Lisa Pocius, MD</name>
       <email>lisa.pocius@gmail.com</email>
@@ -3068,9 +2393,10 @@
     <id>https://mybone.health/blog/protein-and-calcium.html</id>
     <updated>2026-05-09T00:00:00Z</updated>
     <published>2026-05-09T00:00:00Z</published>
-    <category term="Nutrition" />
+    <category term="Food, calcium and vitamin D" />
     <summary>Protein, calcium, vitamin D, magnesium, and vitamin K work together for bone health. Realistic daily targets for older women, and how to hit them with food.</summary>
-    <content type="html"><![CDATA[<p>If you have spent any time researching osteoporosis nutrition, you have almost certainly read about calcium. You may have read about vitamin D. You have probably seen magnesium and vitamin K2 mentioned. You have probably read much, much less about protein. And if you read older articles, you may even have read that protein is <em>bad</em> for your bones, that high-protein diets leach calcium and accelerate bone loss.</p>
+    <content type="html"><![CDATA[<!-- mbh:body:start -->
+        <p>If you have spent any time researching osteoporosis nutrition, you have almost certainly read about calcium. You may have read about vitamin D. You have probably seen magnesium and vitamin K2 mentioned. You have probably read much, much less about protein. And if you read older articles, you may even have read that protein is <em>bad</em> for your bones, that high-protein diets leach calcium and accelerate bone loss.</p>
 
         <p>That last claim has been overturned, and the correction matters. Older women, especially women trying to maintain bone and muscle, are often eating too little protein, not too much. The bigger nutritional mistake I see is treating these nutrients as if you have to pick one to focus on. Your bones do not work that way. They use calcium, protein, vitamin D, magnesium, and a handful of supporting players <em>together</em>, and a deficit in any one of them limits what the others can do.</p>
 
@@ -3171,41 +2497,8 @@
 
         
         
-        <!-- Ask Lisa: reader question form -->
-
-        <!-- Related Posts -->
-        <aside class="related-posts" aria-label="Related posts">
-            <h2 class="related-heading">Keep reading</h2>
-            <div class="related-grid">
-            <a href="vitamin-d-and-sunshine.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-vitamin-d-and-sunshine-400.webp 400w, ../images/blog-vitamin-d-and-sunshine-800.webp 800w, ../images/blog-vitamin-d-and-sunshine-1536.webp 1536w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-vitamin-d-and-sunshine.png" alt="A woman in her late fifties with silver hair sits on a garden bench in gentle morning sunlight with her forearms bare and eyes softly closed" width="1536" height="1024" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Nutrition</span>
-                    <h3 class="related-card-title">Sunshine and Vitamin D: What Actually Works, and What Does Not</h3>
-                </div>
-            </a>
-            <a href="vitamin-d-bone-health.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-vitamin-d-bone-health-400.webp 400w, ../images/blog-vitamin-d-bone-health-800.webp 800w, ../images/blog-vitamin-d-bone-health-1536.webp 1536w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-vitamin-d-bone-health.png" alt="A man in his fifties sitting on a wooden garden bench in warm afternoon sunlight, wearing shorts and a short-sleeve shirt, with bare arms and legs exposed to the sun" width="1536" height="1024" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Nutrition</span>
-                    <h3 class="related-card-title">Vitamin D and Your Bones: What Actually Matters</h3>
-                </div>
-            </a>
-            <a href="bone-friendly-meals.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-meals-400.webp 400w, ../images/blog-meals-800.webp 800w, ../images/blog-meals-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-meals.png" alt="Bone-healthy meals on a rustic table" width="2752" height="1536" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Nutrition</span>
-                    <h3 class="related-card-title">5 Bone-Friendly Meals You Can Make in 20 Minutes</h3>
-                </div>
-            </a>
-            </div>
-        </aside>]]></content>
+        
+<!-- mbh:body:end -->]]></content>
     <author>
       <name>Lisa Pocius, MD</name>
       <email>lisa.pocius@gmail.com</email>
@@ -3217,9 +2510,10 @@
     <id>https://mybone.health/blog/anabolic-medications.html</id>
     <updated>2026-05-03T00:00:00Z</updated>
     <published>2026-05-03T00:00:00Z</published>
-    <category term="Medication" />
+    <category term="Medicines and treatments" />
     <summary>A plain-language guide to Forteo and Tymlos, the daily bone-building injections: how they work, who they help, side effects, and the 2-year update.</summary>
-    <content type="html"><![CDATA[<p>If you've been told you might benefit from a bone-building injection rather than a pill, the conversation can feel like it shifts overnight. You went in expecting to talk about Fosamax or Reclast, and instead your doctor is talking about something called an anabolic agent. As a physician and an osteoporosis patient myself, I want to walk you through what these medications are, why your doctor might recommend one, and what has recently changed about how long you can stay on them.</p>
+    <content type="html"><![CDATA[<!-- mbh:body:start -->
+        <p>If you've been told you might benefit from a bone-building injection rather than a pill, the conversation can feel like it shifts overnight. You went in expecting to talk about Fosamax or Reclast, and instead your doctor is talking about something called an anabolic agent. As a physician and an osteoporosis patient myself, I want to walk you through what these medications are, why your doctor might recommend one, and what has recently changed about how long you can stay on them.</p>
 
         <p>A quick note on scope before we dive in. There are three FDA-approved anabolic agents for osteoporosis. Two are daily injections that work through the parathyroid hormone pathway: <strong>teriparatide (Forteo, called Forsteo in Europe)</strong> and <strong>abaloparatide (Tymlos, called Eladynos in Europe)</strong>. The third, <strong>romosozumab (Evenity)</strong>, works through a completely different mechanism and has its own treatment schedule, side effect profile, and considerations. Today I want to focus on Forteo and Tymlos, the two daily injection options. Evenity deserves its own dedicated post, and I will write that one next.</p>
 
@@ -3296,41 +2590,8 @@
 
         
         
-        <!-- Ask Lisa: reader question form -->
-
-        <!-- Related Posts -->
-        <aside class="related-posts" aria-label="Related posts">
-            <h2 class="related-heading">Keep reading</h2>
-            <div class="related-grid">
-            <a href="evenity-explained.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-evenity-400.webp 400w, ../images/blog-evenity-800.webp 800w, ../images/blog-evenity-1536.webp 1536w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-evenity.png" alt="Tablet calendar showing a Bone Health Injection reminder on the 15th of the month" width="1536" height="1024" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Medication</span>
-                    <h3 class="related-card-title">Evenity: The Once-a-Month Bone Builder That Works Differently</h3>
-                </div>
-            </a>
-            <a href="bisphosphonate-tips.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-bisphosphonate-tips-400.webp 400w, ../images/blog-bisphosphonate-tips-800.webp 800w, ../images/blog-bisphosphonate-tips-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-bisphosphonate-tips.png" alt="Nightstand with water glass and pill organizer" width="2752" height="1536" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Medication</span>
-                    <h3 class="related-card-title">Tips and Tricks for Actually Taking Your Bisphosphonate</h3>
-                </div>
-            </a>
-            <a href="bisphosphonates-explained.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-medication-400.webp 400w, ../images/blog-medication-800.webp 800w, ../images/blog-medication-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-medication.png" alt="Bisphosphonates and osteoporosis medication" width="2752" height="1536" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Medication</span>
-                    <h3 class="related-card-title">Bisphosphonates Explained: What Your Doctor May Not Have Time to Tell You</h3>
-                </div>
-            </a>
-            </div>
-        </aside>]]></content>
+        
+<!-- mbh:body:end -->]]></content>
     <author>
       <name>Lisa Pocius, MD</name>
       <email>lisa.pocius@gmail.com</email>
@@ -3342,9 +2603,10 @@
     <id>https://mybone.health/blog/balance-training.html</id>
     <updated>2026-03-30T00:00:00Z</updated>
     <published>2026-03-30T00:00:00Z</published>
-    <category term="Fall Prevention" />
+    <category term="Exercise and movement" />
     <summary>Why balance training is critical for osteoporosis. Learn how falls cause fractures, formal PT options, and simple daily habits to improve your stability.</summary>
-    <content type="html"><![CDATA[<p>When people think about osteoporosis, they picture fragile bones. That makes sense. But the bones themselves are only half the story. The real danger, the thing that actually causes the fractures, the hospitalizations, the loss of independence, is falling.</p>
+    <content type="html"><![CDATA[<!-- mbh:body:start -->
+        <p>When people think about osteoporosis, they picture fragile bones. That makes sense. But the bones themselves are only half the story. The real danger, the thing that actually causes the fractures, the hospitalizations, the loss of independence, is falling.</p>
 
         <p>More than 95% of hip fractures are caused by falls, <a href="https://www.osteoporosis.foundation/facts-statistics/epidemiology-of-osteoporosis-and-fragility-fractures" target="_blank" rel="noopener noreferrer">according to the International Osteoporosis Foundation</a>. One out of four older adults falls each year, and falling once doubles your chances of falling again. After a hip fracture, mortality rates reach 20 to 24% in the first year, and 60% of survivors still need help with daily activities a year later.</p>
 
@@ -3405,41 +2667,8 @@
             <a href="../books/osteoporosis-exercises-for-beginners/" class="exbook-cta-link">See the exercise book</a>
         </aside>
 
-        <!-- Ask Lisa: reader question form -->
-
-        <!-- Related Posts -->
-        <aside class="related-posts" aria-label="Related posts">
-            <h2 class="related-heading">Keep reading</h2>
-            <div class="related-grid">
-            <a href="fall-proofing-whole-house.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-fall-proofing-whole-house-400.webp 400w, ../images/blog-fall-proofing-whole-house-800.webp 800w, ../images/blog-fall-proofing-whole-house-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-fall-proofing-whole-house.png" alt="A warmly lit modern home interior showing low-pile carpet transitioning to wood flooring, a staircase with a sturdy handrail, a curbless walk-in shower visible through a doorway, and a pair of supportive house shoes by the door" width="1672" height="941" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Fall Prevention</span>
-                    <h3 class="related-card-title">Fall-Proofing Isn&#x27;t Just for Seniors: A Whole-House Guide</h3>
-                </div>
-            </a>
-            <a href="fall-risk-medications.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-fall-risk-meds-400.webp 400w, ../images/blog-fall-risk-meds-800.webp 800w, ../images/blog-fall-risk-meds-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-fall-risk-meds.png" alt="Medication bottles on a kitchen counter" width="2752" height="1536" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Fall Prevention</span>
-                    <h3 class="related-card-title">The Medications That Might Be Increasing Your Fall Risk</h3>
-                </div>
-            </a>
-            <a href="posture-and-osteoporosis.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-posture-and-osteoporosis-400.webp 400w, ../images/blog-posture-and-osteoporosis-800.webp 800w, ../images/blog-posture-and-osteoporosis-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-posture-and-osteoporosis.png" alt="A woman in her late fifties with silver hair sits at a wooden desk in profile with upright posture, back straight and shoulders back, near a sunny window" width="1774" height="887" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Exercise</span>
-                    <h3 class="related-card-title">Posture and Osteoporosis: Why It Matters More Than You Think</h3>
-                </div>
-            </a>
-            </div>
-        </aside>]]></content>
+        
+<!-- mbh:body:end -->]]></content>
     <author>
       <name>Lisa Pocius, MD</name>
       <email>lisa.pocius@gmail.com</email>
@@ -3451,9 +2680,10 @@
     <id>https://mybone.health/blog/bisphosphonate-tips.html</id>
     <updated>2026-03-30T00:00:00Z</updated>
     <published>2026-03-30T00:00:00Z</published>
-    <category term="Medication" />
+    <category term="Medicines and treatments" />
     <summary>Practical tips for alendronate or risedronate: drinking the right amount of water, the do-not-lie-down rule, spacing from food, and when to speak up.</summary>
-    <content type="html"><![CDATA[<p>If you have been prescribed a bisphosphonate like alendronate (Fosamax), risedronate (Actonel), or ibandronate (Boniva, or Bonviva outside the US), you probably got a long list of instructions. Take it first thing in the morning. On an empty stomach. With a full glass of water. Stay upright for 30 minutes. Do not eat or drink anything else. Do not take your other medications. Do not go back to bed.</p>
+    <content type="html"><![CDATA[<!-- mbh:body:start -->
+        <p>If you have been prescribed a bisphosphonate like alendronate (Fosamax), risedronate (Actonel), or ibandronate (Boniva, or Bonviva outside the US), you probably got a long list of instructions. Take it first thing in the morning. On an empty stomach. With a full glass of water. Stay upright for 30 minutes. Do not eat or drink anything else. Do not take your other medications. Do not go back to bed.</p>
 
         <p>It can feel like a chemistry exam before breakfast. And the truth is, a lot of people quietly stop taking these medications because the routine is inconvenient or uncomfortable. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3017316/" target="_blank" rel="noopener noreferrer">Research published in Osteoporosis International</a> found that poor compliance with oral bisphosphonates is a widespread problem, and it is usually not because people forget. Most people are actively choosing not to take them, often because the experience is unpleasant or the instructions feel burdensome.</p>
 
@@ -3518,41 +2748,8 @@
 
         
         
-        <!-- Ask Lisa: reader question form -->
-
-        <!-- Related Posts -->
-        <aside class="related-posts" aria-label="Related posts">
-            <h2 class="related-heading">Keep reading</h2>
-            <div class="related-grid">
-            <a href="evenity-explained.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-evenity-400.webp 400w, ../images/blog-evenity-800.webp 800w, ../images/blog-evenity-1536.webp 1536w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-evenity.png" alt="Tablet calendar showing a Bone Health Injection reminder on the 15th of the month" width="1536" height="1024" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Medication</span>
-                    <h3 class="related-card-title">Evenity: The Once-a-Month Bone Builder That Works Differently</h3>
-                </div>
-            </a>
-            <a href="anabolic-medications.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-anabolic-meds-400.webp 400w, ../images/blog-anabolic-meds-800.webp 800w, ../images/blog-anabolic-meds-1376.webp 1376w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-anabolic-meds.png" alt="Woman at a sunlit kitchen table preparing a daily bone-building injection" width="1376" height="768" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Medication</span>
-                    <h3 class="related-card-title">Daily Injections That Build Bone: Understanding Forteo and Tymlos</h3>
-                </div>
-            </a>
-            <a href="bisphosphonates-explained.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-medication-400.webp 400w, ../images/blog-medication-800.webp 800w, ../images/blog-medication-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-medication.png" alt="Bisphosphonates and osteoporosis medication" width="2752" height="1536" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Medication</span>
-                    <h3 class="related-card-title">Bisphosphonates Explained: What Your Doctor May Not Have Time to Tell You</h3>
-                </div>
-            </a>
-            </div>
-        </aside>]]></content>
+        
+<!-- mbh:body:end -->]]></content>
     <author>
       <name>Lisa Pocius, MD</name>
       <email>lisa.pocius@gmail.com</email>
@@ -3564,9 +2761,10 @@
     <id>https://mybone.health/blog/bone-friendly-meals.html</id>
     <updated>2026-03-30T00:00:00Z</updated>
     <published>2026-03-30T00:00:00Z</published>
-    <category term="Nutrition" />
+    <category term="Food, calcium and vitamin D" />
     <summary>Five bone-supporting meals you can make in 20 minutes, including a vegetarian and a vegan option, each labeled for calcium, vitamin D, K, and protein.</summary>
-    <content type="html"><![CDATA[<p>I wrote an entire chapter about bone-building nutrition in my book. It covers the science, the studies, the recommended daily intakes. That's all important. What I really needed, though, was someone to give me an idea for supper on a Tuesday night.</p>
+    <content type="html"><![CDATA[<!-- mbh:body:start -->
+        <p>I wrote an entire chapter about bone-building nutrition in my book. It covers the science, the studies, the recommended daily intakes. That's all important. What I really needed, though, was someone to give me an idea for supper on a Tuesday night.</p>
 
         <p>So that is what this post is. Five simple meals, each one packed with multiple bone-supporting nutrients, and none of them requiring more than 20 minutes of your time. I included a vegetarian option and a vegan option, because strong bones do not require any one particular way of eating.</p>
 
@@ -3626,41 +2824,8 @@
 
         
         
-        <!-- Ask Lisa: reader question form -->
-
-        <!-- Related Posts -->
-        <aside class="related-posts" aria-label="Related posts">
-            <h2 class="related-heading">Keep reading</h2>
-            <div class="related-grid">
-            <a href="vitamin-d-and-sunshine.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-vitamin-d-and-sunshine-400.webp 400w, ../images/blog-vitamin-d-and-sunshine-800.webp 800w, ../images/blog-vitamin-d-and-sunshine-1536.webp 1536w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-vitamin-d-and-sunshine.png" alt="A woman in her late fifties with silver hair sits on a garden bench in gentle morning sunlight with her forearms bare and eyes softly closed" width="1536" height="1024" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Nutrition</span>
-                    <h3 class="related-card-title">Sunshine and Vitamin D: What Actually Works, and What Does Not</h3>
-                </div>
-            </a>
-            <a href="vitamin-d-bone-health.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-vitamin-d-bone-health-400.webp 400w, ../images/blog-vitamin-d-bone-health-800.webp 800w, ../images/blog-vitamin-d-bone-health-1536.webp 1536w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-vitamin-d-bone-health.png" alt="A man in his fifties sitting on a wooden garden bench in warm afternoon sunlight, wearing shorts and a short-sleeve shirt, with bare arms and legs exposed to the sun" width="1536" height="1024" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Nutrition</span>
-                    <h3 class="related-card-title">Vitamin D and Your Bones: What Actually Matters</h3>
-                </div>
-            </a>
-            <a href="protein-and-calcium.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-protein-400.webp 400w, ../images/blog-protein-800.webp 800w, ../images/blog-protein-1536.webp 1536w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-protein.png" alt="Overhead view of bone-supportive foods including salmon, Greek yogurt, milk, egg, kale and white beans, and aged cheese" width="1536" height="1024" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Nutrition</span>
-                    <h3 class="related-card-title">Protein, Calcium, and the Mistake of Picking One: What Your Bones Actually Need at Once</h3>
-                </div>
-            </a>
-            </div>
-        </aside>]]></content>
+        
+<!-- mbh:body:end -->]]></content>
     <author>
       <name>Lisa Pocius, MD</name>
       <email>lisa.pocius@gmail.com</email>
@@ -3672,9 +2837,10 @@
     <id>https://mybone.health/blog/fall-risk-medications.html</id>
     <updated>2026-03-30T00:00:00Z</updated>
     <published>2026-03-30T00:00:00Z</published>
-    <category term="Fall Prevention" />
+    <category term="Falls, safety and everyday life" />
     <summary>Which common medications raise your fall risk when you have osteoporosis, from sedatives to blood pressure drugs, and how to review them with your doctor.</summary>
-    <content type="html"><![CDATA[<p>When we talk about osteoporosis, we focus on bone density. That makes sense. But as I have written before on this blog, the fracture itself is what changes lives, and fractures almost always start with a fall. So anything that increases your chances of falling deserves serious attention.</p>
+    <content type="html"><![CDATA[<!-- mbh:body:start -->
+        <p>When we talk about osteoporosis, we focus on bone density. That makes sense. But as I have written before on this blog, the fracture itself is what changes lives, and fractures almost always start with a fall. So anything that increases your chances of falling deserves serious attention.</p>
 
         <p>One of the biggest and most modifiable fall risk factors is sitting right there on your kitchen counter: your medications.</p>
 
@@ -3753,41 +2919,8 @@
 
         
         
-        <!-- Ask Lisa: reader question form -->
-
-        <!-- Related Posts -->
-        <aside class="related-posts" aria-label="Related posts">
-            <h2 class="related-heading">Keep reading</h2>
-            <div class="related-grid">
-            <a href="fall-proofing-whole-house.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-fall-proofing-whole-house-400.webp 400w, ../images/blog-fall-proofing-whole-house-800.webp 800w, ../images/blog-fall-proofing-whole-house-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-fall-proofing-whole-house.png" alt="A warmly lit modern home interior showing low-pile carpet transitioning to wood flooring, a staircase with a sturdy handrail, a curbless walk-in shower visible through a doorway, and a pair of supportive house shoes by the door" width="1672" height="941" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Fall Prevention</span>
-                    <h3 class="related-card-title">Fall-Proofing Isn&#x27;t Just for Seniors: A Whole-House Guide</h3>
-                </div>
-            </a>
-            <a href="balance-training.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-balance-400.webp 400w, ../images/blog-balance-800.webp 800w, ../images/blog-balance-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-balance.png" alt="Balance training for fall prevention" width="2752" height="1536" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Fall Prevention</span>
-                    <h3 class="related-card-title">Balance Training: The Exercise Nobody Talks About for Osteoporosis</h3>
-                </div>
-            </a>
-            <a href="posture-and-osteoporosis.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-posture-and-osteoporosis-400.webp 400w, ../images/blog-posture-and-osteoporosis-800.webp 800w, ../images/blog-posture-and-osteoporosis-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-posture-and-osteoporosis.png" alt="A woman in her late fifties with silver hair sits at a wooden desk in profile with upright posture, back straight and shoulders back, near a sunny window" width="1774" height="887" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Exercise</span>
-                    <h3 class="related-card-title">Posture and Osteoporosis: Why It Matters More Than You Think</h3>
-                </div>
-            </a>
-            </div>
-        </aside>]]></content>
+        
+<!-- mbh:body:end -->]]></content>
     <author>
       <name>Lisa Pocius, MD</name>
       <email>lisa.pocius@gmail.com</email>
@@ -3799,9 +2932,10 @@
     <id>https://mybone.health/blog/identity-shift.html</id>
     <updated>2026-03-30T00:00:00Z</updated>
     <published>2026-03-30T00:00:00Z</published>
-    <category term="Emotional" />
+    <category term="Falls, safety and everyday life" />
     <summary>A physician on the identity shift after an osteoporosis diagnosis: why fear makes your world smaller, how that raises fracture risk, and how to push back.</summary>
-    <content type="html"><![CDATA[<p>Nobody warned me about the identity crisis.</p>
+    <content type="html"><![CDATA[<!-- mbh:body:start -->
+        <p>Nobody warned me about the identity crisis.</p>
 
         <p>After my compression fractures, I expected the physical recovery to be the hard part. And it was hard. Months in a back brace, unable to sit up for more than a few hours, unable to lift anything heavier than a coffee cup. But what I did not expect was the quiet, unsettling shift in how I saw myself.</p>
 
@@ -3856,41 +2990,8 @@
 
         
         
-        <!-- Ask Lisa: reader question form -->
-
-        <!-- Related Posts -->
-        <aside class="related-posts" aria-label="Related posts">
-            <h2 class="related-heading">Keep reading</h2>
-            <div class="related-grid">
-            <a href="first-osteoporosis-visit.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-first-osteoporosis-visit-400.webp 400w, ../images/blog-first-osteoporosis-visit-800.webp 800w, ../images/blog-first-osteoporosis-visit-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-first-osteoporosis-visit.png" alt="An older Black woman with silver and black hair, wearing a teal cardigan, sitting across from her physician in a sunlit exam room as they review her DEXA report together" width="1672" height="941" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Self-Advocacy</span>
-                    <h3 class="related-card-title">What Should Happen at Your First Osteoporosis Visit (and What to Ask If It Doesn&#x27;t)</h3>
-                </div>
-            </a>
-            <a href="can-osteoporosis-be-reversed.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-can-osteoporosis-be-reversed-400.webp 400w, ../images/blog-can-osteoporosis-be-reversed-800.webp 800w, ../images/blog-can-osteoporosis-be-reversed-1536.webp 1536w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-can-osteoporosis-be-reversed.png" alt="A woman in her late sixties with silver hair sits at a bright kitchen table writing in a notebook, morning light coming through a window" width="1536" height="1024" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Patient Education</span>
-                    <h3 class="related-card-title">Can Osteoporosis Be Reversed?</h3>
-                </div>
-            </a>
-            <a href="vitamin-d-and-sunshine.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-vitamin-d-and-sunshine-400.webp 400w, ../images/blog-vitamin-d-and-sunshine-800.webp 800w, ../images/blog-vitamin-d-and-sunshine-1536.webp 1536w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-vitamin-d-and-sunshine.png" alt="A woman in her late fifties with silver hair sits on a garden bench in gentle morning sunlight with her forearms bare and eyes softly closed" width="1536" height="1024" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Nutrition</span>
-                    <h3 class="related-card-title">Sunshine and Vitamin D: What Actually Works, and What Does Not</h3>
-                </div>
-            </a>
-            </div>
-        </aside>]]></content>
+        
+<!-- mbh:body:end -->]]></content>
     <author>
       <name>Lisa Pocius, MD</name>
       <email>lisa.pocius@gmail.com</email>
@@ -3902,9 +3003,10 @@
     <id>https://mybone.health/blog/bisphosphonates-explained.html</id>
     <updated>2026-03-23T00:00:00Z</updated>
     <published>2026-03-23T00:00:00Z</published>
-    <category term="Medication" />
+    <category term="Medicines and treatments" />
     <summary>A physician who has osteoporosis explains bisphosphonates like Fosamax and Reclast: how they work, real side effect risks, and how to take them right.</summary>
-    <content type="html"><![CDATA[<p>If your doctor has recommended a bisphosphonate, you've probably gone home and started reading about it. Some of what you found was reassuring. Some of it was scary. I understand the uncertainty. As a physician and an osteoporosis patient myself, I want to walk you through what I think every patient should understand about these medications.</p>
+    <content type="html"><![CDATA[<!-- mbh:body:start -->
+        <p>If your doctor has recommended a bisphosphonate, you've probably gone home and started reading about it. Some of what you found was reassuring. Some of it was scary. I understand the uncertainty. As a physician and an osteoporosis patient myself, I want to walk you through what I think every patient should understand about these medications.</p>
 
         <h2>What They Are and How They Work</h2>
 
@@ -3959,41 +3061,8 @@
 
         
         
-        <!-- Ask Lisa: reader question form -->
-
-        <!-- Related Posts -->
-        <aside class="related-posts" aria-label="Related posts">
-            <h2 class="related-heading">Keep reading</h2>
-            <div class="related-grid">
-            <a href="evenity-explained.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-evenity-400.webp 400w, ../images/blog-evenity-800.webp 800w, ../images/blog-evenity-1536.webp 1536w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-evenity.png" alt="Tablet calendar showing a Bone Health Injection reminder on the 15th of the month" width="1536" height="1024" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Medication</span>
-                    <h3 class="related-card-title">Evenity: The Once-a-Month Bone Builder That Works Differently</h3>
-                </div>
-            </a>
-            <a href="anabolic-medications.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-anabolic-meds-400.webp 400w, ../images/blog-anabolic-meds-800.webp 800w, ../images/blog-anabolic-meds-1376.webp 1376w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-anabolic-meds.png" alt="Woman at a sunlit kitchen table preparing a daily bone-building injection" width="1376" height="768" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Medication</span>
-                    <h3 class="related-card-title">Daily Injections That Build Bone: Understanding Forteo and Tymlos</h3>
-                </div>
-            </a>
-            <a href="bisphosphonate-tips.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-bisphosphonate-tips-400.webp 400w, ../images/blog-bisphosphonate-tips-800.webp 800w, ../images/blog-bisphosphonate-tips-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-bisphosphonate-tips.png" alt="Nightstand with water glass and pill organizer" width="2752" height="1536" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Medication</span>
-                    <h3 class="related-card-title">Tips and Tricks for Actually Taking Your Bisphosphonate</h3>
-                </div>
-            </a>
-            </div>
-        </aside>]]></content>
+        
+<!-- mbh:body:end -->]]></content>
     <author>
       <name>Lisa Pocius, MD</name>
       <email>lisa.pocius@gmail.com</email>
@@ -4005,9 +3074,10 @@
     <id>https://mybone.health/blog/weight-bearing-vs-resistance.html</id>
     <updated>2026-03-16T00:00:00Z</updated>
     <published>2026-03-16T00:00:00Z</published>
-    <category term="Exercise" />
+    <category term="Exercise and movement" />
     <summary>Understanding weight-bearing exercise vs. resistance training for osteoporosis. Learn which builds bone better and how to get started safely.</summary>
-    <content type="html"><![CDATA[<p>If you've been diagnosed with osteoporosis or osteopenia, you've almost certainly heard that you need to exercise. Your doctor probably told you to do "weight-bearing exercise" or "resistance training" or both. And you probably nodded and then wondered what, exactly, the difference is.</p>
+    <content type="html"><![CDATA[<!-- mbh:body:start -->
+        <p>If you've been diagnosed with osteoporosis or osteopenia, you've almost certainly heard that you need to exercise. Your doctor probably told you to do "weight-bearing exercise" or "resistance training" or both. And you probably nodded and then wondered what, exactly, the difference is.</p>
 
         <p>I know I did. After my compression fractures, I was terrified of doing the wrong thing. The last thing I wanted was another fracture because I picked up the wrong dumbbell or did the wrong type of movement. So I dug into the research, talked to physical therapists, and figured out what each type of exercise actually does for bone.</p>
 
@@ -4072,41 +3142,8 @@
             <a href="../books/osteoporosis-exercises-for-beginners/" class="exbook-cta-link">See the exercise book</a>
         </aside>
 
-        <!-- Ask Lisa: reader question form -->
-
-        <!-- Related Posts -->
-        <aside class="related-posts" aria-label="Related posts">
-            <h2 class="related-heading">Keep reading</h2>
-            <div class="related-grid">
-            <a href="posture-and-osteoporosis.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-posture-and-osteoporosis-400.webp 400w, ../images/blog-posture-and-osteoporosis-800.webp 800w, ../images/blog-posture-and-osteoporosis-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-posture-and-osteoporosis.png" alt="A woman in her late fifties with silver hair sits at a wooden desk in profile with upright posture, back straight and shoulders back, near a sunny window" width="1774" height="887" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Exercise</span>
-                    <h3 class="related-card-title">Posture and Osteoporosis: Why It Matters More Than You Think</h3>
-                </div>
-            </a>
-            <a href="fall-proofing-whole-house.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-fall-proofing-whole-house-400.webp 400w, ../images/blog-fall-proofing-whole-house-800.webp 800w, ../images/blog-fall-proofing-whole-house-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-fall-proofing-whole-house.png" alt="A warmly lit modern home interior showing low-pile carpet transitioning to wood flooring, a staircase with a sturdy handrail, a curbless walk-in shower visible through a doorway, and a pair of supportive house shoes by the door" width="1672" height="941" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Fall Prevention</span>
-                    <h3 class="related-card-title">Fall-Proofing Isn&#x27;t Just for Seniors: A Whole-House Guide</h3>
-                </div>
-            </a>
-            <a href="fall-risk-medications.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-fall-risk-meds-400.webp 400w, ../images/blog-fall-risk-meds-800.webp 800w, ../images/blog-fall-risk-meds-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-fall-risk-meds.png" alt="Medication bottles on a kitchen counter" width="2752" height="1536" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Fall Prevention</span>
-                    <h3 class="related-card-title">The Medications That Might Be Increasing Your Fall Risk</h3>
-                </div>
-            </a>
-            </div>
-        </aside>]]></content>
+        
+<!-- mbh:body:end -->]]></content>
     <author>
       <name>Lisa Pocius, MD</name>
       <email>lisa.pocius@gmail.com</email>
@@ -4118,9 +3155,10 @@
     <id>https://mybone.health/blog/grocery-guide.html</id>
     <updated>2026-03-09T00:00:00Z</updated>
     <published>2026-03-09T00:00:00Z</published>
-    <category term="Nutrition" />
+    <category term="Food, calcium and vitamin D" />
     <summary>An aisle-by-aisle guide to grocery shopping for bone health. Learn which foods provide calcium, vitamin D, K2, magnesium, and protein for stronger bones.</summary>
-    <content type="html"><![CDATA[<p>Calcium gets all the attention when it comes to bone health. And calcium matters, absolutely. But it doesn't work alone. It has teammates, and without them, much of what you're doing for your bones falls short.</p>
+    <content type="html"><![CDATA[<!-- mbh:body:start -->
+        <p>Calcium gets all the attention when it comes to bone health. And calcium matters, absolutely. But it doesn't work alone. It has teammates, and without them, much of what you're doing for your bones falls short.</p>
 
         <p>After my own osteoporosis diagnosis, I started paying attention to my grocery cart in a way I never had before. I'd been a doctor for 25 years, and yet I was standing in the dairy aisle reading labels like a first-year nutrition student. What I learned changed how I shop, and I think it can change how you shop too.</p>
 
@@ -4178,41 +3216,8 @@
 
         
         
-        <!-- Ask Lisa: reader question form -->
-
-        <!-- Related Posts -->
-        <aside class="related-posts" aria-label="Related posts">
-            <h2 class="related-heading">Keep reading</h2>
-            <div class="related-grid">
-            <a href="vitamin-d-and-sunshine.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-vitamin-d-and-sunshine-400.webp 400w, ../images/blog-vitamin-d-and-sunshine-800.webp 800w, ../images/blog-vitamin-d-and-sunshine-1536.webp 1536w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-vitamin-d-and-sunshine.png" alt="A woman in her late fifties with silver hair sits on a garden bench in gentle morning sunlight with her forearms bare and eyes softly closed" width="1536" height="1024" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Nutrition</span>
-                    <h3 class="related-card-title">Sunshine and Vitamin D: What Actually Works, and What Does Not</h3>
-                </div>
-            </a>
-            <a href="vitamin-d-bone-health.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-vitamin-d-bone-health-400.webp 400w, ../images/blog-vitamin-d-bone-health-800.webp 800w, ../images/blog-vitamin-d-bone-health-1536.webp 1536w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-vitamin-d-bone-health.png" alt="A man in his fifties sitting on a wooden garden bench in warm afternoon sunlight, wearing shorts and a short-sleeve shirt, with bare arms and legs exposed to the sun" width="1536" height="1024" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Nutrition</span>
-                    <h3 class="related-card-title">Vitamin D and Your Bones: What Actually Matters</h3>
-                </div>
-            </a>
-            <a href="protein-and-calcium.html" class="related-card">
-                <div class="related-card-image">
-                    <picture><source type="image/webp" srcset="../images/blog-protein-400.webp 400w, ../images/blog-protein-800.webp 800w, ../images/blog-protein-1536.webp 1536w" sizes="(max-width: 768px) 100vw, 320px"><img src="../images/blog-protein.png" alt="Overhead view of bone-supportive foods including salmon, Greek yogurt, milk, egg, kale and white beans, and aged cheese" width="1536" height="1024" loading="lazy" decoding="async"></picture>
-                </div>
-                <div class="related-card-body">
-                    <span class="related-card-tag">Nutrition</span>
-                    <h3 class="related-card-title">Protein, Calcium, and the Mistake of Picking One: What Your Bones Actually Need at Once</h3>
-                </div>
-            </a>
-            </div>
-        </aside>]]></content>
+        
+<!-- mbh:body:end -->]]></content>
     <author>
       <name>Lisa Pocius, MD</name>
       <email>lisa.pocius@gmail.com</email>
