@@ -111,7 +111,7 @@ def strip_styles(head):
 
 
 def add_css(head, p):
-    tag = f'\n    <!-- mbh-style-a -->\n    {FONTS}\n    <link rel="stylesheet" href="{p}css/site.css?v=1">'
+    tag = f'\n    <!-- mbh-style-a -->\n    {FONTS}\n    <link rel="stylesheet" href="{p}css/site.css?v=2">'
     return head.replace("</head>", tag + "\n</head>", 1) if "</head>" in head else head + tag + "\n"
 
 
