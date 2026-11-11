@@ -201,15 +201,55 @@
   </div>
 </div></section>
 
-<section class="reviews" aria-label="Reader reviews from Goodreads"><div class="wrap">
+<section class="reviews" aria-label="Reader reviews"><div class="wrap">
   <h2 class="section-title">What readers are saying</h2>
-  <div id="goodreads-widget">
-                <div id="gr_header"><h2><a rel="nofollow" href="https://www.goodreads.com/book/show/253580376-osteoporosis">Reader Reviews on Goodreads</a></h2></div>
-                <iframe sandbox id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&format=html&header_text=Reader+Reviews+on+Goodreads&isbn=9798995564607&links=1a365d&min_rating=4&num_reviews=&review_back=ffffff&stars=1a365d&stylesheet=&text=2d3748" width="720" height="520" frameborder="0"></iframe>
-                <div id="gr_footer">
-                    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/253580376-osteoporosis?utm_medium=api&utm_source=reviews_widget">Reviews from Goodreads.com</a>
-                </div></div>
+  <!-- Reviews copied from Goodreads and Amazon on Nov 10, 2026. Update by hand when new reviews come in. -->
+  <div class="rev-carousel" aria-roledescription="carousel" aria-label="Reader reviews">
+    <div class="rev-track" id="revTrack" tabindex="0">
+    <figure class="rev" role="group" aria-roledescription="review" aria-label="Review 1 of 7">
+      <blockquote><p>I was diagnosed 18 months ago and have since been paralyzed by the fear of medication vs no medication. Lisa Pocius MD removed all that fear in this book. &hellip; Doctors should be handing this out at diagnosis.</p></blockquote>
+      <figcaption><strong>Michelle P.</strong><span>Goodreads, advance reader copy</span></figcaption>
+    </figure>
+    <figure class="rev" role="group" aria-roledescription="review" aria-label="Review 2 of 7">
+      <blockquote><p>Wish I would have had a book like this 15 years ago.</p></blockquote>
+      <figcaption><strong>Hazel</strong><span>Amazon, verified purchase</span></figcaption>
+    </figure>
+    <figure class="rev" role="group" aria-roledescription="review" aria-label="Review 3 of 7">
+      <blockquote><p>I was recently diagnosed with severe osteoporosis at the age of 39. I felt a bit lost in all the information, which was mainly geared towards people in an older age group. Thanks to this book, I not only received structured tools to work with, but also mental peace.</p></blockquote>
+      <figcaption><strong>Kimberley M.</strong><span>Goodreads, advance reader copy</span></figcaption>
+    </figure>
+    <figure class="rev" role="group" aria-roledescription="review" aria-label="Review 4 of 7">
+      <blockquote><p>This book is very comprehensive and was an easy read. This was a great book, especially if you have been newly diagnosed with osteoporosis.</p></blockquote>
+      <figcaption><strong>Frank P.</strong><span>Amazon, verified purchase</span></figcaption>
+    </figure>
+    <figure class="rev" role="group" aria-roledescription="review" aria-label="Review 5 of 7">
+      <blockquote><p>Written in a pleasant informational narrative style, this book provides easy-to-understand information about osteoporosis that is supportive for readers without a medical background. The chapter describing different osteoporosis medications and their methods of action was particularly helpful.</p></blockquote>
+      <figcaption><strong>Beth</strong><span>Goodreads, free review copy</span></figcaption>
+    </figure>
+    <figure class="rev" role="group" aria-roledescription="review" aria-label="Review 6 of 7">
+      <blockquote><p>I wanted to read this book, principally because my mother had been diagnosed with severe osteoporosis &hellip; I liked the fact you could jump to the action plans to get started right away and start making changes.</p></blockquote>
+      <figcaption><strong>Loretta C.</strong><span>Amazon UK, free review copy</span></figcaption>
+    </figure>
+    <figure class="rev" role="group" aria-roledescription="review" aria-label="Review 7 of 7">
+      <blockquote><p>This book presents the information that you need to know in an easy to read and thorough manner.</p></blockquote>
+      <figcaption><strong>Mary</strong><span>Goodreads, advance reader copy</span></figcaption>
+    </figure>
+    </div>
+    <div class="rev-controls">
+      <button type="button" class="btn secondary" id="revPrev" aria-controls="revTrack">&larr; Previous</button>
+      <p class="rev-count" id="revCount" aria-live="polite">1 of 7</p>
+      <button type="button" class="btn secondary" id="revNext" aria-controls="revTrack">Next &rarr;</button>
+    </div>
+  </div>
+  <p class="rev-more">Read every review on <a href="https://www.goodreads.com/book/show/253580376-osteoporosis" target="_blank" rel="noopener">Goodreads</a> or <a href="https://www.amazon.com/dp/B0H3P1JFK4#customerReviews" target="_blank" rel="noopener">Amazon</a>.</p>
 </div></section>
+<script>
+(function(){var t=document.getElementById('revTrack');if(!t)return;var s=t.children,c=document.getElementById('revCount'),i=0;
+function go(n){i=(n+s.length)%s.length;t.scrollTo({left:s[i].offsetLeft-t.offsetLeft,behavior:'smooth'});c.textContent=(i+1)+' of '+s.length;}
+document.getElementById('revPrev').onclick=function(){go(i-1)};document.getElementById('revNext').onclick=function(){go(i+1)};
+var tm;t.addEventListener('scroll',function(){clearTimeout(tm);tm=setTimeout(function(){var k=Math.round(t.scrollLeft/t.clientWidth);if(k!==i){i=k;c.textContent=(i+1)+' of '+s.length;}},120)});
+t.addEventListener('keydown',function(e){if(e.key==='ArrowRight'){e.preventDefault();go(i+1)}if(e.key==='ArrowLeft'){e.preventDefault();go(i-1)}});})();
+</script>
 
 <section class="freebie"><div class="wrap">
   <div class="free-box">
