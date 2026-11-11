@@ -1,0 +1,7 @@
+# Keep the audiobook companion PDFs out of search results.
+# Listeners reach them only through the direct link in the audiobook.
+<IfModule mod_headers.c>
+  <FilesMatch "^(osteoporosis-audiobook-companion|osteoporosis-30-day-plan)\.pdf$">
+    Header set X-Robots-Tag "noindex, nofollow, noarchive"
+  </FilesMatch>
+</IfModule>
