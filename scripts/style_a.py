@@ -91,7 +91,7 @@ def header(p, active=""):
 def footer(p):
     return f'''<footer class="site-footer"><div class="wrap">
   <nav class="links" aria-label="Footer">
-    <a href="{p}about.html">About Lisa</a><a href="{p}blog/">Articles</a><a href="{p}books/">Books</a><a href="{p}listen/">Audiobook</a><a href="{p}faq.html">FAQ</a><a href="{p}index.html#newsletter">Monthly letter</a><a href="https://www.facebook.com/mybonehealth/" target="_blank" rel="noopener noreferrer">Contact</a><a href="{p}privacy.html">Privacy</a><a href="{p}editorial-policy.html">Editorial policy</a><a href="{p}medical-disclaimer.html">Medical disclaimer</a>
+    <a href="{p}about.html">About Lisa</a><a href="{p}blog/">Articles</a><a href="{p}books/">Books</a><a href="{p}faq.html">FAQ</a><a href="{p}index.html#newsletter">Monthly letter</a><a href="mailto:lisa@mybone.health">Contact</a><a href="{p}privacy.html">Privacy</a><a href="{p}editorial-policy.html">Editorial policy</a><a href="{p}medical-disclaimer.html">Medical disclaimer</a>
   </nav>
   <a class="fb" href="https://www.facebook.com/mybonehealth/" target="_blank" rel="noopener noreferrer" aria-label="Follow on Facebook" title="Follow on Facebook">{FB_SVG}</a>
   <p>&copy; {datetime.now().year} Lisa Pocius, MD. All rights reserved.</p>
