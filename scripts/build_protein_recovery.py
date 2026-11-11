@@ -211,7 +211,10 @@ def build_post_page():
         "sameAs": [
             "https://www.goodreads.com/author/show/70033876.Lisa_Pocius_MD",
             "https://www.amazon.com/stores/Lisa-Pocius-MD/author/B0H35GD38J",
-            "https://www.facebook.com/mybonehealth/"
+            "https://www.facebook.com/mybonehealth/",
+            "https://www.instagram.com/mybone.health/",
+            "https://www.youtube.com/@MyBoneHealth",
+            "https://www.tiktok.com/@mybonehealth"
         ],
         "knowsAbout": [
             "Osteoporosis", "Bone health", "Bisphosphonates",
