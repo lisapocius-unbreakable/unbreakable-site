@@ -33,10 +33,10 @@ STATIC_PAGES = [
     {"loc": f"{BASE_URL}/faq.html",                                  "changefreq": "monthly", "priority": "0.8"},
     {"loc": f"{BASE_URL}/blog/",                                     "changefreq": "weekly",  "priority": "0.9"},
     {"loc": f"{BASE_URL}/books/",                                    "changefreq": "monthly", "priority": "0.8"},
+    {"loc": f"{BASE_URL}/books/osteoporosis-exercises-for-beginners/", "changefreq": "monthly", "priority": "0.8"},
     {"loc": f"{BASE_URL}/free/calcium-protein-cheat-sheet.html",     "changefreq": "monthly", "priority": "0.8"},
     {"loc": f"{BASE_URL}/editorial-policy.html",                     "changefreq": "yearly",  "priority": "0.7"},
     {"loc": f"{BASE_URL}/medical-disclaimer.html",                   "changefreq": "yearly",  "priority": "0.6"},
-    {"loc": f"{BASE_URL}/privacy.html",                              "changefreq": "yearly",  "priority": "0.3"},
 ]
 
 # Files in blog/ that aren't individual blog posts (the index, drafts, etc.)
