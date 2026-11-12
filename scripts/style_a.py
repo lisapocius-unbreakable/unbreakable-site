@@ -235,7 +235,7 @@ def render_post(post, posts, shelves, feelings_live):
 <div class="post-head">
   <a class="post-tag-link" href="./#{key}"><span class="post-tag">{sname}</span></a>
   <h1>{html.escape(post["title"])}</h1>
-  <div class="byline"><img src="../images/author-headshot-400.webp" alt="" width="56" height="56"><div><strong>Lisa Pocius, MD</strong><p class="post-meta">{post["date_text"]} &middot; About a {post["minutes"]}-minute read</p></div></div>
+  <div class="byline"><img src="../images/author-headshot-400.webp" alt="" width="56" height="56"><div><strong>Lisa Pocius, MD</strong><p class="post-meta">{post["date_text"]} &middot; About {"an" if str(post["minutes"]).startswith("8") or str(post["minutes"]) in ("11","18") else "a"} {post["minutes"]}-minute read</p></div></div>
 </div>
 {hero}
 <article class="post-body">
